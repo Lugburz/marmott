@@ -1,0 +1,270 @@
+{
+    "comics" : [
+        {
+            "name" : "Dédales",
+            "author" : "Charles Burns",
+            "image"  : "dedales.jpg",
+            "post"   : "dedales",
+            "volumes" : 1,
+            "still_going" : true,
+
+            "description" : "Encore une oeuvre de Charles Burns. Pas encore lue.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "glauque", "drogues", "tranche de vie", "bizarre", "Burns" ]
+        },
+        {
+            "name" : "Le roi des Mouches",
+            "author" : "Mezzo & Pirus",
+            "image"  : "roi_des_mouches.jpg",
+            "post"   : "roi_des_mouches",
+            "volumes" : 3,
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : "Eric",
+
+            "tags" : [ "glauque", "drogues", "tranche de vie" ]
+        },
+        {
+            "name" : "Une erreur de parcours",
+            "author" : "Frank Biancarelli & Denis Robert",
+            "image"  : "une-erreur-de-parcours.jpg",
+            "post"   : "une_erreur_de_parcours",
+
+            "description" : "Alors qu'il s'apprête à devenir juge, Sylvestre se retrouve face à une enquête qui va marquer sa carrière. Un homme a disparu, et tous les indices semblent pointer vers son ancienne compagne Mathilde, une femme caractérielle dont l'attitude et les supposés rituels ésothériques vont grandement perturber Sylvestre. Si vous ajoutez à cela le bruit et l'odeur de son propre couple qui bat de l'aile, le Sylvestre il devient fou.<br /><br />Pas dispo parce que dédicassé par l'auteur maggle, j'y tiens tavu.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "polar", "enquête", "tranche de vie" ]
+        },
+        {
+            "name" : "Lupus",
+            "author" : "Frederik Peeters",
+            "image"  : "lupus.jpg",
+            "post"   : "lupus",
+
+            "volumes" : 4,
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["scifi", "tranche de vie", "Peeters" ]
+        },
+        {
+            "name" : "Bonne nuit Punpun",
+            "author" : "Asano Inio",
+            "image"  : "Bonne_nuit_Punpun.jpg",
+            "post"   : "Bonne_nuit_Punpun",
+
+            "volumes" : 13,
+
+            "description" : "L'histoire d'un petit oiseau mignon.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : ["glauque", "tranche de vie", "nostalgie", "dépression", "Asano" ]
+        },
+        {
+            "name" : "Le troisième Testament",
+            "author" : "Xavier Dorison & Alex Alice",
+            "image"  : "troisieme_testament.jpg",
+            "post"   : "troisieme_testament",
+
+            "volumes" : 4,
+
+            "description" : "Prêté par Fred.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : false,
+
+            "tags" : ["historique", "action", "fantaisie", "ésothérisme" ]
+        },
+        {
+            "name" : "Le sculpteur",
+            "author" : " Scott McCloud",
+            "image"  : "sculpteur.jpg",
+            "post"   : "sculpteur",
+
+            "description" : "Loser sans vrai talent, David Smith est convaincu qu'il doit marquer le monde avec une oeuvre, une sculpture qui fera la différence. Du coup forcément quand le Diable lui propose un deal foireux, il accepte sans sourciller, confiant qu'il n'a de toute façon plus rien à perdre.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["tranche de vie", "couple", "drama", "ésothérisme" ]
+        },
+        {
+            "name" : "Bolchoi Arena",
+            "author" : " Boulet & Aseyn",
+            "image"  : "bolchoi_arena.jpg",
+            "post"   : "bolchoi_arena",
+            "volumes" : 1,
+            "still_going" : true,
+
+            "description" : "Deux amies découvrent ensemble le \"Bolchoi\", un univers virtuel où différents mondes fantaisistes se cotoient. Etudiante en astrophysiques, Marjorie s'intéresse principalement à la conquête spaciale et, malgré son approche initalement purement scientifique du Bolchoi, se prend rapidement au jeu des combats de p'tits vaisseaux qui font pew pew. <br /><br /><em>\"Ca me rappelle Ghost in the shell graphiquement. Comment ça tu connais pas GitS?\"</em> - John.<br /><em>\"C'est chanmé frère.\"</em> - Matthieu.<br /><em>\"Ah oui ça j'ai lu, c'est cool mais y'a pas la suite, sa daronne la reine des putes.\"</em> - Stéphane.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["scifi", "Boulet", "série", "pew pew"]
+            
+        },
+        {
+            "name" : "La page blanche",
+            "author" : "Boulet & Pénélope Bagieu",
+            "image"  : "La-page-blanche.jpg",
+            "post"   : "la-page-blanche",
+
+            "description" : "Une jeune femme se retrouve soudainement sur un banc à Paris sans la moindre idée de ce qu'elle fait ici, ni qui elle est. Complètement paummée, elle va tenter de reconstruire le puzzle de sa vie, mais chaque nouvelle pièce ajoutée est tout aussi mondaine et vide de sens que la précédente.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["tranche de vie", "Boulet" ]
+            
+        },
+        {
+            "name" : "Toxic, La ruche, Calavera",
+            "author" : "Charles Burns",
+            "image"  : "toxic.jpg",
+            "post"   : "toxic",
+
+            "description" : "A lire dans ce sens, c'est mieux.<br />",
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["bizarre", "drogues", "couple", "drama", "Burns" ]
+            
+        },
+        {
+            "name" : "Dans un rayon de soleil",
+            "author" : "Tillie Walden",
+            "image"  : "in_a_sunbeam.jpg",
+            "post"   : "in_a_sunbeam",
+
+            "description" : "De la tranche de vie dans l'espace avec des vaisseaux poissons et des filles, <em>que</em> des filles.<br /><br /> <em>\"C'est onirique on va dire\"</em><br /><br />Egalement disponible gratuitement en VO sur le site de l'auteure.",
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["onirique", "scifi", "tranche de vie", "couple", "lgbtqr+", "Un gros pavé mais ça se lit vite en vrai."]
+
+        },
+        {
+            "name" : "Julia & Roem",
+            "author" : "Enki Bilal",
+            "image"  : "julia_et_roem.jpg",
+            "post"   : "julia_et_roem",
+
+            "description" : "Dans un futur apocalyptique, des survivants s'ammassent dans un hotel en ruine. C'est marrant, tout le monde porte un nom qui ressemble à celui d'un personnage de Roméo et Juliette... L'oeuvre de Shakespear semble hanter les lieux et il faudra ruser pour éviter d'arriver à la même conclusion.<br /><br />Graphiquement, c'est du Bilal, en assez sombre et monochrome. Quant à l'histoire, ça n'a aucun sens et pourtant ça semble en faire, étrangement.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["scifi", "tranche de vie", "couple", "drama", "wtf"]
+        },
+        {
+            "name" : "La débauche",
+            "author" : "Tardi & Pennac",
+            "image"  : "la_debauche.jpg",
+            "post"   : "la_debauche",
+
+            "description" : "Dispo, mais c'est à Matthieu.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : ["humour", "polar"]
+        },
+        {
+            "name" : "La Fille dans l'écran",
+            "author" : "Lou Lubie & Manon Desveaux",
+            "image"  : "La-fille-dans-l-ecran.jpg",
+            "post"   : "La-fille-dans-l-ecran",
+
+            "description" : "Un bouquin avec un principe de base intéressant : deux dessinatrices qui s'occupent chacune de leur personnage.<br />La page de gauche raconte donc la vie de Coline, qui vit en France, et à droite on a l'histoire de Marley, qui vit au Québec.<br /><br />La couverture spoile comme c'est pas permis, mais ça finit donc en romance. Et c'est niais du cul, mais j'assume, j'aime bien.<br /><br />Pas dispo parce que c'est trop niais pour mon image publique.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : ["couple", "tranche de vie", "lgbtqr+"]
+        },
+        {
+            "name" : "Isadora",
+            "author" : "Julie Birmant & Clément Oubrerie",
+            "image"  : "isadora.jpg",
+            "post"   : "isadora",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["biographie", "historique"]
+        },
+        {
+            "name" : "Adrastée",
+            "author" : "Mathieu Bablet",
+            "image"  : "adrastee.jpg",
+            "post"   : "adrastee",
+
+            "description" : "Intégrale des deux volumes.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["mythologie", "onirique", "Bablet"]
+        },
+        {
+            "name" : "Shangri-La",
+            "author" : "Mathieu Bablet",
+            "image"  : "shangri-la.jpg",
+            "post"   : "shangri-la",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["scifi", "dystopie", "Bablet"]
+        },
+        {
+            "name" : "Conan - Les Comic Strips inédits",
+            "author" : "Thomas Roy & Buscema John & Chan Ernie",
+            "image"  : "conan-strips.jpg",
+            "post"   : "conan-strips",
+
+            "description" : "\"Inédits\" => en France, ou en tout cas dans une version propre.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["comics", "old school", "conan"]
+               
+        }        
+        
+    ]
+}

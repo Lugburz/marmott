@@ -1,0 +1,86 @@
+.comics-list-item {
+    display: flex;
+    flex-direction: row;
+    min-height: 200px;
+
+    margin-bottom: 10px;
+}
+
+.comic-thumbnail {
+    flex-shrink: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.comic-thumbnail > img {
+    max-width: 200px;
+    display: block;
+    margin-top: auto;
+}
+
+.comic-description {
+    flex:1;
+    margin-left:10px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.comic-title {
+    /* font-weight: bold;    */
+    font-size:1.2em;
+    padding-bottom: 8px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.comic-title,
+.comic-volumes,
+.comic-author {
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.comic-volumes {
+    padding-top : 4px; 
+}
+
+.comic-volumes,
+.comic-author {
+    font-style: italic;
+}
+
+.comic-text {
+    font-size:1em;
+    flex-grow: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.comic-tags {
+    margin-bottom: 5px;
+}
+
+.comic-tag {
+    color:white;
+    background-color: #333;
+    padding: 2px 4px 2px 5px;
+
+    border-radius: 10%;
+}
+
+.comic-unavailable {
+    border-radius:50%;
+    background-color:red;
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+}
+
+.comic-available {
+    border-radius:50%;
+    background-color:lime;
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+}
