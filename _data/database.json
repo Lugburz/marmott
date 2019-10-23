@@ -735,7 +735,7 @@
             "tags" : ["manga","horreur","paranormal","couple"]
         },
         {
-            "name" : "Tyr Nan Og",
+            "name" : "Tir Nan Og",
             "author" : "Georges Reynolds ",
             "image"  : "tir_nan_og.jpg",
             "post"   : "tir_nan_og",
@@ -746,7 +746,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["artbook","boobs","onirique"]
+            "tags" : ["artbook","boobs","fantaisie"]
         },
         {
             "name" : "Le circuit Mandelberg",
