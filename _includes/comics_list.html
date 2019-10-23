@@ -38,7 +38,11 @@
             </div>
             <div class="comic-tags">
                 {% for tag in comic.tags %}
-                <span class="comic-tag">{{ tag }}</span>
+                <span class="comic-tag" data-tag="{{tag|slugify|cgi_escape }}">
+                    <a href="{{ site.baseurl }}/tag/{{tag|slugify|cgi_escape }}">
+                        {{ tag }}
+                    </a>
+                </span>
                 
                 {% endfor %}
             </div>
