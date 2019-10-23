@@ -321,6 +321,36 @@
             "rented_by" : null,
 
             "tags" : ["glauque", "zombies", "ados", "drogues"]
+        },
+        {
+            "name" : "Les Miettes",
+            "author" : "Ibn Al Rabin & Frederik Peeters",
+            "image"  : "les_miettes.jpg",
+            "post"   : "les_miettes",
+
+            "description" : "TODO", 
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["humour", "Peeters"]
+               
+        },
+        {
+            "name" : "Siegfried",
+            "author" : "Alex Alice",
+            "image"  : "siegfried.jpg",
+            "post"   : "siegfried",
+            "volumes":3,
+
+            "description" : "Une version un peu \"Disney-ifiée\" de la légende de Siegfried. Et je dis pas ça en mal. ", 
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["mythologie", "Alex Alice"]
                
         }
         
