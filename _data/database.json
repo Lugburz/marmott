@@ -279,6 +279,35 @@
 
             "tags" : ["historique", "aventures"]
                
+        },
+        {
+            "name" : "Julius Corentin Acquefacques - Le décalage",
+            "author" : "Marc-Antoine Mathieu",
+            "image"  : "le_decalage.jpg",
+            "post"   : "le_decalage",
+
+            "description" : "que la couverture est en fait la septième page. Une BD très \"meta\" qui parle de la BD et de la narration en général.<br /><br />L'histoire en elle-même n'a rien d'incroyable mais comme souvent avec Marc-Antoine Mathieu on a affaire à un bel objet et une expérience de lecture un peu unique.<br /><br />La première chose qu'on remarque avec cette BD c'est",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["meta", "experimental", "Marc-Antoine Mathieu"]
+        },
+        {
+            "name" : "THE BLACK HOLES",
+            "author" : "Borja González",
+            "image"  : "the_black_holes.jpg",
+            "post"   : "the_black_holes",
+
+            "description" : "A ne pas confondre avec Black Hole de Burns, on est ici sur une BD de type mignon.<br /><br />L'histoire en elle-même est assez abstraite, on suit à la fois trois ados qui veulent monter un groupe de punk et une jeune femme, des siècles plus tôt, qui écrit des poèmes maccabres.<br /><br />Le dessin pourrait en rebutter certains, González étant adepte d'une sorte de \"minimalisme foisonnant\" très coloré. Personnellement j'aime beaucoup, ça a un côté jeu retro ces palettes limitées et ces personnages sans visages.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["onirique", "ados"]
+               
         }        
         
     ]
