@@ -14,7 +14,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "glauque", "drogues", "tranche de vie", "bizarre", "Burns" ]
+            "tags" : [ "glauque", "drogues", "tranche de vie", "bizarre", "Charles Burns" ]
         },
         {
             "name" : "Le roi des Mouches",
@@ -43,7 +43,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "polar", "enquête", "tranche de vie" ]
+            "tags" : [ "polar", "tranche de vie" ]
         },
         {
             "name" : "Lupus",
@@ -90,11 +90,11 @@
             "added_date" : "2019-10-19",
             "owned"     : false,
 
-            "tags" : ["historique", "action", "fantaisie", "ésothérisme" ]
+            "tags" : ["historique", "action", "fantaisie", "ésothérisme", "Alex Alice" ]
         },
         {
             "name" : "Le sculpteur",
-            "author" : " Scott McCloud",
+            "author" : "Scott McCloud",
             "image"  : "sculpteur.jpg",
             "post"   : "sculpteur",
 
@@ -108,7 +108,7 @@
         },
         {
             "name" : "Bolchoi Arena",
-            "author" : " Boulet & Aseyn",
+            "author" : "Boulet & Aseyn",
             "image"  : "bolchoi_arena.jpg",
             "post"   : "bolchoi_arena",
             "volumes" : 1,
@@ -149,7 +149,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["bizarre", "drogues", "couple", "drama", "Burns" ]
+            "tags" : ["bizarre", "drogues", "couple", "drama", "Charles Burns" ]
             
         },
         {
@@ -320,7 +320,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["glauque", "zombies", "ados", "drogues"]
+            "tags" : ["glauque", "zombies", "ados", "drogues", "Charles Burns"]
         },
         {
             "name" : "Les Miettes",
@@ -350,7 +350,52 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["mythologie", "Alex Alice"]
+            "tags" : ["mythologie", "fantaisie", "Alex Alice"]
+               
+        },
+        {
+            "name" : "Démon",
+            "author" : "Jason Shiga",
+            "image"  : "demon.jpg",
+            "post"   : "demon",
+
+            "description" : "Démon c'est l'histoire d'un mec qui essaye de se suicider après un hold-up raté, mais se retrouve à chaque fois dans le corps de la personne la plus proche de lui. La découverte d'un super pouvoir pété, un \"super-héro\" sans grandes valeurs morales : on est sur un scénario assez classique et qui a déjà fait ses preuves. Pour ce qui est du ton global du bouquin, l'intro en première page est claire : on est pas là pour faire dans la subtilité.<br /><br />L'auteur a vraiment poussé le délire trashouille très loin, avec des morts de plus en plus violentes et débiles (tout un passage où le personnage principal réfléchit à comment se suicider avec 2 feuilles de PQ double épaisseur...).<br /><br />Le dessin en lui-même est très simple, on est sur un format cartoon/bonhommes-patates propre à beaucoup de comics en ligne (car oui de base c'était un webcomics), mais c'est ça aussi qui permet beaucoup de liberté créative à l'auteur, pour des scènes toujours plus trash et démentielles.", 
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["humour", "gore", "Un gros pavé mais ça se lit vite en vrai."]
+               
+        },
+        {
+            "name" : "L'obsolescence programmée de nos sentiments",
+            "author" : "Zidrou & Aimée De Jongh",
+            "image"  : "obsolescence_programmee_de_nos_sentiments.jpg",
+            "post"   : "obsolescence_programmee_de_nos_sentiments",
+
+            "description" : "Ici on parle de la vie sexuelle des vieux, avec un senior fraichement retraité (contre son grès) qui décide de ne pas se laisser abattre, et qui veut se prouver qu'il a encore beaucoup à donner. C'est du Zidrou, donc comme d'habitude ça parle de la vie, de la mort aussi beaucoup, et de ce qu'on fait en l'attendant.", 
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["Zidrou", "tranche de vie", "gérontophilie"]
+               
+        },
+        {
+            "name" : "Pendant que le roi de Prusse faisait la guerre qui donc lui reprisait ses chaussettes ?",
+            "author" : "Zidrou & Roger",
+            "image"  : "roi_de_prusse.jpg",
+            "post"   : "roi_de_prusse",
+
+            "description" : "Le quotidien parfois difficile d'une mère et de son enfant de 30 ans, handicapé mental suite à un accident. De la tranche de vie émouvante comme sait si bien le faire Zidrou.", 
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["Zidrou", "tranche de vie", "handicap"]
                
         }
         
