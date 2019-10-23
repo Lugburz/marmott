@@ -2,6 +2,8 @@
   we expect a collection named "comics" already assigned in parent page
 {% endcomment %}
 
+<span class="comics-count">{{comics.size}}</span> / {{site.data.database.comics.size}}
+
 {% for comic in comics %}
 
     <div class="comics-list-item">

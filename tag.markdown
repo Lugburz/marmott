@@ -37,6 +37,10 @@ Par tag : <span id="tag-name"></span>
         $('#tag-name').html(decodeURIComponent(tag).replace(/-/g, ' '));
 
         $('#comics-list .comics-list-item').hide();
-        $('#comics-list').find('.comic-tag[data-tag="' + tag + '"]').closest('.comics-list-item').show();
+        var $nodes = $('#comics-list').find('.comic-tag[data-tag="' + tag + '"]').closest('.comics-list-item');
+        
+        $nodes.show();
+
+        $('.comics-count').html($nodes.length);
     });
 </script>
