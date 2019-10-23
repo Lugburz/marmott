@@ -37,7 +37,7 @@
             "image"  : "une-erreur-de-parcours.jpg",
             "post"   : "une_erreur_de_parcours",
 
-            "description" : "Alors qu'il s'apprête à devenir juge, Sylvestre se retrouve face à une enquête qui va marquer sa carrière. Un homme a disparu, et tous les indices semblent pointer vers son ancienne compagne Mathilde, une femme caractérielle dont l'attitude et les supposés rituels ésothériques vont grandement perturber Sylvestre. Si vous ajoutez à cela le bruit et l'odeur de son propre couple qui bat de l'aile, le Sylvestre il devient fou.<br /><br />Pas dispo parce que dédicassé par l'auteur maggle, j'y tiens tavu.",
+            "description" : "Alors qu'il s'apprête à devenir juge, Sylvestre se retrouve face à une enquête qui va marquer sa carrière. Un homme a disparu, et tous les indices semblent pointer vers son ancienne compagne Mathilde, une femme caractérielle dont l'attitude et les supposés rituels ésothériques vont grandement perturber Sylvestre. Si vous ajoutez à cela le bruit et l'odeur de son propre couple qui bat de l'aile, le Sylvestre il devient fou.<br /><br />(Pas dispo parce que dédicacé par l'auteur maggle, j'y tiens tavu.)",
 
             "added_date" : "2019-10-19",
             "owned"     : false,
@@ -118,7 +118,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Cyril",
 
             "tags" : ["scifi", "Boulet", "série", "pew pew"]
             
@@ -176,7 +176,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Eric",
 
             "tags" : ["scifi", "tranche de vie", "couple", "drama", "wtf"]
         },
@@ -246,7 +246,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Fred",
 
             "tags" : ["scifi", "dystopie", "Bablet"]
         },
@@ -263,6 +263,21 @@
             "rented_by" : null,
 
             "tags" : ["comics", "old school", "conan"]
+               
+        },
+        {
+            "name" : "Les Indes Fourbes",
+            "author" : "Alain Ayroles & Juanjo Guarnido",
+            "image"  : "les_indes_fourbes.jpg",
+            "post"   : "les_indes_fourbes",
+
+            "description" : "L'histoire de don Pablos de Ségovie, fieffé coquin, vagabond solitaire que le travail insupporte.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["historique", "aventures"]
                
         }        
         
