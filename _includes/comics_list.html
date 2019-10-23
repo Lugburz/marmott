@@ -38,8 +38,8 @@
             </div>
             <div class="comic-tags">
                 {% for tag in comic.tags %}
-                <span class="comic-tag" data-tag="{{tag|slugify|cgi_escape }}">
-                    <a href="{{ site.baseurl }}/tag/{{tag|slugify|cgi_escape }}">
+                <span class="comic-tag" data-tag="{{tag|slugify }}">
+                    <a href="{{ site.baseurl }}/tag?t={{ tag|slugify|cgi_escape }}">
                         {{ tag }}
                     </a>
                 </span>
