@@ -307,8 +307,22 @@
             "rented_by" : null,
 
             "tags" : ["onirique", "ados"]
+        },
+        {
+            "name" : "Black Hole",
+            "author" : "Charles Burns",
+            "image"  : "black_hole.jpg",
+            "post"   : "black_hole",
+
+            "description" : "TODO", 
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["glauque", "zombies", "ados", "drogues"]
                
-        }        
+        }
         
     ]
 }
