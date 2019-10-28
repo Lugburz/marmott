@@ -190,7 +190,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "couple", "lgbtqr+", "lecture rapide", "Tillie Walden"]
+            "tags" : ["tranche de vie", "couple", "lgbtqr+", "court", "Tillie Walden"]
 
         },
         {
@@ -422,7 +422,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["Zidrou", "gore", "paranormal"]
+            "tags" : ["Zidrou", "gore", "paranormal", "court"]
                
         },
         {
@@ -774,7 +774,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["experimental", "scifi"]
+            "tags" : ["experimental", "scifi", "court"]
         },
         {
             "name" : "La Mort Vivante",
@@ -817,6 +817,19 @@
             "rented_by" : null,
 
             "tags" : ["historique", "biographie"]
+        },
+        {
+            "name" : "L'âge d'Or",
+            "author" : "Roxanne Moreil & Cyril Pedrosa",
+            "image"  : "age_dor.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["fantaisie", "conte"]
 
         }
         
