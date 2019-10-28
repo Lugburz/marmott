@@ -832,6 +832,19 @@
             "rented_by" : "un pote",
 
             "tags" : ["fantaisie", "conte"]
+        },
+        {
+            "name" : "Dors bien, petite fille",
+            "author" : "Sergio Bleda",
+            "image"  : "dors_bien_petite_fille.jpg",
+
+            "description" : "Une histoire à la \"The Exorciste\" mais qui accumule les clichets surjoués.<br /><br />Je sais pas trop à quoi je m'attendais avec un titre pareil, mais bon... Les dessins sont variables, parfois intéressants pour leur côté déformé qui met mal à l'aise, parfois ça fait juste rire.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["paranormal", "horreur", "court", "médiocre"]
 
         }
         
