@@ -789,6 +789,34 @@
             "rented_by" : null,
 
             "tags" : ["scifi", "horreur"]
+        },
+        {
+            "name" : "Otto, l'homme réécrit",
+            "author" : "Marc-Antoine Mathieu",
+            "image"  : "otto.jpg",
+            "post"   : "otto",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["Marc-Antoine Mathieu"]
+
+        },
+        {
+            "name" : "L'art de voler",
+            "author" : "Antonio Altarriba & Kim",
+            "image"  : "art_de_voler.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["historique", "biographie"]
 
         }
         
