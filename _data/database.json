@@ -149,7 +149,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "Boulet" ]
+            "tags" : ["tranche de vie", "Boulet", "jeune adulte" ]
             
         },
         {
@@ -375,7 +375,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Fred",
 
             "tags" : ["mythologie", "fantaisie", "Alex Alice"]
                
@@ -829,7 +829,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "un pote",
 
             "tags" : ["fantaisie", "conte"]
 
