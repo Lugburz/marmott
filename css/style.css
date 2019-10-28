@@ -12,7 +12,7 @@
     flex-direction: column;
 }
 
-.comic-thumbnail > img {
+.comic-thumbnail img {
     max-width: 200px;
     display: block;
     margin-top: auto;

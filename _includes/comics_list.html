@@ -8,7 +8,9 @@
 
     <div class="comics-list-item">
         <div class="comic-thumbnail">
-            <img src='{{ site.baseurl }}/img/comics/{{ comic.image }}' alt='{{ comic.name | replace : "'", "\'" }}' />
+            <a href="{{ site.baseurl }}/img/comics/{{ comic.image }}">
+                <img src='{{ site.baseurl }}/img/comics/thumbnails/{{ comic.image }}' alt='{{ comic.name | replace : "'", "\'" }}' />
+            </a>
         </div>
         <div class="comic-description">
             <span class="comic-title">{{ comic.name }}

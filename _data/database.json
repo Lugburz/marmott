@@ -761,6 +761,34 @@
             "rented_by" : null,
 
             "tags" : ["polar","Biancarelli"]
+        },
+        {
+            "name" : "Flesh Empire",
+            "author" : "Yann Legendre",
+            "image"  : "flesh_empire.jpg",
+            "post"   : "flesh_empire",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["experimental", "meta"]
+        },
+        {
+            "name" : "La Mort Vivante",
+            "author" : "Olivier Vatine & Alberto Varanda",
+            "image"  : "mort_vivante.jpg",
+            "post"   : "mort_vivante",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["scifi", "horreur"]
 
         }
         
