@@ -2,11 +2,15 @@
   we expect a collection named "comics" already assigned in parent page
 {% endcomment %}
 
+<span class="comics-count">{{comics.size}}</span> / {{site.data.database.comics.size}}
+
 {% for comic in comics %}
 
     <div class="comics-list-item">
         <div class="comic-thumbnail">
-            <img src='{{ site.baseurl }}/img/comics/{{ comic.image }}' alt='{{ comic.name | replace : "'", "\'" }}' />
+            <a href="{{ site.baseurl }}/img/comics/{{ comic.image }}">
+                <img src='{{ site.baseurl }}/img/comics/thumbnails/{{ comic.image }}' alt='{{ comic.name | replace : "'", " " }}' />
+            </a>
         </div>
         <div class="comic-description">
             <span class="comic-title">{{ comic.name }}
@@ -38,7 +42,11 @@
             </div>
             <div class="comic-tags">
                 {% for tag in comic.tags %}
-                <span class="comic-tag">{{ tag }}</span>
+                <span class="comic-tag" data-tag="{{tag|slugify }}">
+                    <a href="{{ site.baseurl }}/tag?t={{ tag|slugify|cgi_escape }}">
+                        {{ tag }}
+                    </a>
+                </span>
                 
                 {% endfor %}
             </div>
