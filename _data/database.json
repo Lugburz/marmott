@@ -352,6 +352,54 @@
 
             "tags" : ["mythologie", "Alex Alice"]
                
+        },
+        {
+            "name" : "My Broken Mariko",
+            "author" : "Waka Hirako",
+            "image"  : "siegfried.jpg",
+            "post"   : "brokenmariko",
+            "volumes":1,
+
+            "description" : "Tomo apprend au JT que sa meilleure amie s'est suicidée, et décide que justice doit être faite. Elle volle les cendres de sa défunte amie chez son père, l'homme qui abusait d'elle, et se remémore son existence dans un road trip frustrant de réalisme. Rien n'est mis de côté : les moments tendres avec Mariko, les moments gênants, les moment tristes et les moment où Mariko a clairement déconné.<br /> <br />Waka Hirako est quelqu'un d'intéressant, mangaka japonaise très inspirée par les BD francophones (notamment Frederik Peeters) et les comics à la Batman (notamment ceux vs Joker), elle a développé un style original qui passe très bien en oneshot. Du coup Tomo c'est pas la waifu de base. Tomo c'est avant tout un personnage explosif qui cherche un but dans son deuil, et qui n'accepte plus toutes les conneries qu'elle a laissait passer avant. <br /><br />Graphiquement et scénaristiquement, cette histoire c'est de la BD avant d'être du manga. Le thème est cru, abordé sans artifices, et on retrouve aucune convention habituelle du manga dans ce One-Shot. " , 
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["deuil", "manga", "one shot"]
+               
+        },
+        {
+            "name" : "ReLife",
+            "author" : "Yayoiso",
+            "image"  : "siegfried.jpg",
+            "post"   : "relife",
+            "volumes":1,
+
+            "description" : "TODO",
+            
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["tranche de vie", "manga", "school life"]
+               
+        },
+        {
+            "name" : "Promised Neverland",
+            "author" : "Kaiu Shirai (art by Posuka Demizu)",
+            "image"  : "siegfried.jpg",
+            "post"   : "promisednerverland",
+            "volumes":1,
+
+            "description" : "TODO",
+            
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["aventure", "drama", "shonen", "manga"]
+               
         }
         
     ]
