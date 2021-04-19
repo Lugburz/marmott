@@ -8,7 +8,7 @@
             "volumes" : 1,
             "still_going" : true,
 
-            "description" : "Encore une oeuvre de Charles Burns. Pas encore lue.",
+            "description" : "TODO.",
 
             "added_date" : "2019-10-19",
             "owned"     : true,
@@ -27,7 +27,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Eric",
+            "rented_by" : null,
 
             "tags" : [ "glauque", "drogues", "tranche de vie" ]
         },
@@ -83,7 +83,7 @@
 
             "volumes" : 13,
 
-            "description" : "L'histoire d'un petit oiseau mignon.",
+            "description" : "L'histoire d'un petit oiseau mignon. TODO",
 
             "added_date" : "2019-10-19",
             "owned"     : false,
@@ -99,7 +99,22 @@
 
             "volumes" : 4,
 
-            "description" : "Prêté par Fred.",
+            "description" : "Intégrale double collector. Je prête pas. TODO.",
+
+            "added_date" : "2019-10-19",
+            "owned"     : false,
+
+            "tags" : ["historique", "action", "fantaisie", "ésothérisme", "Alex Alice" ]
+        },
+        {
+            "name" : "JVLIVS",
+            "author" : "Xavier Dorison & Alex Alice",
+            "image"  : "troisieme_testament.jpg",
+            "post"   : "troisieme_testament",
+
+            "volumes" : 4,
+
+            "description" : "Intégrale double collector. Je prête pas. TODO.",
 
             "added_date" : "2019-10-19",
             "owned"     : false,
@@ -203,7 +218,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Eric",
+            "rented_by" : null,
 
             "tags" : ["scifi", "tranche de vie", "couple", "drama", "wtf"]
         },
@@ -236,6 +251,19 @@
             "tags" : ["couple", "tranche de vie", "lgbtqr+"]
         },
         {
+            "name" : "L'homme de la situation",
+            "author" : "Lou Lubie",
+            "image"  : "homme_situation.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2019-10-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : ["tranche de vie", "paranormal"]
+        },
+        {
             "name" : "Isadora",
             "author" : "Julie Birmant & Clément Oubrerie",
             "image"  : "isadora.jpg",
@@ -255,7 +283,7 @@
             "image"  : "adrastee.jpg",
             "post"   : "adrastee",
 
-            "description" : "Intégrale des deux volumes.",
+            "description" : "TODO",
 
             "added_date" : "2019-10-19",
             "owned"     : true,
@@ -283,7 +311,7 @@
             "image"  : "conan-strips.jpg",
             "post"   : "conan-strips",
 
-            "description" : "\"Inédits\" => en France, ou en tout cas dans une version propre.",
+            "description" : "Traduction française des comics originaux, diffusés quotidiennement dans les journaux américains entre 1978 et 1979. De par leur rythme de parution, cette compilation a l'originalité de proposer successivement deux pages noir et blanc de 3 stips chacune, suivies d'une page complète en couleurs, le dimanche étant à l'époque l'occasion d'une page couleurs entière exclusive.",
 
             "added_date" : "2019-10-19",
             "owned"     : true,
@@ -525,7 +553,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Eric",
+            "rented_by" : null,
 
             "tags" : ["tranche de vie", "paranormal", "drama", "couple", "intimiste", "Timothée Le Boucher"]
                
@@ -563,7 +591,7 @@
         {
             "name" : "My Broken Mariko",
             "author" : "Waka Hirako",
-            "image"  : "siegfried.jpg",
+            "image"  : "broken_mariko.jpg",
             "post"   : "brokenmariko",
             "volumes":1,
 
@@ -579,9 +607,9 @@
         {
             "name" : "ReLife",
             "author" : "Yayoiso",
-            "image"  : "siegfried.jpg",
+            "image"  : "Relife.jpg",
             "post"   : "relife",
-            "volumes":1,
+            "volumes": 15,
 
             "description" : "TODO",
             
@@ -589,15 +617,15 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "manga", "school life"]
+            "tags" : ["tranche de vie", "manga", "school life", "jeune adulte", "couple"]
                
         },
         {
             "name" : "Promised Neverland",
             "author" : "Kaiu Shirai (art by Posuka Demizu)",
-            "image"  : "siegfried.jpg",
+            "image"  : "promised-neverland.jpg",
             "post"   : "promisednerverland",
-            "volumes":1,
+            "volumes": 20,
 
             "description" : "TODO",
             
@@ -628,7 +656,7 @@
             "image"  : "errance.jpg",
             "post"   : "errance",
 
-            "description" : "Pas encore lu",
+            "description" : "TODO",
 
             "added_date" : "2019-10-19",
             "owned"     : true,
@@ -869,14 +897,14 @@
             "name" : "L'âge d'Or",
             "author" : "Roxanne Moreil & Cyril Pedrosa",
             "image"  : "age_dor.jpg",
-            "volumes" : 1,
-            "still_going" : true,
+            "volumes" : 2,
+            "still_going" : false,
 
             "description" : "TODO",
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "un pote",
+            "rented_by" : "Louis (Vol 2)",
 
             "tags" : ["fantaisie", "conte"]
         },
@@ -892,7 +920,88 @@
             "rented_by" : null,
 
             "tags" : ["paranormal", "horreur", "court", "médiocre"]
+        },
+        {
+            "name" : "Ah! My Goddess",
+            "author" : "Kōsuke Fujishima",
+            "image"  : "ahmygoddess.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["humour", "80's", "manga", "série"]
+        },
+        {
+            "name" : "Le prix du reste de ma vie",
+            "author" : "Miaki Sugaru & Taguchi Shouichi",
+            "image"  : "Le-Prix-du-reste-de-ma-vie.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["drame", "manga", "romance", "jeune adulte"]
+        },
+        {
+            "name" : "La Femme Insecte",
+            "author" : "Osamu Tezuka",
+            "image"  : "La-Femme-insecte.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["manga", "drame", "thriller", "jeune adulte"]
+        },
+        {
+            "name" : "MW",
+            "author" : "Osamu Tezuka",
+            "image"  : "tezuka-mw.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : ["manga", "drame", "thriller", "jeune adulte"]
+        },
+        {
+            "name" : "Beauté",
+            "author" : "Hubert & Kerascoët",
+            "image"  : "beaute.jpg",
+            "volumes" : 3,
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "bd", "conte" ]
+        },
+        {
+            "name" : "Rapaces",
+            "author" : "Jean Dufaux & Enrico Marini",
+            "image"  : "rapace.jpg",
+            "volumes" : 4.5,
+
+            "description" : "Intégrale collector avec artbook épilogue. Je prête pas. TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "bd", "classique", "vampire", "thriller" ]
         }
+        
         
     ]
 }
