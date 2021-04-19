@@ -15,9 +15,11 @@
         <div class="comic-description">
             <span class="comic-title">{{ comic.name }}
                 {% if comic.owned %}
-                    <span class="comic-available" title="Disponible"></span>
                     {% if comic.rented_by %}
+                        <span class="comic-rented" title="Emprunté"></span>
                         <span style="font-size:0.5em;">(emprunté par {{comic.rented_by}})</span>
+                    {% else %}
+                        <span class="comic-available" title="Disponible"></span>
                     {% endif %}
                 {% else %}
                     <span class="comic-unavailable" title="Indisponible"></span> 

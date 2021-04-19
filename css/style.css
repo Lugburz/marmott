@@ -90,3 +90,11 @@
     height: 13px;
     display: inline-block;
 }
+
+.comic-rented {
+    border-radius:50%;
+    background-color:peru;
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+}

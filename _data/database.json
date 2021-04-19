@@ -73,7 +73,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD","couple", "parents", "maladie", "tranche de vie" ]
+            "tags" : ["BD","couple", "parents", "maladie", "handicap", "tranche de vie" ]
         },
         {
             "name" : "Bonne nuit Punpun",
@@ -131,9 +131,9 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "J'aimerais bien savoir justement",
 
-            "tags" : ["BD", "tranche de vie", "couple", "drama", "ésothérisme" ]
+            "tags" : ["BD", "tranche de vie", "romance", "drama", "ésothérisme" ]
         },
         {
             "name" : "Bolchoi Arena",
@@ -192,7 +192,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "onirique", "scifi", "tranche de vie", "couple", "lgbtqr+", "Un gros pavé mais ça se lit vite en vrai."]
+            "tags" : ["BD", "onirique", "scifi", "tranche de vie", "romance", "lgbtqr+", "Un gros pavé mais ça se lit vite en vrai."]
         },
         {
             "name" : "J'adore ce passage",
@@ -205,7 +205,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie", "couple", "lgbtqr+", "court"]
+            "tags" : ["BD", "tranche de vie", "romance", "ados", "lgbtqr+", "court"]
 
         },
         {
@@ -220,7 +220,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "scifi", "tranche de vie", "couple", "drama", "wtf"]
+            "tags" : ["BD", "scifi", "tranche de vie", "romance", "drama", "wtf"]
         },
         {
             "name" : "La débauche",
@@ -248,7 +248,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["BD", "couple", "tranche de vie", "lgbtqr+"]
+            "tags" : ["BD", "romance", "tranche de vie", "lgbtqr+"]
         },
         {
             "name" : "L'homme de la situation",
@@ -261,7 +261,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie", "paranormal"]
+            "tags" : ["BD", "tranche de vie", "pointe de paranormal"]
         },
         {
             "name" : "Isadora",
@@ -435,7 +435,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "Zidrou", "tranche de vie", "parents", "paranormal"]
+            "tags" : ["BD", "tranche de vie", "parents", "deuil", "pointe de paranormal"]
                
         },
         {
@@ -450,7 +450,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "Zidrou", "gore", "paranormal", "court"]
+            "tags" : ["BD", "gore", "pointe de paranormal", "court"]
                
         },
         {
@@ -465,7 +465,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "Zidrou", "tranche de vie", "handicap", "paranormal"]
+            "tags" : ["BD", "conte", "handicap", "pointe de paranormal"]
                
         },
         {
@@ -480,7 +480,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "Zidrou", "tranche de vie", "gérontophilie"]
+            "tags" : ["BD", "tranche de vie", "gérontophilie"]
                
         },
         {
@@ -495,7 +495,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "Zidrou", "tranche de vie", "maladie", "handicap"]
+            "tags" : ["BD", "tranche de vie", "maladie", "handicap"]
                
         },
         {
@@ -555,7 +555,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie", "paranormal", "drama", "couple", "intimiste"]
+            "tags" : ["BD", "tranche de vie", "pointe de paranormal", "drama", "intimiste"]
                
         },
         {
@@ -617,7 +617,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "tranche de vie", "school life", "jeune adulte", "couple"]
+            "tags" : ["manga", "tranche de vie", "school life", "jeune adulte", "romance"]
                
         },
         {
@@ -748,7 +748,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "humour", "couple", "tranche de vie", "paranormal", "adulte", "zboubinet"]
+            "tags" : ["BD", "humour","tranche de vie", "pointe de paranormal", "adulte", "zboubinet"]
         },
         {
             "name" : "Miss Pas Touche",
@@ -807,7 +807,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga","horreur","paranormal","couple"]
+            "tags" : ["manga","horreur","surnaturel","couple"]
         },
         {
             "name" : "Tir Nan Og",
@@ -919,7 +919,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD","paranormal", "horreur", "court", "médiocre"]
+            "tags" : ["BD","surnaturel", "horreur", "court", "médiocre"]
         },
         {
             "name" : "Ah! My Goddess",
@@ -1058,7 +1058,7 @@
             "author" : "Leiji Matsumoto",
             "image"  : "24histoirestempslointain.jpg",
 
-            "description" : "Recueil. TODO.",
+            "description" : "Recueil d'histoires courtes de Leiji Matsumoto. Les histoires ont plus ou moins toute le même thème : la fin du monde et le commencement d'un nouveau.<br /><br />On assistera donc plusieurs fois à des départs forcés depuis une planète vieillissante et au repeuplement d'une nouvelle <em>planète Terre</em>.<br /><br />Et des fois on a juste des fantômes de transexuelles qui hantent l'espace-temps.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
@@ -1173,7 +1173,20 @@
             "owned"     : true,
             "rented_by" : "Matt",
 
-            "tags" : [ "manga", "tranche de vie", "romance", "school life", "glauque" ]
+            "tags" : [ "manga", "sexualité", "ados", "tranche de vie", "school life", "glauque" ]
+        },
+        {
+            "name" : "Anthology",
+            "author" : "Inio Asano",
+            "image"  : "asanoanthology.jpg",
+
+            "description" : "Receuil d'histoires courtes d'Inio Asano. Certaines histoires sont des concepts avant tout, d'autres se rapprochent plus du style habituel d'Asano, nous présentant des adultes qui ont du mal à rompre avec leur adolescence. Même si le ton sait se faire aussi pesant que dans ses histoires habituelles, on trouve ici un côté plus bienveillant, moins glauque et dramatique, plus contemplatif. Mention spéciale à <em>Le parfum de l’Été tue deux fois les Magical Girls</em>.<br /><br />L'oeuvre centrale c'est <em>TEMPEST</em> qui nous présente une dystopie pro-jeunesse où, pour régler le soucis de vieillissement de la population au Japon, les personnes de plus de 60 ans sont démunies de tous leurs droits fondamentaux, les forçant ainsi à la mendicité ou à la mort dans une hypocrisie générale.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : "Matt",
+
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "school life", "passage à l'âge adulte", "dystopie" ]
         },
         {
             "name" : "Le Quartier de la lumière",
@@ -1186,7 +1199,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "tranche de vie", "histoires courtes", "glauque" ]
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "drame" ]
         },
         {
             "name" : "Un Monde Formidable",
@@ -1199,21 +1212,104 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "tranche de vie", "histoires courtes", "glauque" ]
+            "tags" : [ "manga", "tranche de vie", "histoires courtes" ]
         },
         {
             "name" : "OLEG",
             "author" : "Frederik Peeters",
             "image"  : "oleg.jpg",
 
-            "description" : "La suite spirituelle de <em>Pilules Bleues</em>, cette fois présentée plutôt comme une suite de réflexions personnelles sur de nombreux sujets tels que la mort, la vieillesse, le but d'une vie, les jeunes, ce qu'on leur laisse, l'écologie...",
+            "description" : "La suite spirituelle de <em>Pilules Bleues</em>, cette fois présentée plutôt comme une suite de réflexions personnelles sur de nombreux sujets tels que la mort, la vieillesse, le but d'une vie, les jeunes, ce qu'on leur laisse, l'écologie...<br /><br />On a même droit à un aperçu de la démarche artistique derrière <em>Saccage</em>.",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "BD", "tranche de vie", "reflexion" ]
+        },
+        {
+            "name" : "Saccage",
+            "author" : "Frederik Peeters",
+            "image"  : "saccage.jpg",
+
+            "description" : "Une histoire muette qui se présente plus comme un artbook qu'une BD classique. Chaque page est une grande case, un tableau représentant des scènes surréalistes dans un monde parallèle sous acide. Un style un peu comics, des couleurs flashy, des créatures étranges, aucun dialogue : on est bien loin des travaux habituels de Peeters et pourtant on devine sa patte quelque part sous les tentacules.<br /><br />A contempler avant OLEG, qui explique un peu le processsus créatif.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "artbook", "wtf" ]
+        },
+        {
+            "name" : "9 Lives Man : Un Amour à sens unique",
+            "author" : "Monday Recover",
+            "image"  : "9_Lives_Man.jpg",
+
+            "description" : "Deux histoires courtes sur le thème d'un amour de lycée qui n'aura jamais fleuri. Etonnamment plaisant à lire, ce manga s'attarde surtout sur la résignation des personnages et comment ils en arrivent à leurs propres conclusions/solutions face à la non réciprocité de leurs sentiments.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "tranche de vie", "romance", "adulte", "lgbtqr+" ]
+        },
+        {
+            "name" : "Bakemonogatari",
+            "author" : "Oh! great & NisiOisiN & VOFAN & Watanabe Akio",
+            "image"  : "bakemonogatari.jpg",
+            "volumes": 10,
+            "still_going": true,
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "ados", "school life", "shonen", "monstres", "combats" , "surnaturel"]
+        },
+        {
+            "name" : "Uzumaki",
+            "author" : "Junji Ito",
+            "image"  : "uzumaki.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "angais", "horreur", "surnaturel", "psychologique", "glauque" ]
+        },
+        {
+            "name" : "Love × Dilemma",
+            "author" : "Sasuga Kei",
+            "image"  : "lovexdillema.jpg",
+            "volumes": 28,
+            "still_going":false,
+
+            "description" : "Plus connue sous le nom de <em>Domestic Girlfriend</em>, cette série  démarre comme un scénario de film porno et reprend clairement tous les codes du manga harem. Notre perso principal est amoureux de sa prof mais après un rejet évident décide pour l'oublier de se trouver un plan cul au pif. Son père se remarie et évidemment, la prof et le plan cul sont maintenant ses demi-soeurs. En vrai je crois que j'ai déjà vu du porno plus subtil que ça.<br /><br />Mais étonnamment, l'auteure arrive quand même à raconter beaucoup de sous-histoires qui dépassent clairement le cadre habituel des romances de lycéens. Les personnages principaux ont notamment de vraies ambitions et les personnages secondaires ne sont pas (tous) de simples faire-valoirs. Notre héro voulant devenir écrivain, on passera pas mal de temps à le suivre dans sa recherche d'inspiration, ses changements d'orientation à la fac et son angoisse de la page blanche.<br /><br />Love x Dilemma c'est beaucoup de <em>WTF</em>, de <em>Wow ils ont osé</em>, mais pas que. Mon plus gros reproche serait qu'à vouloir tout caser dans la même histoire, on se retrouve avec une narration saccadée, entre sous-intrigues vues et revues, sous-intrigues jamais vues mais dont on aurait pu se passer, romances qui trainent et drama inutiles ou qui arrivent trop tard. Ceci étant dit, ça reste une série surprenante, un plaisir coupable que j'assume entièrement.<br /><br />(Série finie en VO et en scanlation, mais la trad FR traîne)",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "shonen", "romance", "harem", "sexualité", "bordeline hentai", "ecchi", "zboubinet", "school life", "tranche de vie", "ados" ]
+        },
+        {
+            "name" : "Des Souris et des Hommes",
+            "author" : "John Steinbeck & Rebecca Dautremer",
+            "image"  : "des-souris-et-des-hommes.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "roman illustré"  ]
         }
+        
         
         
         

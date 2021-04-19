@@ -15,6 +15,14 @@ Par tag : <span id="tag-name"></span>
 </div>
 
 <script type="text/javascript">
+
+    // case insensitive "contains" selector
+    // https://stackoverflow.com/questions/8746882/jquery-contains-selector-uppercase-and-lower-case-issue
+    jQuery.expr[':'].icontains = function(a, i, m) {
+        return jQuery(a).text().toUpperCase()
+            .indexOf(m[3].toUpperCase()) >= 0;
+    };
+
     var getUrlParameter = function getUrlParameter(sParam) {
         var sPageURL = window.location.search.substring(1),
             sURLVariables = sPageURL.split('&'),
@@ -38,6 +46,9 @@ Par tag : <span id="tag-name"></span>
 
         $('#comics-list .comics-list-item').hide();
         var $nodes = $('#comics-list').find('.comic-tag[data-tag="' + tag + '"]').closest('.comics-list-item');
+        var $nodes2 = $('#comics-list').find('.comic-title:icontains("' + tag + '")').closest('.comics-list-item');
+        
+        $nodes = $nodes.add($nodes2);
         
         $nodes.show();
 
