@@ -10,6 +10,6 @@ layout: main
 Ici c'est toutes les BDs qu'on m'a prêté ou que je ne compte pas mettre à disposition pour une raison ou pour une autre.
 
 <div id="comics-list">
-{% assign comics = site.data.database.comics | where_exp: "item", "item.owned == false" | sort: "name" %}
+{% assign comics = site.data.database.comics | where_exp: "item", "item.owned == false and item.hide != true" | sort: "name" %}
 {% include comics_list.html %}
 </div>

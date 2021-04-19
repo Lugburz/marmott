@@ -10,7 +10,7 @@ layout: main
 Par tag : <span id="tag-name"></span>
 
 <div id="comics-list">
-{% assign comics = site.data.database.comics | sort: "name" %}
+{% assign comics = site.data.database.comics | where_exp: "item", "item.hide != true" | sort: "name" %}
 {% include comics_list.html %}
 </div>
 

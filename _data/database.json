@@ -99,7 +99,7 @@
 
             "volumes" : 4,
 
-            "description" : "Intégrale double collector. Je prête pas. TODO.",
+            "description" : "Intégrale double collector qui pèse à peu près 3 tonnes. Je prête pas. TODO.",
 
             "added_date" : "2019-10-19",
             "owned"     : false,
@@ -114,7 +114,7 @@
 
             "volumes" : 4,
 
-            "description" : "Intégrale double collector. Je prête pas. TODO.",
+            "description" : "Intégrale double collector qui pèse à peu près 3 tonnes. Je prête pas. TODO.",
 
             "added_date" : "2019-10-19",
             "owned"     : false,
@@ -233,6 +233,7 @@
             "added_date" : "2019-10-19",
             "owned"     : false,
             "rented_by" : null,
+            "hide" : true,
 
             "tags" : ["BD", "humour", "polar"]
         },
@@ -1166,6 +1167,7 @@
             "name" : "La Fille de la plage",
             "author" : "Inio Asano",
             "image"  : "lafilledelaplage.jpg",
+            "volumes":2,
 
             "description" : "TODO.",
 
@@ -1308,7 +1310,207 @@
             "rented_by" : null,
 
             "tags" : [ "roman illustré"  ]
+        },
+        {
+            "name" : "La Planète aux Cauchemars",
+            "author" : "Mathieu Sapin & Patrick Pion",
+            "image"  : "planete_cauchemars.jpg",
+
+            "description" : "Une adaptation ratée de la nouvelle de Lovecraft <em>Le Cauchemar d'Innsmouth</em>. Style graphique inconsistant, histoire vaguement modernisée pour de la science-fiction mais sans prendre le temps de bien expliquer le lore, fin rushée...<br /><br />Dommage, l'idée de faire une adaptation libre de Lovecraft en scifi n'était pas mauvaise.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "bd", "scifi", "horreur", "surnaturel", "médiocre", "Lovecraft"  ]
+        },        
+        {
+            "name" : "Coma héroïque dans un autre monde",
+            "author" : "Hotondo Shindeiru",
+            "image"  : "coma_heroique.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "shonen", "isekai", "magie", "tranche de vie", "humour" ]
+        },
+        {
+            "name" : "Sykes",
+            "author" : "Pierre Dubois & Dimitri Armand",
+            "image"  : "sykes.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "western", "drame", "vengeance" ]
+        },
+        {
+            "name" : "Tout ce qu'il reste de nous",
+            "author" : "Rosemary Valero-O'connell",
+            "image"  : "toutcequilrestedenous.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "scifi", "onirique", "romance", "jeune adulte" ]
+        },
+        {
+            "name" : "Et il foula la terre avec légèreté",
+            "author" : "Laurent Bonneau & Mathilde Ramadier",
+            "image"  : "etilfoulalaterreaveclegerete.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "onirique", "voyage", "écologie", "adulte" ]
+        },
+        {
+            "name" : "Tyler Cross",
+            "author" : "Fabien Nury & Brüno",
+            "image"  : "tylercross.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "vengeance", "action", "combats", "adulte" ]
+        },
+        {
+            "name" : "La Nuit est mon Royaume",
+            "author" : "Claire Fauvel",
+            "image"  : "lanuitestmonroyaume.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "ados", "musique", "parents", "amitié", "romance" ]
+        },
+        {
+            "name" : "Couleurs de l'incendie",
+            "author" : "Christian De Metter",
+            "image"  : "couleursdelincendie.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "historique", "argent", "trahison chez les richous", "vengeance", "Der des Ders" ]
+        },
+        {
+            "name" : "Capitaine Albator - Mémoires de l'Arcadia",
+            "author" : "Jérôme Alquié",
+            "image"  : "albatormemoiresdelarcadia.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "manga", "leijiverse", "scifi", "espace", "onirique" ]
+        },
+        {
+            "name" : "Le Joli Coco",
+            "author" : "Boulet & Capucine",
+            "image"  : "joli_coco.jpg",
+
+            "description" : "Qu'il est beau, <br />Qu'il est gentil le Coco<br />Tout rose comme une rose,<br />tout rond et tout mignon,<br /><br />C'est le plus beau.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "humour", "coco", "beau", "gentil", "rose", "rond", "mignon", "8ième Migration des Grands Anciens" ]
+        },
+        {
+            "name" : "Le printemps d'Oan",
+            "author" : "Éric Wantiez & Marie Deschamps",
+            "image"  : "printempsdoan.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "guerre", "drame" ]
+        },
+        {
+            "name" : "La déchéance d'un homme",
+            "author" : "Junji Ito",
+            "image"  : "la_decheance_d_un_homme.jpg",
+            "volumes":1,
+            "still_going": true,
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "horreur", "surnaturel" ]
+        },
+        {
+            "name" : "Vanille ou Chocolat",
+            "author" : "Jason Shiga",
+            "image"  : "vanille_chocolat.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "livre dont vous êtes le héros" ]
+        },
+        {
+            "name" : "Made in Abyss",
+            "author" : "Tsukushi Akihito",
+            "image"  : "made_in_abyss.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "onirique", "monstres", "mignon" ]
+        },
+        {
+            "name" : "Rascal Does Not Dream of Bunny Girl Senpai",
+            "author" : "Kamoshida Hajime & Nanamiya Tsugumi",
+            "image"  : "rascal_bunny_girl_senpai.jpg",
+            "volumes":2,
+            "still_going": false,
+
+            "description" : "L'histoire est bien, mais mattez l'animé ou lisez la Light Novel. Assez peu d'intérêt en manga, graphiquement comme narrativement c'est tout pompé sur l'animé sans y ajouter la moindre once d'originalité, voire en perdant certains aspects qui marchaient mieux dans l'animé...",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "ados", "romance", "pointe de paranormal" ]
         }
+        
         
         
         

@@ -10,6 +10,6 @@ layout: main
 Par auteur.
 
 <div id="comics-list">
-{% assign comics = site.data.database.comics | sort: "author" %}
+{% assign comics = site.data.database.comics | where_exp: "item", "item.hide != true" |  sort: "author" %}
 {% include comics_list.html %}
 </div>
