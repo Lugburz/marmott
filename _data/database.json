@@ -14,7 +14,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "glauque", "drogues", "tranche de vie", "bizarre", "jeune adulte", "Charles Burns" ]
+            "tags" : [ "comics", "glauque", "drogues", "tranche de vie", "bizarre", "jeune adulte" ]
         },
         {
             "name" : "Le roi des Mouches",
@@ -29,7 +29,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "glauque", "drogues", "tranche de vie" ]
+            "tags" : [ "BD", "comics", "glauque", "drogues", "tranche de vie" ]
         },
         {
             "name" : "Une erreur de parcours",
@@ -43,7 +43,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "polar", "tranche de vie", "Biancarelli" ]
+            "tags" : [ "BD", "polar", "tranche de vie"]
         },
         {
             "name" : "Lupus",
@@ -59,7 +59,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["scifi", "tranche de vie", "Peeters" ]
+            "tags" : ["BD", "scifi", "tranche de vie" ]
         },
         {
             "name" : "Les Pilules Bleues",
@@ -73,7 +73,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["couple", "parents", "maladie", "tranche de vie", "Peeters" ]
+            "tags" : ["BD","couple", "parents", "maladie", "tranche de vie" ]
         },
         {
             "name" : "Bonne nuit Punpun",
@@ -89,7 +89,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["glauque", "tranche de vie", "nostalgie", "enfance", "ados", "jeune adulte", "dépression", "manga", "Inio Asano" ]
+            "tags" : ["manga", "glauque", "tranche de vie", "nostalgie", "enfance", "ados", "jeune adulte", "dépression" ]
         },
         {
             "name" : "Le troisième Testament",
@@ -104,7 +104,7 @@
             "added_date" : "2019-10-19",
             "owned"     : false,
 
-            "tags" : ["historique", "action", "fantaisie", "ésothérisme", "Alex Alice" ]
+            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "ésothérisme"]
         },
         {
             "name" : "JVLIVS",
@@ -119,7 +119,7 @@
             "added_date" : "2019-10-19",
             "owned"     : false,
 
-            "tags" : ["historique", "action", "fantaisie", "ésothérisme", "Alex Alice" ]
+            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "ésothérisme" ]
         },
         {
             "name" : "Le sculpteur",
@@ -133,14 +133,14 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "couple", "drama", "ésothérisme" ]
+            "tags" : ["BD", "tranche de vie", "couple", "drama", "ésothérisme" ]
         },
         {
             "name" : "Bolchoi Arena",
             "author" : "Boulet & Aseyn",
             "image"  : "bolchoi_arena.jpg",
             "post"   : "bolchoi_arena",
-            "volumes" : 1,
+            "volumes" : 2,
             "still_going" : true,
 
             "description" : "Deux amies découvrent ensemble le \"Bolchoi\", un univers virtuel où différents mondes fantaisistes se cotoient. Etudiante en astrophysiques, Marjorie s'intéresse principalement à la conquête spaciale et, malgré son approche initalement purement scientifique du Bolchoi, se prend rapidement au jeu des combats de p'tits vaisseaux qui font pew pew. <br /><br /><em>\"Ca me rappelle Ghost in the shell graphiquement. Comment ça tu connais pas GitS?\"</em> - John.<br /><em>\"C'est chanmé frère.\"</em> - Matthieu.<br /><em>\"Ah oui ça j'ai lu, c'est cool mais y'a pas la suite, sa daronne la reine des putes.\"</em> - Stéphane.",
@@ -149,7 +149,7 @@
             "owned"     : true,
             "rented_by" : "Cyril",
 
-            "tags" : ["scifi", "Boulet", "série", "pew pew"]
+            "tags" : ["BD", "scifi", "Boulet", "série", "pew pew"]
             
         },
         {
@@ -164,7 +164,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "Boulet", "jeune adulte" ]
+            "tags" : ["BD", "tranche de vie", "Boulet", "jeune adulte" ]
             
         },
         {
@@ -178,7 +178,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["bizarre", "drogues", "couple", "drama", "jeune adulte", "Charles Burns" ]
+            "tags" : ["comics", "bizarre", "drogues", "couple", "drama", "jeune adulte" ]
             
         },
         {
@@ -192,7 +192,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["onirique", "scifi", "tranche de vie", "couple", "lgbtqr+", "Un gros pavé mais ça se lit vite en vrai.", "Tillie Walden"]
+            "tags" : ["BD", "onirique", "scifi", "tranche de vie", "couple", "lgbtqr+", "Un gros pavé mais ça se lit vite en vrai."]
         },
         {
             "name" : "J'adore ce passage",
@@ -205,7 +205,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "couple", "lgbtqr+", "court", "Tillie Walden"]
+            "tags" : ["BD", "tranche de vie", "couple", "lgbtqr+", "court"]
 
         },
         {
@@ -220,7 +220,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["scifi", "tranche de vie", "couple", "drama", "wtf"]
+            "tags" : ["BD", "scifi", "tranche de vie", "couple", "drama", "wtf"]
         },
         {
             "name" : "La débauche",
@@ -234,7 +234,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["humour", "polar"]
+            "tags" : ["BD", "humour", "polar"]
         },
         {
             "name" : "La Fille dans l'écran",
@@ -248,7 +248,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["couple", "tranche de vie", "lgbtqr+"]
+            "tags" : ["BD", "couple", "tranche de vie", "lgbtqr+"]
         },
         {
             "name" : "L'homme de la situation",
@@ -261,7 +261,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "paranormal"]
+            "tags" : ["BD", "tranche de vie", "paranormal"]
         },
         {
             "name" : "Isadora",
@@ -275,7 +275,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["biographie", "historique", "Julie Birmant & Clément Oubrerie"]
+            "tags" : ["BD", "biographie", "historique"]
         },
         {
             "name" : "Adrastée",
@@ -289,7 +289,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["mythologie", "onirique", "Bablet"]
+            "tags" : [ "BD", "mythologie", "conte", "onirique" ]
         },
         {
             "name" : "Shangri-La",
@@ -303,7 +303,7 @@
             "owned"     : true,
             "rented_by" : "Fred",
 
-            "tags" : ["scifi", "dystopie", "Bablet"]
+            "tags" : [ "BD", "scifi", "dystopie", "espace" ]
         },
         {
             "name" : "Conan - Les Comic Strips inédits",
@@ -332,7 +332,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["historique", "aventure"]
+            "tags" : ["BD", "historique", "aventure"]
                
         },
         {
@@ -347,7 +347,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["meta", "experimental", "Marc-Antoine Mathieu"]
+            "tags" : ["BD", "meta", "experimental"]
         },
         {
             "name" : "THE BLACK HOLES",
@@ -361,7 +361,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["onirique", "ados"]
+            "tags" : ["BD", "onirique", "ados"]
         },
         {
             "name" : "Black Hole",
@@ -375,7 +375,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["glauque", "zombies", "ados", "drogues", "Charles Burns"]
+            "tags" : ["comics", "glauque", "zombies", "ados", "drogues"]
         },
         {
             "name" : "Les Miettes",
@@ -389,7 +389,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["humour", "Peeters"]
+            "tags" : ["BD", "humour"]
                
         },
         {
@@ -405,7 +405,7 @@
             "owned"     : true,
             "rented_by" : "Fred",
 
-            "tags" : ["mythologie", "fantaisie", "Alex Alice"]
+            "tags" : ["BD", "mythologie", "fantaisie"]
                
         },
         {
@@ -420,7 +420,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["humour", "gore", "Un gros pavé mais ça se lit vite en vrai."]
+            "tags" : ["BD", "humour", "gore", "Un gros pavé mais ça se lit vite en vrai."]
                
         },
         {
@@ -435,7 +435,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["Zidrou", "tranche de vie", "parents", "paranormal"]
+            "tags" : ["BD", "Zidrou", "tranche de vie", "parents", "paranormal"]
                
         },
         {
@@ -450,7 +450,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["Zidrou", "gore", "paranormal", "court"]
+            "tags" : ["BD", "Zidrou", "gore", "paranormal", "court"]
                
         },
         {
@@ -465,7 +465,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["Zidrou", "tranche de vie", "handicap", "paranormal"]
+            "tags" : ["BD", "Zidrou", "tranche de vie", "handicap", "paranormal"]
                
         },
         {
@@ -480,7 +480,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["Zidrou", "tranche de vie", "gérontophilie"]
+            "tags" : ["BD", "Zidrou", "tranche de vie", "gérontophilie"]
                
         },
         {
@@ -495,7 +495,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["Zidrou", "tranche de vie", "maladie", "handicap"]
+            "tags" : ["BD", "Zidrou", "tranche de vie", "maladie", "handicap"]
                
         },
         {
@@ -510,7 +510,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["bobo gaucho trottinette", "tranche de vie", "dystopie", "Même pas mal"]
+            "tags" : ["BD", "bobo gaucho trottinette", "tranche de vie", "dystopie", "Même pas mal"]
                
         },
         {
@@ -525,7 +525,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["bizarre", "aventure", "zboubinet", "Même pas mal"]
+            "tags" : ["BD", "bizarre", "aventure", "zboubinet", "Même pas mal"]
                
         },
         {
@@ -540,7 +540,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "jeune adulte", "féminité", "zboubinet", "intimiste"]
+            "tags" : ["BD", "tranche de vie", "jeune adulte", "féminité", "zboubinet", "intimiste"]
                
         },
         {
@@ -555,7 +555,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "paranormal", "drama", "couple", "intimiste", "Timothée Le Boucher"]
+            "tags" : ["BD", "tranche de vie", "paranormal", "drama", "couple", "intimiste"]
                
         },
         {
@@ -570,7 +570,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["drama", "polar", "Timothée Le Boucher"]
+            "tags" : ["BD", "drama", "polar"]
                
         },
         {
@@ -585,7 +585,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["drama", "tranche de vie", "court"]
+            "tags" : ["BD", "drame", "tranche de vie", "court"]
                
         },
         {
@@ -601,7 +601,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["deuil", "manga", "one shot"]
+            "tags" : ["manga", "deuil", "one shot"]
                
         },
         {
@@ -617,7 +617,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "manga", "school life", "jeune adulte", "couple"]
+            "tags" : ["manga", "tranche de vie", "school life", "jeune adulte", "couple"]
                
         },
         {
@@ -633,7 +633,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["aventure", "drama", "shonen", "manga"]
+            "tags" : ["manga", "aventure", "drame", "shonen"]
         },
         {
             "name" : "Solanin",
@@ -647,7 +647,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["drama", "tranche de vie", "jeune adulte", "couple", "deuil", "manga", "Inio Asano"]
+            "tags" : ["manga", "drama", "tranche de vie", "jeune adulte", "couple", "deuil"]
                
         },
         {
@@ -660,9 +660,9 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Matt",
 
-            "tags" : ["manga", "Inio Asano"]
+            "tags" : ["manga", "adulte", "dépression", "glauque", "tranche de vie" ]
                
         },
         {
@@ -677,7 +677,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["post-apo", "Bablet"]
+            "tags" : ["BD", "post-apo" ]
                
         },
         {
@@ -692,7 +692,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["biographie", "historique", "Julie Birmant & Clément Oubrerie"]
+            "tags" : ["BD", "biographie", "historique"]
         },
         {
             "name" : "L'outremangeur",
@@ -706,7 +706,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["tranche de vie", "polar", "grossophobie"]
+            "tags" : ["BD", "tranche de vie", "polar", "grossophobie"]
         },
         {
             "name" : "Corto Maltese - La ballade de la mer salée",
@@ -720,7 +720,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["aventure", "Corto Maltese"]
+            "tags" : ["BD", "aventure", "Corto Maltese"]
         },
         {
             "name" : "Zaï zaï zaï zaï",
@@ -734,7 +734,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["humour", "absurde", "Fabcaro"]
+            "tags" : ["BD", "humour", "absurde"]
         },
         {
             "name" : "Gisèle et Béatrice",
@@ -748,7 +748,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["humour", "couple", "tranche de vie", "paranormal", "adulte", "zboubinet"]
+            "tags" : ["BD", "humour", "couple", "tranche de vie", "paranormal", "adulte", "zboubinet"]
         },
         {
             "name" : "Miss Pas Touche",
@@ -762,14 +762,14 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["polar", "tranche de vie", "adulte", "zboubinet"]
+            "tags" : ["BD", "polar", "tranche de vie", "adulte", "zboubinet"]
         },
         {
             "name" : "Un putain de salopard",
             "author" : "Régis Loisel & Olivier Pont",
             "image"  : "un_putain_de_salopard.jpg",
             "post"   : "un_putain_de_salopard",
-            "volumes": 1,
+            "volumes": 2,
             "still_going": true,
 
             "description" : "TODO",
@@ -778,7 +778,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["aventure", "adulte"]
+            "tags" : [ "BD", "aventure", "adulte"]
         },
         {
             "name" : "Mourir partir revenir, le jeu des hirondelles",
@@ -792,7 +792,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["biographie","tranche de vie","historique", "huits clots"]
+            "tags" : ["BD", "biographie","tranche de vie","historique", "huits clots"]
 
         },
         {
@@ -835,7 +835,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["polar","Biancarelli"]
+            "tags" : ["BD","polar"]
         },
         {
             "name" : "Flesh Empire",
@@ -849,7 +849,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["experimental", "scifi", "court"]
+            "tags" : ["BD","experimental", "scifi", "court"]
         },
         {
             "name" : "La Mort Vivante",
@@ -863,7 +863,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["scifi", "horreur"]
+            "tags" : ["BD","scifi", "horreur"]
         },
         {
             "name" : "Otto, l'homme réécrit",
@@ -877,7 +877,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["Marc-Antoine Mathieu"]
+            "tags" : ["BD","meta", "reflexion"]
 
         },
         {
@@ -891,7 +891,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["historique", "biographie"]
+            "tags" : ["BD","historique", "biographie"]
         },
         {
             "name" : "L'âge d'Or",
@@ -906,7 +906,7 @@
             "owned"     : true,
             "rented_by" : "Louis (Vol 2)",
 
-            "tags" : ["fantaisie", "conte"]
+            "tags" : ["BD","fantaisie", "conte"]
         },
         {
             "name" : "Dors, petite fille",
@@ -919,7 +919,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["paranormal", "horreur", "court", "médiocre"]
+            "tags" : ["BD","paranormal", "horreur", "court", "médiocre"]
         },
         {
             "name" : "Ah! My Goddess",
@@ -932,7 +932,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["humour", "80's", "manga", "série"]
+            "tags" : [ "manga", "humour", "80's", "série"]
         },
         {
             "name" : "Le prix du reste de ma vie",
@@ -945,7 +945,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["drame", "manga", "romance", "jeune adulte"]
+            "tags" : [ "manga", "drame", "romance", "jeune adulte"]
         },
         {
             "name" : "La Femme Insecte",
@@ -985,7 +985,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "bd", "conte" ]
+            "tags" : [ "BD", "conte" ]
         },
         {
             "name" : "Rapaces",
@@ -999,8 +999,223 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "bd", "classique", "vampire", "thriller" ]
+            "tags" : [ "BD", "classique", "vampire", "thriller" ]
+        },
+        {
+            "name" : "V pour Vendetta",
+            "author" : "Alan Moore & David Lloyd",
+            "image"  : "v-pour-vendetta.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "classique", "dystopie" ]
+        },
+        {
+            "name" : "Joker",
+            "author" : "Brian Azzarello & Lee Bermejo",
+            "image"  : "joker.jpg",
+
+            "description" : "Edition N&B. TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "batman", "joker", "DC" ]
+        },
+        {
+            "name" : "Capitaine Albator",
+            "author" : "Leiji Matsumoto",
+            "image"  : "albator.jpg",
+
+            "description" : "Intégrale. TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "leijiverse", "espace", "onirique" ]
+        },
+        {
+            "name" : "Queen Emeraldas",
+            "author" : "Leiji Matsumoto",
+            "image"  : "queen-emeraldas.jpg",
+
+            "description" : "Intégrale. TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "leijiverse", "espace", "onirique" ]
+        },
+        {
+            "name" : "24 Histoires d'un Temps Lointain",
+            "author" : "Leiji Matsumoto",
+            "image"  : "24histoirestempslointain.jpg",
+
+            "description" : "Recueil. TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "leijiverse", "espace", "onirique", "histoires courtes" ]
+        },
+        {
+            "name" : "Galaxy Express 999",
+            "author" : "Leiji Matsumoto",
+            "image"  : "galaxyexpress.jpg",
+            "volumes" : 21,
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "leijiverse", "espace", "onirique" ]
+        },
+        {
+            "name" : "Our Summer Love",
+            "author" : "Takeru Furumoto",
+            "image"  : "our-Summer-Love.jpg",
+
+            "description" : "One shot assez quelconque.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "one-short", "romance", "deuil", "meh" ]
+        },
+        {
+            "name" : "Atchoum!",
+            "author" : "Naoki Urasawa",
+            "image"  : "atchoumurasawa.jpg",
+
+            "description" : "Receuils de petites histoires.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "histoires courtes" ]
+        },
+        {
+            "name" : "Blue Flag",
+            "author" : "KAITO",
+            "image"  : "blue_flag.jpg",
+            "volumes": 8,
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "school life", "romance", "lgbtqr+", "tranche de vie", "comédie" ]
+        },
+        {
+            "name" : "A Silent Voice",
+            "author" : "Oima Yoshitoki",
+            "image"  : "a_silent_voice.jpg",
+            "volumes": 7,
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "school life", "romance", "drame", "bully", "tranche de vie" ]
+        },        
+        {
+            "name" : "Black Magick: The First Book Of Shadows",
+            "author" : "Greg Rucka & Nicola Scott",
+            "image"  : "blackmagick.jpg",
+            "volumes": 1,
+            "still_going": true,
+
+            "description" : "Série en cours, ce <em>First Book Of Shadows</em> comprend les 11 premiers chapitres de la série. TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : "John",
+
+            "tags" : [ "comics", "anglais", "thriller", "surnaturel", "sorcière" ]
+        },
+        {
+            "name" : "Superman: Red Son",
+            "author" : "Mark Millar & Dave Johnson",
+            "image"  : "supermanredson.jpg",
+
+            "description" : "Superman chez les soviets. TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "superman", "DC" ]
+        },
+        {
+            "name" : "La Fille de la plage",
+            "author" : "Inio Asano",
+            "image"  : "lafilledelaplage.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : "Matt",
+
+            "tags" : [ "manga", "tranche de vie", "romance", "school life", "glauque" ]
+        },
+        {
+            "name" : "Le Quartier de la lumière",
+            "author" : "Inio Asano",
+            "image"  : "quartierdelalumiere.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "glauque" ]
+        },
+        {
+            "name" : "Un Monde Formidable",
+            "author" : "Inio Asano",
+            "image"  : "monde_formidable.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "glauque" ]
+        },
+        {
+            "name" : "OLEG",
+            "author" : "Frederik Peeters",
+            "image"  : "oleg.jpg",
+
+            "description" : "La suite spirituelle de <em>Pilules Bleues</em>, cette fois présentée plutôt comme une suite de réflexions personnelles sur de nombreux sujets tels que la mort, la vieillesse, le but d'une vie, les jeunes, ce qu'on leur laisse, l'écologie...",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "tranche de vie", "reflexion" ]
         }
+        
+        
         
         
     ]
