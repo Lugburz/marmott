@@ -42,9 +42,11 @@ Par tag : <span id="tag-name"></span>
         var tag = getUrlParameter('t');
         if(!tag) return;
 
+        $('#comics-list .comics-list-item').hide();
+
+
         $('#tag-name').html(decodeURIComponent(tag).replace(/-/g, ' '));
 
-        $('#comics-list .comics-list-item').hide();
         var $nodes = $('#comics-list').find('.comic-tag[data-tag="' + tag + '"]').closest('.comics-list-item');
         var $nodes2 = $('#comics-list').find('.comic-title:icontains("' + tag + '")').closest('.comics-list-item');
         
