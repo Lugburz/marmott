@@ -1,7 +1,7 @@
 import glob, os, sys
 from PIL import Image
 
-size = 300, 300
+size = 300, 350
 
 os.chdir("./img/comics")
 for file in glob.glob("*.jpg"):

@@ -1522,6 +1522,19 @@
             "rented_by" : null,
 
             "tags" : [ "manga", "ados", "handicap", "one shot" ]
+        },
+        {
+            "name" : "All Star Superman",
+            "author" : "Grant Morrison & Frank Quitely",
+            "image"  : "all-star-superman.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-22",
+            "owned"     : false,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "superman", "DC" ]
         }
         
         
