@@ -5,8 +5,9 @@
 layout: main
 ---
 {% include header.html %}
+{% assign allcomics = site.data.database.comics | where_exp: "item", "item.hide != true" %}
+{% assign comics = allcomics | sort: "name" %}
 
 <div id="comics-list">
-{% assign comics = site.data.database.comics  | where_exp: "item", "item.hide != true" | sort: "name" %}
 {% include comics_list.html %}
 </div>
