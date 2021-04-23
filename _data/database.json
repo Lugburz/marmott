@@ -360,7 +360,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Odran",
 
             "tags" : ["BD", "onirique", "ados"]
         },
@@ -1303,13 +1303,13 @@
             "author" : "John Steinbeck & Rebecca Dautremer",
             "image"  : "des-souris-et-des-hommes.jpg",
 
-            "description" : "TODO",
+            "description" : "Excellente adapation de la nouvelle de John Steinbeck dans un format quasi-BD. C'est l'histoire de George et de Lennie, amis de toujours bon gré mal gré, qui cherchent un travail pour acheter un bout de terre à eux. George c'est le mec moyen un peu débrouillard, qui sait facilement lire les gens et s'adapter en conséquence. Lennie, c'est le total opposé, gros balourd socialement inadapté qui ne comprend pas bien comment ça marche les gens, le vivant. Mais un jour ils auront une ferme, et il y aura des vaches et des lapins, c'est moi qui m'occuperai des lapins hein Georges, et y'aura des poules, dis-le George, j'aime bien quand c'est toi qui le dit.<br /><br />Cette version illustrée est particulièrement efficace, mêlant aussi bien art naïf que dessins complexes selon la situation." ,
 
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "roman illustré"  ]
+            "tags" : [ "roman illustré", "must read"  ]
         },
         {
             "name" : "La Planète aux Cauchemars",
@@ -1328,8 +1328,10 @@
             "name" : "Coma héroïque dans un autre monde",
             "author" : "Hotondo Shindeiru",
             "image"  : "coma_heroique.jpg",
+            "volumes": 1,
+            "still_going":true,
 
-            "description" : "TODO",
+            "description" : "Isekai inversé où un homme se réveille après 17 ans passés dans un monde parallèle et en parle à son neveu. C'est pas foufou jusque là mais c'est rigolo, écouter un grand garçon comme ça obsédé par les jeux vidéos des années 90 nous parler de sa médiocre expérience dans un monde parralèle, maîtriser la magie et la lévitation même dans ce monde mais s'en servir juste pour pas payer les frais de ports pour une Dreamcast sur Ebay...<br /><br />Bref, à voir.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
@@ -1355,13 +1357,13 @@
             "author" : "Rosemary Valero-O'connell",
             "image"  : "toutcequilrestedenous.jpg",
 
-            "description" : "TODO",
+            "description" : "Cette BD me fait beaucoup penser à <a href='tag?t=Dans un Rayon de Soleil'><em>Dans un Rayon de Soleil</em></a>. Dans les faits, on a là trois petites histoires sympathiques avec un vague thème commun : science fiction, souvenirs et onirisme.<br /><br />Le thème <em>onirique</em> revient souvent ici c'est vrai. Mais le monde du rêve et de l'aventure impossible me tient à coeur, je pense que la meilleure façon de traiter un sujet reste l'extrapolation, englober notre thème dans quelques choses de plus fort. 1984 c'est un peu onirique, en ce sens. Un peu. Mais ça n'a vraiment pas grand chose à voir avec cette BD.<br /><br />Non cette BD c'est plutôt l'autre genre d'onirique, à la <em>Le Voyage de Chihiro</em>, l'onirique qui nous fait voyager avant tout, et imaginer d'autres réalités et accepter leurs codes. Un monde parallèle où les gens se nourissent de nos souvenirs, un autre monde où les souvenirs sont un carburant, et un dernier qui s'approche de sa fin et où on consumme nos derniers instants pour créer des souvenirs inutiles...<br /><br />C'est pas parfait mais j'ai aimé ses trois petites histoires.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "BD", "scifi", "onirique", "romance", "jeune adulte" ]
+            "tags" : [ "BD", "scifi", "histoires courtes", "onirique", "jeune adulte" ]
         },
         {
             "name" : "Et il foula la terre avec légèreté",
@@ -1394,13 +1396,13 @@
             "author" : "Claire Fauvel",
             "image"  : "lanuitestmonroyaume.jpg",
 
-            "description" : "TODO",
+            "description" : "Nawel et sa bande sont posés OKLM en bas des blocs, quartier Mont-Mesly RPZ, quand y'a c'te petite babtou qui s'présente avec son style tout pété et qui leur chourrave leur banc. Alice qu'elle s'appelle là wesh, elle a cru quoi princesse disney avec ses vieilles sappes rose bonbon. Pas d'place pour les bourges ici, vas-y t'écoutes quoi, fais écouter ou ça va mal s'passer.<br /><br />Sauf que Nawel, elle avait jamais écouté les Beattles avant. Elle s'était jamais trop intéressé à la musique pour être honnête, mais là c'est le coup de foudre immédiat. Naissance d'une amitié pas conventionnelle dans ce quartier sensible, et plus encore naissance d'un projet de vie, d'une conviction que la famille de Nawel, assez conservatrice, verra d'un mauvais oeil.<br /><br />Cette BD n'hésite pas à s'aventuer sur des terrains glissants et à vraiment transformer ses personnages en cours de route, puisqu'on suivra les deux protagonistes sur plusieurs années. Globalement c'est une BD particulièrement touchante sur le thème de l'indépendance des jeunes adultes, la complexité à s'émanciper d'une famille assez vieux jeu qui a déjà un avenir tout tracé pour nous, pour s'orienter vers des projets beaucoup plus nébuleux.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "BD", "ados", "musique", "parents", "amitié", "romance" ]
+            "tags" : [ "BD", "jeunes adultes", "musique", "parents", "indépendance", "passage à l'âge adulte" ]
         },
         {
             "name" : "Couleurs de l'incendie",
@@ -1461,7 +1463,7 @@
             "volumes":1,
             "still_going": true,
 
-            "description" : "TODO.",
+            "description" : "Pas encore lu, j'attends la suite.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
@@ -1474,7 +1476,7 @@
             "author" : "Jason Shiga",
             "image"  : "vanille_chocolat.jpg",
 
-            "description" : "TODO.",
+            "description" : "<em>Livre dont vous êtes le héros</em> pour grands garçons, <em>Vanille ou Chocolat</em> (<em>Meanwhile</em> en VO) est un bordel absolu. Vous assistez un scientifique qui veut tester trois inventions : une machine à lire dans les souvenirs, une machine qui peut annihiler une ville entière (<em>Killotron&trade;</em>) et une machine à voyager dans le temps. <br /><br />Chaque machine est protégée par un code secret qui limite son utilisation, par exemple de base la machine à voyager dans le temps n'ira pas plus loin que 10 minutes en arrière. Vous pouvez choisir de rentrer un code au pif ou de trouver le vrai code quelque part. Selon vos choix, vous pourrez rapidement mourir après avoir fait mumuse avec le <em>Killotron</em> ou au contraire finir dans des boucles temporelles infinies.<br /><br />Contrairement aux choix conventionnels de livre dont vous êtes le héros, ici rien n'est évident, parfois tout se joue juste sur le fait de choisir entre pile ou face. Un peu frustrant de ce côté là, mais très fun d'y revenir de temps en temps pour découvrir une nouvelle fin. Tricher n'est pas vraiment une option, pour ça faudrait déjà savoir ce qu'on veut comme fin, et revenir en arrière est parfois plus compliqué que de repartir de zéro.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
@@ -1515,13 +1517,13 @@
             "author" : "Oshimi Shuzo",
             "image"  : "shino_ne_sait_pas_dire_son_nom.jpg",
 
-            "description" : "TODO",
+            "description" : "C'est l'histoire de Shino, et elle sait pas dire son nom. Et c'est à peu près tout.<br /><br />Non allez, en vrai c'est pas mal, ça parle de handicap : Shino bégaie et a beaucoup de mal à prononcer certains mots, son prénom en faisant partie. Elle reste donc très solitaire à l'école, n'osant pas expliquer sa condition aux autres, jusqu'à ce qu'elle rencontre Kayo, une musicienne qui sait pas chanter. Et il s'avère que quand Shino chante bah là ça va, ça sort tout seul.<br /><br />Un manga plutôt orienté jeunesse mais intéressant quand même. L'auteure souffrant elle-même de soucis d'élocution, on ressent toute la panique et la frustration de Shino quand elle galère a aligner trois mots pourtant simples. Une bonne petite lecture si on est d'humour manga tranche de vie dramas lycéens.",
 
             "added_date" : "2021-04-22",
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "manga", "ados", "handicap", "one shot" ]
+            "tags" : [ "manga", "ados", "jeunesse", "handicap", "one shot" ]
         },
         {
             "name" : "All Star Superman",
