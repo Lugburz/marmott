@@ -97,8 +97,6 @@
             "image"  : "troisieme_testament.jpg",
             "post"   : "troisieme_testament",
 
-            "volumes" : 4,
-
             "description" : "Intégrale double collector qui pèse à peu près 3 tonnes. Je prête pas. TODO.",
 
             "added_date" : "2019-10-19",
@@ -107,12 +105,10 @@
             "tags" : ["BD", "classique", "historique", "action", "fantaisie", "ésothérisme"]
         },
         {
-            "name" : "JVLIVS",
-            "author" : "Xavier Dorison & Alex Alice",
-            "image"  : "troisieme_testament.jpg",
+            "name" : "Le troisième Testament - JVLIVS",
+            "author" : "Xavier Dorison & Alex Alice & Robin Recht & Thimothée Montaigne",
+            "image"  : "troisieme_testament_julius.jpg",
             "post"   : "troisieme_testament",
-
-            "volumes" : 4,
 
             "description" : "Intégrale double collector qui pèse à peu près 3 tonnes. Je prête pas. TODO.",
 
