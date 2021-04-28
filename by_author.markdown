@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Par auteur
 ---
 
 {% include header.html %}
