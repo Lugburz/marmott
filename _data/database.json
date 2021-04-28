@@ -29,7 +29,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "comics", "glauque", "drogues", "tranche de vie" ]
+            "tags" : [ "BD", "comics", "glauque", "drogues", "tranche de vie", "must read" ]
         },
         {
             "name" : "Une erreur de parcours",
@@ -59,7 +59,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "scifi", "tranche de vie" ]
+            "tags" : ["BD", "scifi", "tranche de vie", "must read" ]
         },
         {
             "name" : "Pilules Bleues",
@@ -89,7 +89,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : ["manga", "glauque", "tranche de vie", "nostalgie", "enfance", "ados", "jeune adulte", "dépression" ]
+            "tags" : ["manga", "glauque", "tranche de vie", "nostalgie", "enfance", "jeune adulte", "dépression", "must read" ]
         },
         {
             "name" : "Le troisième Testament",
@@ -164,7 +164,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie", "Boulet", "jeune adulte" ]
+            "tags" : ["BD", "tranche de vie", "Boulet", "jeune adulte", "must read" ]
             
         },
         {
@@ -205,7 +205,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie", "romance", "ados", "lgbtqr+", "court"]
+            "tags" : ["BD", "tranche de vie", "romance", "ados", "lgbtqr+", "court", "meh" ]
 
         },
         {
@@ -290,7 +290,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "mythologie", "conte", "onirique" ]
+            "tags" : [ "BD", "mythologie", "conte", "onirique", "must read" ]
         },
         {
             "name" : "Shangri-La",
@@ -304,7 +304,7 @@
             "owned"     : true,
             "rented_by" : "Fred",
 
-            "tags" : [ "BD", "scifi", "dystopie", "espace" ]
+            "tags" : [ "BD", "scifi", "dystopie", "espace", "must read" ]
         },
         {
             "name" : "Conan - Les Comic Strips inédits",
@@ -333,7 +333,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "historique", "aventure"]
+            "tags" : ["BD", "historique", "aventure", "must read"]
                
         },
         {
@@ -376,7 +376,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["comics", "glauque", "zombies", "ados", "drogues"]
+            "tags" : ["comics", "glauque", "zombies", "ados", "drogues", "classique"]
         },
         {
             "name" : "Les Miettes",
@@ -436,7 +436,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie", "parents", "deuil", "pointe de paranormal"]
+            "tags" : ["BD", "tranche de vie", "parents", "deuil", "pointe de paranormal", "must read"]
                
         },
         {
@@ -556,7 +556,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie", "pointe de paranormal", "drama", "intimiste"]
+            "tags" : ["BD", "tranche de vie", "pointe de paranormal", "drama", "intimiste", "must read"]
                
         },
         {
@@ -602,7 +602,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "deuil", "one shot"]
+            "tags" : ["manga", "deuil", "one shot", "must read"]
                
         },
         {
@@ -634,7 +634,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "aventure", "drame", "shonen"]
+            "tags" : ["manga", "aventure", "drame", "shonen", "must read"]
         },
         {
             "name" : "Solanin",
@@ -721,7 +721,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "aventure", "Corto Maltese"]
+            "tags" : [ "BD", "aventure", "classique" ]
         },
         {
             "name" : "Zaï zaï zaï zaï",
@@ -763,7 +763,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "polar", "tranche de vie", "adulte", "zboubinet"]
+            "tags" : ["BD", "polar", "tranche de vie", "adulte", "zboubinet", "must read"]
         },
         {
             "name" : "Un putain de salopard",
@@ -793,7 +793,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "biographie","tranche de vie","historique", "huits clots"]
+            "tags" : ["BD", "biographie","tranche de vie","historique", "huits clots", "must read"]
 
         },
         {
@@ -907,7 +907,7 @@
             "owned"     : true,
             "rented_by" : "Louis (Vol 2)",
 
-            "tags" : ["BD","fantaisie", "conte"]
+            "tags" : ["BD","fantaisie", "conte", "c bô", "must read"]
         },
         {
             "name" : "Dors, petite fille",
@@ -959,7 +959,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "drame", "thriller", "jeune adulte"]
+            "tags" : ["manga", "drame", "thriller", "jeune adulte", "must read"]
         },
         {
             "name" : "MW",
@@ -1013,7 +1013,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "comics", "classique", "dystopie" ]
+            "tags" : [ "comics", "classique", "dystopie", "must read" ]
         },
         {
             "name" : "Joker",
@@ -1148,7 +1148,7 @@
             "owned"     : true,
             "rented_by" : "John",
 
-            "tags" : [ "comics", "anglais", "thriller", "surnaturel", "sorcière" ]
+            "tags" : [ "comics", "anglais", "thriller", "surnaturel", "sorcière", "must read" ]
         },
         {
             "name" : "Superman: Red Son",
@@ -1161,7 +1161,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superman", "DC" ]
+            "tags" : [ "comics", "superman", "DC", "must read" ]
         },
         {
             "name" : "La Fille de la plage",
@@ -1175,10 +1175,10 @@
             "owned"     : true,
             "rented_by" : "Matt",
 
-            "tags" : [ "manga", "sexualité", "ados", "tranche de vie", "school life", "glauque" ]
+            "tags" : [ "manga", "sexualité", "ados", "tranche de vie", "school life", "glauque", "must read" ]
         },
         {
-            "name" : "Anthology",
+            "name" : "Anthologie",
             "author" : "Inio Asano",
             "image"  : "asanoanthology.jpg",
 
@@ -1188,7 +1188,7 @@
             "owned"     : true,
             "rented_by" : "Matt",
 
-            "tags" : [ "manga", "tranche de vie", "histoires courtes", "school life", "passage à l'âge adulte", "dystopie" ]
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "passage à l'âge adulte", "dystopie" ]
         },
         {
             "name" : "Le Quartier de la lumière",
@@ -1227,7 +1227,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "tranche de vie", "reflexion" ]
+            "tags" : [ "BD", "tranche de vie", "reflexion", "must read" ]
         },
         {
             "name" : "Saccage",
@@ -1281,7 +1281,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "angais", "horreur", "surnaturel", "psychologique", "glauque" ]
+            "tags" : [ "manga", "angais", "horreur", "surnaturel", "psychologique", "glauque", "must read" ]
         },
         {
             "name" : "Love × Dilemma",
@@ -1357,7 +1357,7 @@
             "author" : "Rosemary Valero-O'connell",
             "image"  : "toutcequilrestedenous.jpg",
 
-            "description" : "Cette BD me fait beaucoup penser à <a href='tag?t=Dans un Rayon de Soleil'><em>Dans un Rayon de Soleil</em></a>. Dans les faits, on a là trois petites histoires sympathiques avec un vague thème commun : science fiction, souvenirs et onirisme.<br /><br />Le thème <em>onirique</em> revient souvent ici c'est vrai. Mais le monde du rêve et de l'aventure impossible me tient à coeur, je pense que la meilleure façon de traiter un sujet reste l'extrapolation, englober notre thème dans quelques choses de plus fort. 1984 c'est un peu onirique, en ce sens. Un peu. Mais ça n'a vraiment pas grand chose à voir avec cette BD.<br /><br />Non cette BD c'est plutôt l'autre genre d'onirique, à la <em>Le Voyage de Chihiro</em>, l'onirique qui nous fait voyager avant tout, et imaginer d'autres réalités et accepter leurs codes. Un monde parallèle où les gens se nourissent de nos souvenirs, un autre monde où les souvenirs sont un carburant, et un dernier qui s'approche de sa fin et où on consumme nos derniers instants pour créer des souvenirs inutiles...<br /><br />C'est pas parfait mais j'ai aimé ses trois petites histoires.",
+            "description" : "Cette BD me fait beaucoup penser à <a href='tag?t=Dans un Rayon de Soleil'><em>Dans un Rayon de Soleil</em></a>. Dans les faits, on a là trois petites histoires sympathiques avec un vague thème commun : science fiction, souvenirs et onirisme.<br /><br />Le thème <em>onirique</em> revient souvent ici c'est vrai. Mais le monde du rêve et de l'aventure impossible me tient à coeur, je pense que la meilleure façon de traiter un sujet reste l'extrapolation, englober notre thème dans quelques choses de plus fort. 1984 c'est un peu onirique, en ce sens. Un peu. Mais ça n'a vraiment pas grand chose à voir avec cette BD.<br /><br />Non cette BD c'est plutôt l'autre genre d'onirique, à la <em>Le Voyage de Chihiro</em>, l'onirique qui nous fait voyager avant tout, et imaginer d'autres réalités et accepter leurs codes. Un monde parallèle où les gens se nourissent de nos souvenirs, un autre monde où les souvenirs sont un carburant, et un dernier qui s'approche de sa fin et où on consumme nos derniers instants pour créer des souvenirs inutiles...<br /><br />C'est pas parfait mais j'ai aimé la simplicité de ces petites histoires.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
@@ -1376,7 +1376,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "BD", "onirique", "voyage", "écologie", "adulte" ]
+            "tags" : [ "BD", "contemplatif", "voyage", "écologie", "adulte" ]
         },
         {
             "name" : "Tyler Cross",
@@ -1389,7 +1389,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "BD", "vengeance", "action", "combats", "adulte" ]
+            "tags" : [ "BD", "vengeance", "action", "combats", "thriller" ]
         },
         {
             "name" : "La Nuit est mon Royaume",
