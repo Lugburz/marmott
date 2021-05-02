@@ -40,7 +40,12 @@
             </span>
             {% endif %}
             <div class="comic-text">
-                {{ comic.description | smartify }}
+                {% if comic.mkdw %}
+                    {% capture my_include %}{% include {{comic.mkdw}} %}{% endcapture %}
+                    {{ my_include | markdownify }}
+                {% else %}
+                    {{ comic.description | smartify }}
+                {% endif %}
             </div>
             <div class="comic-tags">
                 {% for tag in comic.tags %}

@@ -5,7 +5,7 @@ title: Par auteur
 
 {% include header.html %}
 {% assign allcomics = site.data.database.comics | where_exp: "item", "item.hide != true" %}
-{% assign comics = allcomics | sort: "author" %}
+{% assign comics = allcomics | sort_natural: "author" %}
 
 Par auteur.
 

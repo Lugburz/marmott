@@ -17,7 +17,7 @@
             "tags" : [ "comics", "glauque", "drogues", "tranche de vie", "bizarre", "jeune adulte" ]
         },
         {
-            "name" : "Le roi des Mouches",
+            "name" : "Le Roi des Mouches",
             "author" : "Mezzo & Pirus",
             "image"  : "roi_des_mouches.jpg",
             "post"   : "roi_des_mouches",
@@ -1285,14 +1285,14 @@
             "image"  : "lovexdillema.jpg",
             "volumes": 28,
             "still_going":false,
-
-            "description" : "Plus connue sous le nom de <em>Domestic Girlfriend</em>, cette série  démarre comme un scénario de film porno et reprend clairement tous les codes du manga harem. Notre perso principal est amoureux de sa prof mais après un rejet évident décide pour l'oublier de se trouver un plan cul au pif. Son père se remarie et évidemment, la prof et le plan cul sont maintenant ses demi-soeurs. En vrai je crois que j'ai déjà vu du porno plus subtil que ça.<br /><br />Mais étonnamment, l'auteure arrive quand même à raconter beaucoup de sous-histoires qui dépassent clairement le cadre habituel des romances de lycéens. Les personnages principaux ont notamment de vraies ambitions et les personnages secondaires ne sont pas (tous) de simples faire-valoirs. Notre héro voulant devenir écrivain, on passera pas mal de temps à le suivre dans sa recherche d'inspiration, ses changements d'orientation à la fac et son angoisse de la page blanche.<br /><br />Love x Dilemma c'est beaucoup de <em>WTF</em>, de <em>Wow ils ont osé</em>, mais pas que. Mon plus gros reproche serait qu'à vouloir tout caser dans la même histoire, on se retrouve avec une narration saccadée, entre sous-intrigues vues et revues, sous-intrigues jamais vues mais dont on aurait pu se passer, romances qui trainent et drama inutiles ou qui arrivent trop tard. Ceci étant dit, ça reste une série surprenante, un plaisir coupable que j'assume entièrement.<br /><br />(Série finie en VO et en scanlation, mais la trad FR traîne)",
+            
+            "mkdw"   : "mkdw/love_x_dilemma.md",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "manga", "shonen", "romance", "harem", "sexualité", "bordeline hentai", "ecchi", "zboubinet", "school life", "tranche de vie", "ados" ]
+            "tags" : [ "manga", "shonen", "romance", "harem", "sexualité", "bordeline hentai", "ecchi", "zboubinet", "festival du téton", "school life", "tranche de vie", "ados" ]
         },
         {
             "name" : "Des Souris et des Hommes",
@@ -1408,20 +1408,34 @@
             "description" : "TODO",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "BD", "historique", "argent", "trahison chez les richous", "vengeance", "Der des Ders" ]
         },
         {
-            "name" : "Capitaine Albator - Mémoires de l'Arcadia",
-            "author" : "Jérôme Alquié",
-            "image"  : "albatormemoiresdelarcadia.jpg",
+            "name" : "Le Roi des Bourdons",
+            "author" : "David de Thuin",
+            "image"  : "roi_des_bourdons.jpg",
 
             "description" : "TODO",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "adulte", "drogues", "alcool", "depression" ]
+        },
+        {
+            "name" : "Capitaine Albator - Mémoires de l'Arcadia",
+            "author" : "Jérôme Alquié",
+            "image"  : "albatormemoiresdelarcadia.jpg",
+            "volumes": 3,
+
+            "description" : "TODO",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "BD", "manga", "leijiverse", "scifi", "espace", "onirique" ]
@@ -1434,7 +1448,7 @@
             "description" : "Qu'il est beau, <br />Qu'il est gentil le Coco<br />Tout rose comme une rose,<br />tout rond et tout mignon,<br /><br />C'est le plus beau.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "BD", "humour", "coco", "beau", "gentil", "rose", "rond", "mignon", "8ième Migration des Grands Anciens" ]
@@ -1447,7 +1461,7 @@
             "description" : "TODO.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "BD", "guerre", "drame" ]
@@ -1462,7 +1476,7 @@
             "description" : "Pas encore lu, j'attends la suite.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "manga", "horreur", "surnaturel" ]
@@ -1475,7 +1489,7 @@
             "description" : "<em>Livre dont vous êtes le héros</em> pour grands garçons, <em>Vanille ou Chocolat</em> (<em>Meanwhile</em> en VO) est un bordel absolu. Vous assistez un scientifique qui veut tester trois inventions : une machine à lire dans les souvenirs, une machine qui peut annihiler une ville entière (<em>Killotron&trade;</em>) et une machine à voyager dans le temps. <br /><br />Chaque machine est protégée par un code secret qui limite son utilisation, par exemple de base la machine à voyager dans le temps n'ira pas plus loin que 10 minutes en arrière. Vous pouvez choisir de rentrer un code au pif ou de trouver le vrai code quelque part. Selon vos choix, vous pourrez rapidement mourir après avoir fait mumuse avec le <em>Killotron</em> ou au contraire finir dans des boucles temporelles infinies.<br /><br />Contrairement aux choix conventionnels de livre dont vous êtes le héros, ici rien n'est évident, parfois tout se joue juste sur le fait de choisir entre pile ou face. Un peu frustrant de ce côté là, mais très fun d'y revenir de temps en temps pour découvrir une nouvelle fin. Tricher n'est pas vraiment une option, pour ça faudrait déjà savoir ce qu'on veut comme fin, et revenir en arrière est parfois plus compliqué que de repartir de zéro.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "BD", "livre dont vous êtes le héros" ]
@@ -1488,7 +1502,7 @@
             "description" : "TODO.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "manga", "onirique", "monstres", "mignon" ]
@@ -1503,7 +1517,7 @@
             "description" : "L'histoire est bien, mais mattez l'animé ou lisez la Light Novel. Assez peu d'intérêt en manga, graphiquement comme narrativement c'est tout pompé sur l'animé sans y ajouter la moindre once d'originalité, voire en perdant certains aspects qui marchaient mieux dans l'animé...",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "manga", "ados", "romance", "pointe de paranormal" ]
@@ -1516,7 +1530,7 @@
             "description" : "C'est l'histoire de Shino, et elle sait pas dire son nom. Et c'est à peu près tout.<br /><br />Non allez, en vrai c'est pas mal, ça parle de handicap : Shino bégaie et a beaucoup de mal à prononcer certains mots, son prénom en faisant partie. Elle reste donc très solitaire à l'école, n'osant pas expliquer sa condition aux autres, jusqu'à ce qu'elle rencontre Kayo, une musicienne qui sait pas chanter. Et il s'avère que quand Shino chante bah là ça va, ça sort tout seul.<br /><br />Un manga plutôt orienté jeunesse mais intéressant quand même. L'auteure souffrant elle-même de soucis d'élocution, on ressent toute la panique et la frustration de Shino quand elle galère a aligner trois mots pourtant simples. Une bonne petite lecture si on est d'humour manga tranche de vie dramas lycéens.",
 
             "added_date" : "2021-04-22",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "manga", "ados", "jeunesse", "handicap", "one shot" ]
@@ -1525,14 +1539,28 @@
             "name" : "All Star Superman",
             "author" : "Grant Morrison & Frank Quitely",
             "image"  : "all-star-superman.jpg",
-
-            "description" : "TODO",
+            "mkdw"   : "mkdw/all_star_superman.md",
 
             "added_date" : "2021-04-22",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "comics", "superman", "DC" ]
+        },
+        {
+            "name" : "La Petite Faiseuse de Livres",
+            "author" : "Miya Kazuki & Suzuka & You Shiina",
+            "image"  : "petite-faiseuse-de-livres.jpg",
+            "volumes": 7,
+            "still_going": true,
+
+            "description" : "TODO",
+
+            "added_date" : "2021-05-01",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "isekai", "shonen", "maladie", "mignon" ]
         }
         
         
