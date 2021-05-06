@@ -102,7 +102,7 @@
             "added_date" : "2019-10-19",
             "owned"     : false,
 
-            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "ésothérisme"]
+            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "surnaturel", "must read"]
         },
         {
             "name" : "Le troisième Testament - JVLIVS",
@@ -115,7 +115,7 @@
             "added_date" : "2019-10-19",
             "owned"     : false,
 
-            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "ésothérisme" ]
+            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "surnaturel" ]
         },
         {
             "name" : "Le sculpteur",
@@ -129,7 +129,7 @@
             "owned"     : true,
             "rented_by" : "J'aimerais bien savoir justement",
 
-            "tags" : ["BD", "tranche de vie", "romance", "drama", "ésothérisme" ]
+            "tags" : ["BD", "tranche de vie", "romance", "drama", "surnaturel" ]
         },
         {
             "name" : "Bolchoi Arena",
@@ -143,7 +143,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Cyril",
+            "rented_by" : null,
 
             "tags" : ["BD", "scifi", "Boulet", "série", "pew pew"]
             
@@ -158,7 +158,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Arnaud",
 
             "tags" : ["BD", "tranche de vie", "Boulet", "jeune adulte", "must read" ]
             
@@ -298,7 +298,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Fred",
+            "rented_by" : null,
 
             "tags" : [ "BD", "scifi", "dystopie", "espace", "must read" ]
         },
@@ -400,7 +400,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Fred",
+            "rented_by" : null,
 
             "tags" : ["BD", "mythologie", "fantaisie"]
                
@@ -596,7 +596,7 @@
 
             "added_date" : "2021-04-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "John",
 
             "tags" : ["manga", "deuil", "one shot", "must read"]
                
@@ -608,13 +608,13 @@
             "post"   : "relife",
             "volumes": 15,
 
-            "description" : "TODO",
+            "mkdw":"mkdw/relife.md",
             
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "tranche de vie", "school life", "jeune adulte", "romance"]
+            "tags" : ["manga", "tranche de vie", "comédie", "school life", "jeune adulte", "romance"]
                
         },
         {
@@ -996,7 +996,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "BD", "classique", "vampire", "thriller" ]
+            "tags" : [ "BD", "classique", "vampire", "thriller", "must read" ]
         },
         {
             "name" : "V pour Vendetta",
@@ -1006,8 +1006,8 @@
             "description" : "TODO.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
-            "rented_by" : null,
+            "owned"     : true,
+            "rented_by" : "Cyril",
 
             "tags" : [ "comics", "classique", "dystopie", "must read" ]
         },
@@ -1019,8 +1019,8 @@
             "description" : "Edition N&B. TODO.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
-            "rented_by" : null,
+            "owned"     : true,
+            "rented_by" : "Cyril",
 
             "tags" : [ "comics", "batman", "joker", "DC" ]
         },
@@ -1082,7 +1082,7 @@
             "author" : "Takeru Furumoto",
             "image"  : "our-Summer-Love.jpg",
 
-            "description" : "One shot assez quelconque. En gros un écrivain en recherche d'inspiration retourne dans la petite ville de son adolescence, ville qu'il avait quittée comme un malpropre quelques mois après la mort de son crush. Il y revoit la soeur de sa dead waifu, qui est clairement à fond sur lui, mais il préfère aller pécho le fantôme de son amour de jeunesse.<br /><br />Graphiquement comme narrativement <em>c'est du manga&trade;</em>, on s'emmerde un peu. Ça peut plaire à ta petite soeur un peu émo, mais elle a sans doute déjà lu 36 fan-fictions similaires sur tumblr.",
+            "description" : "One shot assez quelconque. En gros un écrivain en recherche d'inspiration retourne dans la petite ville de son adolescence, ville qu'il avait quitté comme un malpropre quelques mois après la mort de son crush. Il y revoit la soeur de sa dead waifu, qui est clairement à fond sur lui, mais il préfère aller pécho le fantôme de son amour de jeunesse.<br /><br />On sent une certaine volonté de faire référence à <em>5cm per Second</em> (même ville, une des filles a le même nom), mais la narration prend beaucoup moins son temps pour retranscrire le cadre bucolique et l'ambiance pesante de ce dernier. C'est tout le soucis des oneshot en manga, si tu prends pas de risques tu finis dans un entre deux où il se passe pas grand chose et ce pas grand chose arrive quand même à ne pas être assez étoffé.<br /><br />Graphiquement comme narrativement <em>c'est du manga&trade;</em>, on s'emmerde un peu.  Ça peut plaire à ta petite soeur un peu émo, mais elle a sans doute déjà lu 36 fan-fictions similaires sur tumblr.",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
@@ -1099,7 +1099,7 @@
 
             "added_date" : "2021-04-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Matt",
 
             "tags" : [ "manga", "histoires courtes" ]
         },
@@ -1142,7 +1142,7 @@
 
             "added_date" : "2021-04-19",
             "owned"     : true,
-            "rented_by" : "John",
+            "rented_by" : null,
 
             "tags" : [ "comics", "anglais", "thriller", "surnaturel", "sorcière", "must read" ]
         },
@@ -1324,10 +1324,10 @@
             "name" : "Coma héroïque dans un autre monde",
             "author" : "Hotondo Shindeiru",
             "image"  : "coma_heroique.jpg",
-            "volumes": 1,
+            "volumes": 2,
             "still_going":true,
 
-            "description" : "Isekai inversé où un homme se réveille après 17 ans passés dans un monde parallèle et en parle à son neveu. C'est pas foufou jusque là mais c'est rigolo, écouter un grand garçon comme ça obsédé par les jeux vidéos des années 90 nous parler de sa médiocre expérience dans un monde parralèle, maîtriser la magie et la lévitation même dans ce monde mais s'en servir juste pour pas payer les frais de ports pour une Dreamcast sur Ebay...<br /><br />Bref, à voir.",
+            "description" : "Isekai inversé où un homme se réveille après 17 ans passés dans un monde parallèle et raconte ses aventures à son neveu. C'est pas incroyable non plus jusque là mais c'est rigolo, écouter un grand garçon comme ça obsédé par les jeux vidéos des années 90 nous parler de sa médiocre expérience dans un monde parralèle, maîtriser la magie et la lévitation même dans ce monde mais s'en servir juste pour pas payer les frais de ports pour une <em>Sega Saturn</em> sur Ebay...<br /><br />Bref, à voir.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
@@ -1527,7 +1527,7 @@
             "author" : "Oshimi Shuzo",
             "image"  : "shino_ne_sait_pas_dire_son_nom.jpg",
 
-            "description" : "C'est l'histoire de Shino, et elle sait pas dire son nom. Et c'est à peu près tout.<br /><br />Non allez, en vrai c'est pas mal, ça parle de handicap : Shino bégaie et a beaucoup de mal à prononcer certains mots, son prénom en faisant partie. Elle reste donc très solitaire à l'école, n'osant pas expliquer sa condition aux autres, jusqu'à ce qu'elle rencontre Kayo, une musicienne qui sait pas chanter. Et il s'avère que quand Shino chante bah là ça va, ça sort tout seul.<br /><br />Un manga plutôt orienté jeunesse mais intéressant quand même. L'auteure souffrant elle-même de soucis d'élocution, on ressent toute la panique et la frustration de Shino quand elle galère a aligner trois mots pourtant simples. Une bonne petite lecture si on est d'humour manga tranche de vie dramas lycéens.",
+            "description" : "C'est l'histoire de Shino, et elle sait pas dire son nom. Et c'est à peu près tout.<br /><br />Non allez, en vrai c'est pas mal, ça parle de handicap : Shino bégaie et a beaucoup de mal à prononcer certains mots, son prénom en faisant partie. Elle reste donc très solitaire à l'école, n'osant pas expliquer sa condition aux autres, jusqu'à ce qu'elle rencontre Kayo, une musicienne qui sait pas chanter. Et il s'avère que quand Shino chante bah là ça va, ça sort tout seul.<br /><br />Un manga plutôt orienté jeunesse mais intéressant quand même. L'auteure souffrant elle-même de soucis d'élocution, on ressent toute la panique et la frustration de Shino quand elle galère à aligner trois mots pourtant simples. Une bonne petite lecture si on est d'humeur manga tranche de vie dramas lycéens.",
 
             "added_date" : "2021-04-22",
             "owned"     : true,
@@ -1561,6 +1561,36 @@
             "rented_by" : null,
 
             "tags" : [ "manga", "isekai", "shonen", "maladie", "mignon" ]
+        },
+        {
+            "name" : "5cm per Second",
+            "author" : "Shinkai Makoto & Seike Yukiko",
+            "image"  : "5cm_per_second.jpg",
+            "volumes": 2,
+            "still_going": false,
+
+            "description" : "TODO",
+
+            "added_date" : "2021-05-01",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "romance", "tranche de vie", "passage à l'âge adulte", "nostalgie" ]
+        },
+        {
+            "name" : "Killing Joke",
+            "author" : "Alan Moore & Brian Bolland",
+            "image"  : "killing_joke.jpg",
+            "volumes": 2,
+            "still_going": false,
+
+            "description" : "TODO",
+
+            "added_date" : "2021-05-01",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "batman", "joker", "DC", "classique" ]
         }
         
         
