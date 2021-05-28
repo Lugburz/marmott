@@ -1,0 +1,5 @@
+Deux histoires courtes sur le thème d'un amour de lycée qui n'aura jamais fleuri. 
+
+Etonnamment plaisant à lire, ce manga s'attarde surtout sur la résignation des personnages devenus adultes et comment ils en sont arrivé à leurs propres conclusions/solutions face à la non réciprocité de leurs sentiments. J'ai un peu envie de le comparer à *5cm per Second*, mais en globalement plus frais et joyeux. 
+
+Le titre vient d'un gimick de narration : les personnages partent avec neuf *coeurs* qui symbolisent combien de déceptions ils vont pouvoir encaisser avant de définitivement passer à autre chose. Rien qu'avec cet artefact narratif on est moins dans le contemplatif un peu déprimant de *5cm per Second*, on accentue un peu plus le côté "passer à autre chose" dès le début, et on présente le tout avec un recul humoristique, sans parodier non plus le propos originel. 
