@@ -415,7 +415,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Didier",
 
             "tags" : ["BD", "humour", "gore", "Un gros pavé mais ça se lit vite en vrai."]
                
@@ -590,15 +590,14 @@
             "author" : "Waka Hirako",
             "image"  : "broken_mariko.jpg",
             "post"   : "brokenmariko",
-            "volumes":1,
 
             "description" : "Tomo apprend au JT que sa meilleure amie s'est suicidée, et décide que justice doit être faite. Elle volle les cendres de sa défunte amie chez son père, l'homme qui abusait d'elle, et se remémore son existence dans un road trip frustrant de réalisme. Rien n'est mis de côté : les moments tendres avec Mariko, les moments gênants, les moment tristes et les moment où Mariko a clairement déconné.<br /><br /><em>\"Plus ça va et moins j'arrive à me souvenir d'autre chose que son sourire radieux ! Elle qui pouvait être si chiante parfois, je ne veux pas oublier comment elle était vraiment !\"</em><br /><br />Waka Hirako est quelqu'un d'intéressant, mangaka japonaise très inspirée par les BD francophones (notamment Frederik Peeters) et les comics à la Batman, elle a développé un style original qui passe très bien en oneshot. Du coup Tomo c'est pas la waifu de base. Tomo c'est avant tout un personnage explosif qui cherche un but dans son deuil, et qui n'accepte plus toutes les conneries qu'elle a laissé passer avant.<br /><br />Graphiquement et scénaristiquement, c'est de la BD avant d'être du manga. Le thème est cru, abordé sans artifices, et on ne retrouve presque aucune convention ou cliché habituels du manga.<br /> Et ça fait plaisir putain." , 
 
             "added_date" : "2021-04-19",
             "owned"     : true,
-            "rented_by" : "John",
+            "rented_by" : null,
 
-            "tags" : ["manga", "deuil", "one shot", "must read"]
+            "tags" : ["manga", "BD", "deuil", "one shot", "must read"]
                
         },
         {
@@ -802,7 +801,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Arnaud",
 
             "tags" : ["manga","horreur","surnaturel","couple"]
         },
@@ -901,7 +900,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Louis (Vol 2)",
+            "rented_by" : null,
 
             "tags" : ["BD","fantaisie", "conte", "c bô", "must read"]
         },
@@ -1095,7 +1094,7 @@
             "author" : "Naoki Urasawa",
             "image"  : "atchoumurasawa.jpg",
 
-            "description" : "Receuils de petites histoires. Y'a quelques bonnes histoires dans le tas mais beaucoup de <em>Souvenirs de Voyage</em> qui parleront pas à tout le monde, à moins d'aimer le vieux rock.",
+            "description" : "Receuils de petites histoires. Y'a a des sympas dans le tas, mais aussi beaucoup de <em>Souvenirs de Voyage</em> qui ne parleront pas à tout le monde, à moins d'aimer le vieux rock.",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
@@ -1109,7 +1108,7 @@
             "image"  : "blue_flag.jpg",
             "volumes": 8,
 
-            "description" : "TODO.",
+            "mkdw":"mkdw/blueflag.md",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
@@ -1243,7 +1242,7 @@
             "author" : "Monday Recover",
             "image"  : "9_Lives_Man.jpg",
 
-            "description" : "Deux histoires courtes sur le thème d'un amour de lycée qui n'aura jamais fleuri. Etonnamment plaisant à lire, ce manga s'attarde surtout sur la résignation des personnages et comment ils en arrivent à leurs propres conclusions/solutions face à la non réciprocité de leurs sentiments.",
+            "mkdw" : "mkdw/9livesman.md",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
@@ -1581,8 +1580,6 @@
             "name" : "Killing Joke",
             "author" : "Alan Moore & Brian Bolland",
             "image"  : "killing_joke.jpg",
-            "volumes": 2,
-            "still_going": false,
 
             "description" : "TODO",
 
@@ -1591,12 +1588,63 @@
             "rented_by" : null,
 
             "tags" : [ "comics", "batman", "joker", "DC", "classique" ]
+        },
+        {
+            "name" : "MOEBIUS: Les Vacances du Major",
+            "author" : "Moebius",
+            "image"  : "moebius_vacances_major.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-05-01",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "classique" ]
+        },
+        {
+            "name" : "BUG",
+            "author" : "Enki Bilal",
+            "image"  : "enkibilal_bug.jpg",
+            "volumes": 2,
+            "still_going": false,
+            
+            "description" : "TODO",
+
+            "added_date" : "2021-05-01",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "classique" ]
+        },
+        {
+            "name" : "Le Château des Etoiles",
+            "author" : "Alex Alice",
+            "image"  : "chateau_des_etoiles.jpg",
+            "volumes": 1,
+            "still_going": true,
+
+            "description" : "TODO",
+
+            "added_date" : "2021-05-01",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD" ]
+        },
+        {
+            "name" : "Planètes",
+            "author" : "Yukimura Makoto",
+            "image"  : "manga_planetes.jpg",
+
+            "description" : "TODO",
+
+            "added_date" : "2021-05-01",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "scifi", "seinen" ]
         }
-        
-        
-        
-        
-        
-        
+               
     ]
 }

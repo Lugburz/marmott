@@ -34,8 +34,10 @@ Au final je crois que j'ai jamais été aussi paummé qu'après avoir lu ce *All
 
 * Parmi les 12 Travaux y'en a quand même des bien nuls. Genre le Sphynx Cosmique : le machin débarque de nulle part, prend un air grave et solennel, pose une énigme foireuse genre *&laquo;Qu'est-ce qui est jaune et qui attend ?&raquo;, &laquo;Jonathan ?&raquo;, &laquo;Ah tu la connaissais bah bravo&raquo;*, et il se barre FIN. Paye ton *travail impossible*.
 
-* On sais toujours pas ce que c'est vraiment ce **P.R.O.J.E.T** (*ce qui renforce la théorie LREM*).
+* On sais toujours pas ce que c'est vraiment ce **P.R.O.J.E.T** (*mais les gens de LREM le savent-ils donc, eux !?*).
 
 #### BREF
+
+Il faut connaître les références pour apprécier je suppose. Mais moi je les ai pas justement. Et même sans ça c'est assez bancal, rien ne m'a donné envie d'en apprendre plus sur les persos que je connaissais pas tellement c'est crytpique et atomique et nucléaire.
 
 Pas convaincu du tout par cette lecture, et par extension par l'univers *DC*. J'insisterai sans doute davantage, mais avec ce *All Star Superman* mon apriori sur les comics de superhéros s'est plus que confirmé.

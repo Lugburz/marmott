@@ -17,9 +17,22 @@ layout: default
   }
 </style>
 
-<div class="container">
+<div id="page404" style="display:none;" class="container">
   <h1>404</h1>
 
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
+  <p><a href="{{ site.baseurl }}/" >Back to index</a></p>
 </div>
+
+<script>
+  // dirty redirect for most basic hosting services (which need .html)
+  (function() {
+    var url = window.location.href;
+    if(url.indexOf('.html') == -1 ) {
+      window.location.href = url.replace(/([^?]*)(\?)?(.*)/, '$1.html$2$3');
+    } else {
+      $('#page404').show();
+    }
+  })();
+</script>
