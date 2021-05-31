@@ -1644,6 +1644,80 @@
             "rented_by" : null,
 
             "tags" : [ "manga", "scifi", "seinen" ]
+        },
+        {
+            "name" : "Filles Uniques",
+            "author" : "BEKA & Camille Méhu",
+            "image"  : "fillesuniques_1.jpg",
+            "volumes": 1,
+            "still_going": true,
+            "description" : "TODO",
+
+            "added_date" : "2021-06-28",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "tranche de vie", "drame", "lycéens" ]
+        },
+        {
+            "name" : "Nuit Couleur Larme",
+            "author" : "Borja González",
+            "image"  : "nuitcouleurlarme.jpg",
+            "description" : "TODO",
+
+            "added_date" : "2021-06-28",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "onirique" ]
+        },
+        {
+            "name" : "Hawkeye : Ma Vie est une Arme",
+            "author" : "Matt Fraction & David Aja",
+            "image"  : "hawkeye-ma-vie-est-une-arme.jpg",
+            "description" : "TODO",
+
+            "added_date" : "2021-06-22",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
+        },
+        {
+            "name" : "Venom : Rex",
+            "author" : "Donny Cates & Ryan Stegman",
+            "image"  : "venom-rex-printemps-du-comics.jpg",
+            "description" : "TODO",
+
+            "added_date" : "2021-06-22",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
+        },
+        {
+            "name" : "Ultimates : Super-Humain",
+            "author" : "Mark Millar & Bryan Hitch",
+            "image"  : "ultimates-printemps-du-comics.jpg",
+            "description" : "TODO",
+
+            "added_date" : "2021-06-22",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
+        },
+        {
+            "name" : "Wolverine : Les Origines",
+            "author" : "Bill Jemas & Paul Jenkins & Joe Quesada & Andy Kubert",
+            "image"  : "wolverine-printemps-du-comics.jpg",
+            "description" : "TODO",
+
+            "added_date" : "2021-06-22",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
         }
                
     ]
