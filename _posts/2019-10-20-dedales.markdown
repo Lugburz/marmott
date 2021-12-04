@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Dédales, Charles Burns"
-date:   2019-10-20 21:34:30 +0200
-categories: comics review
----
-
-Hello

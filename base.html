@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>L'antre de la Marmotte</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <script src="external/showdown.min.js"></script>
+    <script src="tools.js"></script>
+    <script src="database.js"></script>
+    <script src="comics.js"></script>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <mymenu inline-template>        
+            <nav style="margin-top:50px;">
+                <div v-for="item in menuItems">
+                    <a v-bind:href="item.link" >{{ item.name }}</a>
+                </div>
+            </nav>
+        </mymenu>
+        <comics-list inline-template>
+            <div id="comics-list">
+                <div name="filter-tags" style="position: fixed;width:100%;background-color: white;border: 1px solid gray;min-height: 20px;top:0;left:0;">
+                    <span>Filtres : </span>
+                    <span class="comic-tag">
+                        <a v-on:click="onRemoveAllFilters">X</a>
+                    </span>
+                    
+                    <span v-for="tag in filters" class="comic-tag">
+                        <a v-html="tag" v-on:click="onRemoveFilter(tag)"></a>
+                    </span>
+                </div>
+                <div style="margin-top: 10px;" name="all-tags">
+                    <span v-for="tag in tags" class="comic-tag">
+                        <a v-html="tag" v-on:click="onAddFilter(tag)"></a>
+                    </span>
+                </div>
+                <div>{{ filteredComics.length }} / {{ comics.length }} BDs</div>
+                <div v-for="comic in filteredComics" class="comics-list-item" >
+                    <div class="comic-thumbnail">
+                        <a v-bind:href="'./img/comics/' + comic.image">
+                            <img v-bind:src="'./img/comics/thumbnails/' + comic.image" v-bind:alt='comic.name' />
+                        </a>
+                    </div>
+                    <div class="comic-description">
+                        <span class="comic-title">{{ comic.name }}
+                            <template v-if="comic.owned">
+                                <template v-if="comic.rented_by">
+                                    <span class="comic-rented" title="Emprunté"></span>
+                                    <span style="font-size:0.5em;">(emprunté par {{comic.rented_by}})</span>
+                                </template>
+                                <template v-else>
+                                    <span class="comic-available" title="Disponible"></span>
+                                </template>
+                            </template>
+                            <template v-else>
+                                <span class="comic-unavailable" title="Indisponible"></span> 
+                            </template>
+                        </span>
+                        <span class="comic-author">{{ comic.author }}</span>
+                        <span  v-if="comic.volumes" class="comic-volumes">
+                            {{ comic.volumes }}
+                            <template v-if="comic.volumes == 1">
+                                volume
+                            </template>
+                            <template v-else>
+                                volumes
+                            </template>
+                            <template v-if="comic.still_going">
+                                (série en cours)
+                            </template>
+                        </span>
+                        <div class="comic-text" v-html="comic.description">
+                        </div>
+                        <div class="comic-tags">
+                            <span v-for="tag in comic.tags" class="comic-tag" data-tag="tag">
+                                <a v-html="tag" v-on:click="onAddFilter(tag, true)" ></a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </comics-list>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

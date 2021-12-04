@@ -1,0 +1,7 @@
+La petite faiseuse de livres (ascension of a bookworm) est un isekai comme j'aimerais en voir plus souvent. Cette fois notre héroïne est une jeune femme passionnée de lecture prête à lire absolument n'importe quoi, ce qui lui octroie une culture générale assez impressionnante. Évidemment pour que ça devienne un bon isekai il faut qu'elle meure brutalement, mais pour une fois ce n'est pas à *camion-senpai* qu'en revient la responsabilité, elle est beaucoup plus naturellement tuée par sa passion : une bibliothèque trop pleine.
+
+Cette fois cependant pas de reincarnation dans un monde d'aventures et d'actions, notre héroïne fini dans le corps bien pathétique de Maïn 5 ans, enfant mal servie par la génétique car atteinte d'une maladie rare et incurable qui lui complique grandement la vie.
+
+Ce monde, plus médiévalo que fantastique, est marqué par l'illettrisme et les grandes inégalités sociales : impossible d'y trouver le moindre livre sans être noble, chose inacceptable pour Maïn. Elle va ainsi s'investir d'une mission : fabriquer du papier pour rendre les livres abordables à tous. 
+
+Ce que j'ai particulièrement aimé dans ce premier arc narratif c'est l'absence de tout ce qui constitue un isekai classique : pas de bestioles fantastiques, pas de grands héros, la magie est à peine évoquée... Maïn découvre lentement le lore de ce monde et s'intéressera principalement à la flore environnante, cherchant des alternatives aux ressources dont elle a besoin.
