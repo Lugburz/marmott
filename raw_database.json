@@ -5,7 +5,7 @@
             "author" : "Charles Burns",
             "image"  : "dedales.jpg",
             "post"   : "dedales",
-            "volumes" : 1,
+            "volumes" : 2,
             "still_going" : true,
 
             "description" : "TODO.",
@@ -14,7 +14,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "glauque", "drogues", "tranche de vie", "bizarre", "jeune adulte" ]
+            "tags" : [ "comics", "glauque", "drogues", "tranche de vie", "bizarre", "jeune adulte", "backlog" ]
         },
         {
             "name" : "Le Roi des Mouches",
@@ -116,7 +116,7 @@
             "added_date" : "2019-10-19",
             "owned"     : false,
 
-            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "surnaturel" ]
+            "tags" : ["BD", "classique", "historique", "action", "fantaisie", "surnaturel", "backlog" ]
         },
         {
             "name" : "Le sculpteur",
@@ -313,7 +313,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["comics", "old school", "conan"]
+            "tags" : ["comics", "old school", "conan", "backlog"]
                
         },
         {
@@ -569,7 +569,7 @@
                
         },
         {
-            "name" : "Les jours qui restent",
+            "name"   : "Les jours qui restent",
             "author" : "Éric Dérian & Magalie Foutrier",
             "image"  : "les_jours_qui_restent.jpg",
             "post"   : "les_jours_qui_restent",
@@ -580,17 +580,15 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "drame", "tranche de vie", "court"]
+            "tags" : ["BD", "drame", "tranche de vie", "court", "meh" ]
                
         },
         {
-            "name" : "My Broken Mariko",
+            "name"   : "My Broken Mariko",
             "author" : "Waka Hirako",
             "image"  : "broken_mariko.jpg",
             "post"   : "brokenmariko",
-
-            "description" : "Tomo apprend au JT que sa meilleure amie s'est suicidée, et décide que justice doit être faite. Elle volle les cendres de sa défunte amie chez son père, l'homme qui abusait d'elle, et se remémore son existence dans un road trip frustrant de réalisme. Rien n'est mis de côté : les moments tendres avec Mariko, les moments gênants, les moment tristes et les moment où Mariko a clairement déconné.<br /><br /><em>\"Plus ça va et moins j'arrive à me souvenir d'autre chose que son sourire radieux ! Elle qui pouvait être si chiante parfois, je ne veux pas oublier comment elle était vraiment !\"</em><br /><br />Waka Hirako est quelqu'un d'intéressant, mangaka japonaise très inspirée par les BD francophones (notamment Frederik Peeters) et les comics à la Batman, elle a développé un style original qui passe très bien en oneshot. Du coup Tomo c'est pas la waifu de base. Tomo c'est avant tout un personnage explosif qui cherche un but dans son deuil, et qui n'accepte plus toutes les conneries qu'elle a laissé passer avant.<br /><br />Graphiquement et scénaristiquement, c'est de la BD avant d'être du manga. Le thème est cru, abordé sans artifices, et on ne retrouve presque aucune convention ou cliché habituels du manga.<br /> Et ça fait plaisir putain." , 
-
+            "mkdw"   : "mkdw/mybrokenmariko.md",
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
@@ -685,7 +683,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "biographie", "historique"]
+            "tags" : ["BD", "biographie", "historique", "backlog" ]
         },
         {
             "name" : "L'outremangeur",
@@ -827,7 +825,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD","polar"]
+            "tags" : ["BD", "polar", "backlog"]
         },
         {
             "name" : "Flesh Empire",
@@ -883,7 +881,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD","historique", "biographie"]
+            "tags" : ["BD","historique", "biographie", "backlog"]
         },
         {
             "name" : "L'âge d'Or",
@@ -924,7 +922,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "humour", "80's", "série"]
+            "tags" : [ "manga", "humour", "80's", "série", "backlog"]
         },
         {
             "name" : "Le prix du reste de ma vie",
@@ -1068,15 +1066,13 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "manga", "leijiverse", "espace", "onirique" ]
+            "tags" : [ "manga", "leijiverse", "espace", "onirique", "backlog" ]
         },
         {
             "name" : "Our Summer Love",
             "author" : "Takeru Furumoto",
             "image"  : "our-Summer-Love.jpg",
-
-            "description" : "One shot assez quelconque. En gros un écrivain en recherche d'inspiration retourne dans la petite ville de son adolescence, ville qu'il avait quitté comme un malpropre quelques mois après la mort de son crush. Il y revoit la soeur de sa dead waifu, qui est clairement à fond sur lui, mais il préfère aller pécho le fantôme de son amour de jeunesse.<br /><br />On sent une certaine volonté de faire référence à <em>5cm per Second</em> (même ville, une des filles a le même nom), mais la narration prend beaucoup moins son temps pour retranscrire le cadre bucolique et l'ambiance pesante de ce dernier. C'est tout le soucis des oneshot en manga, si tu prends pas de risques tu finis dans un entre deux où il se passe pas grand chose et ce pas grand chose arrive quand même à ne pas être assez étoffé.<br /><br />Graphiquement comme narrativement <em>c'est du manga&trade;</em>, on s'emmerde un peu.  Ça peut plaire à ta petite soeur un peu émo, mais elle a sans doute déjà lu 36 fan-fictions similaires sur tumblr.",
-
+            "mkdw":"mkdw/oursummerlove.md",
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
@@ -1088,7 +1084,7 @@
             "author" : "Naoki Urasawa",
             "image"  : "atchoumurasawa.jpg",
 
-            "description" : "Receuils de petites histoires. Y'a a des sympas dans le tas, mais aussi beaucoup de <em>Souvenirs de Voyage</em> qui ne parleront pas à tout le monde, à moins d'aimer le vieux rock.",
+            "description" : "Receuils de petites histoires. Y'en a des sympas dans le tas, mais aussi beaucoup de <em>Souvenirs de Voyage</em> qui ne parleront pas à tout le monde, à moins d'aimer le vieux rock.",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
@@ -1129,9 +1125,7 @@
             "image"  : "blackmagick.jpg",
             "volumes": 1,
             "still_going": true,
-
-            "description" : "<em>Black Magick</em>, c'est un peu <em>Charmed x Dexter</em>, mais dans un univers parallèle où ces deux séries ne seraient pas quelque chose qu'on a honte d'avoir un jour aimé.<br /><br />Rowan, fliquette de jour et sorcière wicca durant ses RTTs, enquête cette fois sur des meurtres qui la concernent directement. Un groupe occulte (constitué de clowns, gros monstres baveux et petites filles qui ressemblent à des poupées...) semble s'intéresser à elle, car évidemment Rowan en vrai c'est un personnage de Shonen et elle a le pouvoir absolu des trois soeurs Halliwell en elle, ou un truc du genre. Bon je troll un peu mais ça s'appelle quand même <em>The First Book of Shadows</em>, on me la fait pas.<br /><br />Série en cours, ce <em>First Book Of Shadows</em> comprend les 11 premiers chapitres de la série.",
-
+            "mkdw": "mkdw/blackmagik.md",
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
@@ -1199,7 +1193,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "tranche de vie", "histoires courtes" ]
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "backlog" ]
         },
         {
             "name" : "OLEG",
@@ -1253,7 +1247,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "ados", "school life", "shonen", "monstres", "combats" , "surnaturel"]
+            "tags" : [ "manga", "ados", "school life", "shonen", "monstres", "combats" , "surnaturel", "backlog" ]
         },
         {
             "name" : "Uzumaki",
@@ -1266,7 +1260,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "angais", "horreur", "surnaturel", "psychologique", "glauque", "must read" ]
+            "tags" : [ "manga", "anglais", "horreur", "surnaturel", "psychologique", "glauque", "must read" ]
         },
         {
             "name" : "Love × Dilemma",
@@ -1341,9 +1335,7 @@
             "name" : "Tout ce qu'il reste de nous",
             "author" : "Rosemary Valero-O'connell",
             "image"  : "toutcequilrestedenous.jpg",
-
-            "description" : "Cette BD me fait beaucoup penser à <a href='tag?t=Dans un Rayon de Soleil'><em>Dans un Rayon de Soleil</em></a>. Dans les faits, on a là trois petites histoires sympathiques avec un vague thème commun : science fiction, souvenirs et onirisme.<br /><br />Le thème <em>onirique</em> revient souvent ici c'est vrai. Mais le monde du rêve et de l'aventure impossible me tient à coeur, je pense que la meilleure façon de traiter un sujet reste l'extrapolation, englober notre thème dans quelques choses de plus fort. 1984 c'est un peu onirique, en ce sens. Un peu. Mais ça n'a vraiment pas grand chose à voir avec cette BD.<br /><br />Non cette BD c'est plutôt l'autre genre d'onirique, à la <em>Le Voyage de Chihiro</em>, l'onirique qui nous fait voyager avant tout, et imaginer d'autres réalités et accepter leurs codes. Un monde parallèle où les gens se nourissent de nos souvenirs, un autre monde où les souvenirs sont un carburant, et un dernier qui s'approche de sa fin et où on consumme nos derniers instants pour créer des souvenirs inutiles...<br /><br />C'est pas parfait mais j'ai aimé la simplicité de ces petites histoires.",
-
+            "mkdw": "mkdw/toutcequilrestedenous.md",
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
@@ -1387,7 +1379,7 @@
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "BD", "jeunes adultes", "musique", "parents", "indépendance", "passage à l'âge adulte" ]
+            "tags" : [ "BD", "ados", "jeune adulte", "musique", "parents", "indépendance" ]
         },
         {
             "name" : "Couleurs de l'incendie",
@@ -1468,7 +1460,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "horreur", "surnaturel" ]
+            "tags" : [ "manga", "horreur", "surnaturel", "backlog" ]
         },
         {
             "name" : "Vanille ou Chocolat",
@@ -1494,7 +1486,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "onirique", "monstres", "mignon" ]
+            "tags" : [ "manga", "onirique", "monstres", "mignon", "backlog" ]
         },
         {
             "name" : "Rascal Does Not Dream of Bunny Girl Senpai",
@@ -1605,22 +1597,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "classique" ]
-        },
-        {
-            "name" : "Le Château des Etoiles",
-            "author" : "Alex Alice",
-            "image"  : "chateau_des_etoiles.jpg",
-            "volumes": 1,
-            "still_going": true,
-
-            "description" : "TODO",
-
-            "added_date" : "2021-05-01",
-            "owned"     : true,
-            "rented_by" : null,
-
-            "tags" : [ "BD" ]
+            "tags" : [ "BD", "classique", "backlog" ]
         },
         {
             "name" : "Planètes",
@@ -1633,7 +1610,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "scifi", "seinen", "espace" ]
+            "tags" : [ "manga", "scifi", "seinen", "espace", "backlog" ]
         },
         {
             "name" : "Filles Uniques",
@@ -1683,7 +1660,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
+            "tags" : [ "comics", "superhéros", "Printemps des Comics", "backlog" ]
         },
         {
             "name" : "Ultimates : Super-Humain",
@@ -1695,7 +1672,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
+            "tags" : [ "comics", "superhéros", "Printemps des Comics", "backlog" ]
         },
         {
             "name" : "Wolverine : Les Origines",
@@ -1707,7 +1684,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
+            "tags" : [ "comics", "superhéros", "Printemps des Comics", "backlog" ]
         },
         {
             "name" : "Nausicaa de la vallée du vent",
@@ -1720,7 +1697,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "classique" ]
+            "tags" : [ "manga", "classique", "backlog" ]
         },
         {
             "name" : "La Reina Orquidea",
@@ -1792,7 +1769,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD" ]
+            "tags" : [ "BD", "backlog" ]
         },
         {
             "name" : "Le château des étoiles",
@@ -1805,7 +1782,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD" ]
+            "tags" : [ "BD", "backlog" ]
         },
         {
             "name" : "Les Chimères de Venus",
@@ -1818,7 +1795,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD" ]
+            "tags" : [ "BD", "backlog" ]
         },
         {
             "name" : "Prendre refuge",
@@ -1856,7 +1833,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "horreur", "surnaturel", "psychologique", "glauque", "must read" ]
+            "tags" : [ "manga", "horreur", "surnaturel", "psychologique", "glauque", "must read", "backlog" ]
         },
         {
             "name" : "En proie au silence",
@@ -1895,7 +1872,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "tranche de vie" ]
+            "tags" : ["BD", "tranche de vie", "backlog" ]
         },
         {
             "name" : "Les Cerveaux de la ferme",
@@ -1908,7 +1885,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD" ]
+            "tags" : [ "BD", "backlog" ]
         },
         {
             "name" : "BADASS",
@@ -1922,7 +1899,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics" ]
+            "tags" : [ "comics", "backlog" ]
         },
         {
             "name" : "Slaine",
@@ -1938,6 +1915,107 @@
             "rented_by" : null,
 
             "tags" : [ "BD", "mythologie" ]
+        },
+        {
+            "name" : "El globo rojo en la lluvia",
+            "author" : "Liniers",
+            "image"  : "El-globo-rojo-en-la-lluvia.jpg",
+            "description" : "Alegria ! Alegriaaa ! Es sabado todo el dia !<br /><img width='150' src='./img/other/elgloborojo_clapclap.PNG' alt='clap clap' />",
+            "added_date" : "2021-12-05",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "espagnol", "jeunesse" ]
+        },
+        {
+            "name" : "Les chefs d'oeuvre de Junji Ito",
+            "author" : "Junji Ito",
+            "image"  : "Les-chefs-d-oeuvre-de-Junji-Ito.jpg",
+            "description" : "TODO.",
+            "added_date" : "2021-12-05",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "manga", "horreur", "backlog" ]
+        },
+        {
+            "name" : "Sensor",
+            "author" : "Junji Ito",
+            "image"  : "sensor.jpg",
+            "description" : "TODO.",
+            "added_date" : "2021-12-05",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "manga", "horreur", "backlog" ]
+        },
+        {
+            "name" : "Eddy l'Angoisse",
+            "author" : "Rich",
+            "image"  : "eddylangoisse.jpg",
+            "description" : "TODO.",
+            "added_date" : "2021-12-05",
+            "owned"     : false,
+            "rented_by" : null,
+            "tags" : [ "BD", "jeune adulte", "backlog" ]
+        },
+        {
+            "name" : "Macanudo N°13",
+            "author" : "Liniers",
+            "image"  : "macanudo13.jpg",
+            "description" : "Prêté par Fanny, la bise à ses enfants.<br /><img height='180' src='./img/other/vacaciones.jpg' alt='vacaciones!' />",
+            "added_date" : "2021-12-05",
+            "owned"     : false,
+            "rented_by" : null,
+            "tags" : [ "BD", "espagnol", "stips" ]
+        },
+        {
+            "name" : "Zorn & Dirna",
+            "author" : "Jean-David Morvan & Bruno Bessadi",
+            "image"  : "zornanddirna.jpg",
+            "description" : "Dans un monde héroïque-fantastique, la Mort est morte et les âmes ne peuvent plus quitter leurs corps décharnés.",
+            "added_date" : "2021-12-05",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "fantastique", "backlog" ]
+        },
+        {
+            "name" : "La fin du monde avant le lever du jour",
+            "author" : "Inio Asano",
+            "image"  : "la_fin_du_monde_avant_le_lever_du_jour.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "backlog" ]
+        },
+        {
+            "name" : "Nijigahara Holograph",
+            "author" : "Inio Asano",
+            "image"  : "Nijigahara-Holograph.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "tranche de vie", "histoires courtes", "backlog" ]
+        },
+        {
+            "name" : "Escale à Yokohama",
+            "author" : "Ashinano Hitoshi",
+            "image"  : "escale-a-yokohama.jpg",
+            "volumes": 4,
+            "still_going": true,
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "chill", "post-apo" ]
         }
     ]
 }

@@ -1,0 +1,5 @@
+One shot assez quelconque. En gros un écrivain en recherche d'inspiration retourne dans la petite ville de son adolescence, ville qu'il avait quitté comme un malpropre quelques mois après la mort de son crush. Il y revoit la soeur de sa dead waifu, qui est clairement à fond sur lui, mais il préfère aller pécho le fantôme de son amour de jeunesse.
+
+On sent une certaine volonté de faire référence à *5cm per Second* (même ville, une des filles a le même nom), mais la narration prend beaucoup moins son temps pour retranscrire le cadre bucolique et l'ambiance pesante de ce dernier. C'est tout le soucis des oneshot en manga, si tu prends pas de risques tu finis dans un entre deux où il se passe pas grand chose et ce pas grand chose arrive quand même à ne pas être assez étoffé.
+
+Graphiquement comme narrativement *c'est du manga&trade;*, on s'emmerde un peu.  Ça peut plaire à ta petite soeur un peu émo, mais elle a sans doute déjà lu 36 fan-fictions similaires sur tumblr.
