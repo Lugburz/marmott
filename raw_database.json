@@ -1789,6 +1789,7 @@
             "author" : "Alain Ayroles & Etienne Jung",
             "image"  : "chimeresdevenus.jpg",
             "description" : "Dans le même univers que 'Le Château des étoiles'. TODO",
+            "volumes" : 1,
             "still_going" : true,
             
             "added_date" : "2021-11-28",
@@ -2016,6 +2017,20 @@
             "rented_by" : null,
 
             "tags" : [ "manga", "chill", "post-apo" ]
+        },
+        {
+            "name" : "Akira",
+            "author" : "Katsuhiro Otomo",
+            "image"  : "akira.jpg",
+            "volumes": 6,
+
+            "description" : "TODO.",
+
+            "added_date" : "2021-04-19",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "cyberpunk", "classique", "backlog" ]
         }
     ]
 }
