@@ -24,9 +24,17 @@ Vue.component('comics-list', {
     },
     computed: {
         filteredComics : function() {
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            let additional_tags = urlParams.get('tag');
+            additional_tags = additional_tags ? additional_tags.split(',') :  [];
+
             return this.comics.filter((comic) => {
                 let match = 1;
                 this.filters.forEach((f) => {
+                    match = match && comic.tags.indexOf(f) > -1;
+                });
+                additional_tags.forEach((f) => {
                     match = match && comic.tags.indexOf(f) > -1;
                 });
                 return match;
