@@ -1,0 +1,7 @@
+Dans ce monde héroïque-fantastique, le Roi a tout mis en oeuvre pour vaincre son plus grand ennemi, la Mort elle-même. A présent, prisonnière d'un grand mirroir, elle ne peut plus récolter les âmes des defuns, et l'utopie tant rêvé par le Roi se transforme vite en cauchemar lorsqu'il prend conscience que le vieillissement des corps a toujours bien lieu. Le royaume devient envahi par des cadavres en putréfaction encore bien vivants, qui hantent les faubourgs et les bois. 
+
+Plutôt que de s'éteind, les âmes de tous êtres vivants se transportent dans le corps de la personne la plus proche, engendrant chez elle une véritable schizophrénie. Pour faire face à ces zombis, des chasseurs de prime ramènent les corps malades aux *laminoirs*, véritable usine d'abattage à la chaîne où les bourreaux encaissent le poids de milliers d'âmes.
+
+Zorn et Dirna quant à eux sont deux enfants très spéciaux. Elevés en secret par leur maître, ils détiennent le pouvoir étonnant de donner la mort, la vraie, à quelconque créature qu'ils touchent.
+
+Je ne suis pas d'habitude fan de gore, mais là je dois dire que j'ai pris mon pied. Boyaux et carcasses sont omniprésents dans cette oeuvre, mais ils font totalement sens avec l'histoire : pour éviter tout risque de schizophrénie on préfère mutiler le corps des ennemis pour les rendre innofensifs plutôt que de les tuer. Et puis ce récit a beaucoup plus à offrir que du gore et du macabre, avec une vraie évolution des personnages et plusieurs sous-intrigues personnelles comme politiques.

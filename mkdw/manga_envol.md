@@ -1,0 +1,13 @@
+L'envol
+
+https://www.youtube.com/watch?v=miAnOcZTkr0
+
+An 20XX, fin du monde. Dans un bunker deux hommes réfléchissent aux bases d'une société nouvelle. Communisme ou capitalisme, c'est le moment de faire table rase et repartir sur des bases saines. Discution futile, puisqu'ils sont les seuls survivants et sont deux hommes.
+
+Kuniko Tsurita est un de ces petits noms du manga japonais qui n'est jamais parvenu à nos oreilles. Née en 47, elle n'a pas connu la guerre mais en a senti les répercutions. Elle fut une des premières mangaka à sortir du cliché du Shoujo, le "manga romance pour filles". Morte à 37 ans d'un lupus, Kuniko était connue pour son style dit "gekiga", sorte de satire simple dans la forme mais très critique de la société, un peu un harakiri féministe de son pays.
+Cette compilation est un hommage à cette auteure oubliée, qui n'a certes pas révolutionné la fiction de son époque mais apporté quelque chose de frais et vivant en terme de thèmes abordés. 
+
+Dans les faits, l'Envol est un bordel sans nom. On a ici une compilation d'histoires plus ou moins sérieuses, plus ou moins poétiques. Un homme devient invisible et immaterriel, se rend compte que s'il arrête de parler il finira par ne plus exister du tout.
+Un tueur en série tue des criminels, persuadé de faire le bien. Un fou arrive à se convaincre qu'il est un génie de la littérature et qu'il va rafler le prix nobel. Une femme, belle mystérieuse et stoïque, n'aime pas ses yeux qui la rendent belle mystérieuse et stoïque. Un fou prétend être un meilleur fou que le fou qui prétend être prix nobel de littérature. Un homme-tortue ne peut pas rentrer dans sa carapace. Tout ce beau monde se réuni pour aider une femme vénale à monter une religion.
+
+En vrai, on a l'impression d'être devant Arte : la plupart du temps on regarde Strip Tease et on ne comprend rien, puis ça parle d'art et c'est cool, puis on enchaîne avec un documentaire sur l'art contemporain Serbe et on est paummés. Cette lecture m'a marqué avant tout par son côté insolite : ce n'est pas du tout à ce quoi je pense quand on me parle de manga, ni même de BD en général.

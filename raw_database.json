@@ -1965,17 +1965,27 @@
             "added_date" : "2021-12-05",
             "owned"     : false,
             "rented_by" : null,
-            "tags" : [ "BD", "espagnol", "stips" ]
+            "tags" : [ "BD", "espagnol", "strips" ]
+        },
+        {
+            "name" : "Achiote",
+            "author" : "Alberto Montt",
+            "image"  : "achiote.jpg",
+            "description" : "Prêté par Fanny.",
+            "added_date" : "2021-12-05",
+            "owned"     : false,
+            "rented_by" : null,
+            "tags" : [ "BD", "espagnol", "autobiographique" ]
         },
         {
             "name" : "Zorn & Dirna",
             "author" : "Jean-David Morvan & Bruno Bessadi",
             "image"  : "zornanddirna.jpg",
-            "description" : "Dans un monde héroïque-fantastique, la Mort est morte et les âmes ne peuvent plus quitter leurs corps décharnés.",
+            "mkdw"  : "mkdw/zornanddirna.md",
             "added_date" : "2021-12-05",
             "owned"     : true,
             "rented_by" : null,
-            "tags" : [ "BD", "fantastique", "backlog" ]
+            "tags" : [ "BD", "fantastique", "surnaturel" ]
         },
         {
             "name" : "La fin du monde avant le lever du jour",
@@ -2031,6 +2041,30 @@
             "rented_by" : null,
 
             "tags" : [ "manga", "cyberpunk", "classique", "backlog" ]
+        },
+        {
+            "name" : "Totem",
+            "author" : "Laura Pérez",
+            "image"  : "totem.jpg",
+
+            "description" : "TODO.",
+
+            "added_date" : "2022-01-23",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "espagnol", "deuil", "surnaturel" ]
+        },
+        {
+            "name" : "L'Envol",
+            "author" : "Kuniko Tsurita",
+            "image"  : "manga_envol.jpg",
+            "mkdw" :"mkdw/manga_envol.md",
+            "added_date" : "2022-01-23",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "manga", "wtf" ]
         }
     ]
 }
