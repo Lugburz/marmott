@@ -1,6 +1,6 @@
 Je suis quelqu'un d'assez hermétique aux comics de superhéros, surtout quand les histoires se concentrent trop sur l'action. Mais voyant le succès des grandes séries *DC* et *Marvel* auprès de certains de mes amis, j'ai l'impression de passer à côté de quelque chose d'assez foufou. Pour remédier à tout ça, j'ai voulu attaquer fort et m'en prendre direct à une des plus grandes figures *DC Comics*, un superhéro qui me laissait autant de marbre qu'il n'est de fer : *Superman, The Man of Steel*.
 
-Disons-le, les films sont chiants comme un épisode de *Plus Belle La Vie*, mais le comics [*Red Son*](tag?t=Red Son) a su me hyper sur le destin de l'homme en slip. Sauf que *Red Son* c'est pas vraiment du Superman, la preuve c'est facile à lire. 
+Disons-le, les films sont chiants comme un épisode de *Plus Belle La Vie*, mais le comics [*Red Son*](?tag=Red Son) a su me hyper sur le destin de l'homme en slip. Sauf que *Red Son* c'est pas vraiment du Superman, la preuve c'est facile à lire. 
 
 Je me mis donc en quête d'un *"Man of Steel 101"*, d'une *"Bible de Superman*", bref d'une histoire qui me vendrait vraiment le personnage et que pourquoi qu'il est si cool. Je précisais aussi au vendeur que je cherchais un comics pour les gros nooblards de mon espèce qui font un mini-AVC dès qu'une référence leur échappe, donc faudrait un truc qui se focus sur un seul slip et qui nous le présente bien. 
 
@@ -8,7 +8,7 @@ Parmi les différents titres présentés, *All Star Superman* a retenu mon atten
 
 Premier constat quand je regarde le synopsis en préambule *&laquo; C'est Superman qui n'a plus que quelques jours à vivre et du coup il va accomplir 12 Travaux Impossibles pour sauver l'Humanité &raquo;*. Okay, on a pas tous la même définition de *"au quotidien"*. Je lis de la tranche de vie moi monsieur, un mec qui vole c'est déjà beaucoup à digérer.
 
-Au final je crois que j'ai jamais été aussi paummé qu'après avoir lu ce *All-Start Superman*, tout le semblant de connaissance que je pensais avoir de ce personnage réduit en **néant** cosmique **atomique** nucléaire. Allez, on va essayer de comprendre comment on en est arrivés là.
+Au final je crois que j'ai jamais été aussi paummé qu'après avoir lu ce *All-Star Superman*, tout le semblant de connaissance que je pensais avoir de ce personnage réduit en **néant** cosmique **atomique** nucléaire. Allez, on va essayer de comprendre comment on en est arrivés là.
 
 #### LES PLUS
 
@@ -38,6 +38,6 @@ Au final je crois que j'ai jamais été aussi paummé qu'après avoir lu ce *All
 
 #### BREF
 
-Il faut connaître les références pour apprécier je suppose. Mais moi je les ai pas justement. Et même sans ça c'est assez bancal, rien ne m'a donné envie d'en apprendre plus sur les persos que je connaissais pas tellement c'est crytpique et atomique et nucléaire.
+Il faut connaître les références pour apprécier je suppose. Mais moi je les ai pas justement. Et même sans ça c'est assez bancal, rien ne m'a donné envie d'en apprendre plus sur les persos tellement tout est crytpique et atomique et nucléaire.
 
 Pas convaincu du tout par cette lecture, et par extension par l'univers *DC*. J'insisterai sans doute davantage, mais avec ce *All Star Superman* mon apriori sur les comics de superhéros s'est plus que confirmé.

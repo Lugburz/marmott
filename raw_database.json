@@ -1117,7 +1117,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "school life", "drame", "harcèlement", "#pasdanslarue", "tranche de vie", "must read" ]
+            "tags" : [ "manga", "school life", "drame", "harcèlement", "tranche de vie", "must read" ]
         },        
         {
             "name" : "Black Magick: The First Book Of Shadows",
@@ -1944,7 +1944,7 @@
             "description" : "TODO.",
             "added_date" : "2021-12-05",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Arnaud",
             "tags" : [ "manga", "horreur", "backlog" ]
         },
         {

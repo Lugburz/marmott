@@ -31,7 +31,8 @@ Vue.component('comics-list', {
         return {
             filters : [],
             comics: content,
-            tags: tags
+            tags: tags,
+            customFilter : ""
         }
     },
     computed: {
@@ -48,7 +49,16 @@ Vue.component('comics-list', {
             return this.comics.filter((comic) => {
                 let match = 1;
                 this.filters.forEach((f) => {
-                    match = match && comic.tags.indexOf(f) > -1;
+                    if(f.startsWith("Custom: ")) {
+                        let ctag = f.replace("Custom: ", "").toLowerCase();
+                        let intags = comic.tags.filter(tag => tag.toLowerCase().indexOf(ctag) > -1).length > 0;
+                        let intitle = comic.name.toLowerCase().indexOf(ctag) > -1;
+                        match = match && (intags || intitle);
+                    } else {
+                        let intags = comic.tags.indexOf(f) > -1; 
+                        let intitle = comic.name.toLowerCase().indexOf(f.toLowerCase()) > -1;
+                        match = match && (intags || intitle);
+                    }
                 });
                 return match;
             } );
@@ -69,15 +79,22 @@ Vue.component('comics-list', {
                 this.filters.push(tag);
             this.updateTagsInURL();
         },
-        onRemoveFilter: function (tag, replace_all) {
+        onRemoveFilter: function (tag) {
             let index = this.filters.indexOf(tag);
             if(index > -1)
                 this.filters.splice(index, 1);
             this.updateTagsInURL();
         },
-        onRemoveAllFilters: function (tag) {
+        onRemoveAllFilters: function () {
             this.filters = [];
-            this. updateTagsInURL();
+            this.updateTagsInURL();
+        },
+        onCustomFilter: function () {
+            // remove all custom filters first
+            this.filters = this.filters.filter(f => !f.startsWith("Custom: "));
+            this.filters.push("Custom: " + this.customFilter);
+            this.customFilter = "";
+            this.updateTagsInURL();
         },
 
     }
