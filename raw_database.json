@@ -33,7 +33,7 @@
         },
         {
             "name" : "Une erreur de parcours",
-            "author" : "Frank Biancarelli & Denis Robert",
+            "author" : "Franck Biancarelli & Denis Robert",
             "image"  : "une-erreur-de-parcours.jpg",
             "post"   : "une_erreur_de_parcours",
 
@@ -143,7 +143,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Sylvain (tome 2), Jérémy (tome 3)",
 
             "tags" : ["BD", "scifi", "série", "pew pew"]
             
@@ -168,7 +168,7 @@
             "image"  : "toxic.jpg",
             "post"   : "toxic",
 
-            "description" : "A lire dans ce sens, c'est mieux.<br />",
+            "description" : "A lire dans ce sens, c'est mieux.",
             "added_date" : "2019-10-19",
             "owned"     : true,
             "rented_by" : null,
@@ -1616,9 +1616,9 @@
             "name" : "Filles Uniques",
             "author" : "BEKA & Camille Méhu",
             "image"  : "fillesuniques_1.jpg",
-            "volumes": 1,
+            "volumes": 2,
             "still_going": true,
-            "description" : "TODO",
+            "description" : "Série jeunesse où des filles à problèmes se réunissent pour essayer de les régler un à un. Le côté littérature pour ados se fait un peu sentir par moment mais les filles ont quand même des personnalités pétillatnes et font face à des problématiques intéressantes. Graphiquement, le style un peu manga marche très bien. On regrettera juste que chaque tome soit si court, on aimerait les voir interragir plus souvent.",
 
             "added_date" : "2021-06-28",
             "owned"     : true,
@@ -1648,7 +1648,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superhéros", "Printemps des Comics" ]
+            "tags" : [ "comics", "marvel", "superhéros", "panini" ]
         },
         {
             "name" : "Venom : Rex",
@@ -1660,7 +1660,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superhéros", "Printemps des Comics", "backlog" ]
+            "tags" : [ "comics", "marvel", "superhéros", "panini", "backlog" ]
         },
         {
             "name" : "Ultimates : Super-Humain",
@@ -1672,7 +1672,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superhéros", "Printemps des Comics", "backlog" ]
+            "tags" : [ "comics", "marvel", "superhéros", "panini", "backlog" ]
         },
         {
             "name" : "Wolverine : Les Origines",
@@ -1684,7 +1684,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "superhéros", "Printemps des Comics", "backlog" ]
+            "tags" : [ "comics", "marvel", "superhéros", "panini", "backlog" ]
         },
         {
             "name" : "Nausicaa de la vallée du vent",
@@ -2065,6 +2065,71 @@
             "rented_by" : null,
 
             "tags" : [ "manga", "wtf" ]
+        },
+        {
+            "name" : "Castelmaure",
+            "author" : "Lewis Trondheim & Alfred",
+            "image"  : "castelmaure.jpg",
+            "description" :"Un Roi a disparu, des naissances étranges, une sorcière... La base d'un bon petit conte de fées, et le talent de narration qui va avec pour FAIRE de Castelmaure un <em>classique&trade;</em>.",
+            "added_date" : "2022-03-03",
+            "owned"     : true,
+            "rented_by" : null,
+
+            "tags" : [ "BD", "conte", "must read" ]
+        },
+        {
+            "name" : "Insomniaques",
+            "author" : "Makoto Ojiro",
+            "image"  : "manga_insomniaques.jpg",
+            "volumes": 2,
+            "still_going": true,
+            "description" :"TODO",
+            "added_date" : "2022-03-03",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "manga", "tranche de vie", "ados" ]
+        },
+        {
+            "name" : "Donald's Happiest Adventures",
+            "author" : "Lewis Trondheim & Keramidas",
+            "image"  : "donaldhappiestadventures.jpg",
+            "description" :"TODO",
+            "added_date" : "2022-03-04",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "Disney" ]
+        },
+        {
+            "name" : "Karmela Krimm",
+            "author" : "Lewis Trondheim & Franck Biancarelli",
+            "image"  : "karmelakrimm.jpg",
+            "volumes": 2,
+            "still_going": true,
+            "description" :"Un polar à la marseillaise, avec une détective privée qui se laisse pas emboucaner par les fadas des quartiers. Tome 1 dédicacé.",
+            "added_date" : "2022-03-04",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "polar", "Marseille" ]
+        },
+        {
+            "name" : "Spider-man - Révélations",
+            "author" : "Straczynski & Romita Jr",
+            "image"  : "spider-man_revelations.jpg",
+            "description" :"TODO",
+            "added_date" : "2022-03-03",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "comics", "marvel", "spider-man", "panini" ]
+        },
+        {
+            "name" : "Spider-man - La Mort de Gwen Stacy",
+            "author" : "Lee Conway & Kane",
+            "image"  : "spider-man_lamortdegwenstacy.jpg",
+            "description" :"TODO",
+            "added_date" : "2022-03-03",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "comics", "marvel", "spider-man", "panini" ]
         }
     ]
 }
