@@ -2130,6 +2130,18 @@
             "owned"     : true,
             "rented_by" : null,
             "tags" : [ "comics", "marvel", "spider-man", "panini" ]
+        },
+        {
+            "name" : "Stillwater",
+            "author" : "Zdarsky & Pérez",
+            "volumes": 1,
+            "still_going": true,
+            "image"  : "stillwater.jpg",
+            "description" :"Les habitants de Stillwater semblent ne jamais vieillir et ne jamais connaître la mort. Le juge et le sheriff adjoint y font respecter la seule vraie loi d'importance : on ne parle pas de Stillwater. De ce fait, on ne sort pas de Stillwater.",
+            "added_date" : "2022-03-03",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "comics", "pointe de paranormal" ]
         }
     ]
 }
