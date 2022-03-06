@@ -1,19 +1,31 @@
 // comic list
 Vue.component('comics-list', {
     data: function() {
-        let converter = new showdown.Converter();
-        let tags = ['BD', 'manga', 'comics'].concat( database["comics"].reduce((acc, comic) => { acc.push(...comic.tags); return acc; }, [])
-            .filter((v, i, a) => a.indexOf(v) === i).filter((tag) => { return tag != "BD" && tag != "manga" && tag != "comics"} ).sort());
+        // force comics type first
+        let tags = ['BD', 'manga', 'comics'];
+        
+        // get appearences for all tags
+        let tags_appearences = database["comics"].reduce((acc, comic) => {
+            comic.tags.forEach(tag => {
+                if(tag == "BD" || tag == "manga" || tag == "comics") return;
+                if(!acc[tag])
+                    acc[tag] = 0
+                acc[tag] += 1;
+            });
+            return acc;
+        }, {});
+
+        // only keep tags appearing at least twice
+        tags = tags.concat(
+            Object.keys(tags_appearences).filter(tag => tags_appearences[tag] > 1 ).sort()
+        );
+
+        // add authors as comics tags (not global tags though) 
         let content = database["comics"]
             .filter(comic => !comic.hide)
             .map((comic) => {
-                let c = comic;
-                if(c.mkdw)
-                    c.description = converter.makeHtml( Tools.loadFile(c.mkdw) );
-
                 comic.tags.push( ...comic.author.split(' & ') );
-
-                return c;
+                return comic;
             }).sort((a, b) => { return a.name.toUpperCase() > b.name.toUpperCase() })
 
         return {
