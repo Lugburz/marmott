@@ -2142,6 +2142,16 @@
             "owned"     : true,
             "rented_by" : null,
             "tags" : [ "comics", "pointe de paranormal" ]
+        },
+        {
+            "name" : "Ghost World",
+            "author" : "Daniel Clowes",
+            "image"  : "ghostworld.jpg",
+            "mkdw": "mkdw/ghostworld.md",
+            "added_date" : "2022-03-03",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "comics", "ados", "tranche de vie" ]
         }
     ]
 }
