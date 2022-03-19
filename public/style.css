@@ -162,8 +162,72 @@
     text-align: center;
 }
 .thumbnail-thumbnail img {
-
     max-height: 250px;
     width: 100%;
+}
 
+.comic-rented-by {
+    font-size:0.5em;
+}
+
+
+@media screen and (max-width: 1000px) {
+
+    .comic-thumbnail a {
+        max-height: 250px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .comics-list-item {
+        flex-direction: column;
+    }
+
+    [name="all-tags"] {
+        display: none;
+    }
+
+    .comic-thumbnail img {
+        min-width: 100%;
+        display: block;
+        margin-top: auto;
+    }
+
+    .comic-thumbnail img {
+        width: 100%;
+    }
+
+    .comic-description {
+        flex:1;
+        margin-left:10px;
+        display: flex;
+        flex-direction: column;
+        font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    .comic-tag a {
+        white-space: nowrap;
+        font-size: 1.2em;
+    }
+
+    [name="filter-tags"] input {
+        /* height: 50px; */
+        font-size: 1.5em;
+    }
+
+    .comic-title, .comic-volumes, .comic-author {
+        text-align: center;
+    }
+
+    .comic-rented {
+        display: none;
+    }
+
+    .comic-title {
+        font-size: 1.7em;
+    }
+
+    .comic-rented-by {
+        display: block;
+    }    
 }

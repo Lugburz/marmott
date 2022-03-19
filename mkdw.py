@@ -10,10 +10,9 @@ with open('./raw_database.json', encoding='utf-8') as fh:
 	data = json.load(fh)
 	for comic in data['comics']:
 		if 'mkdw' in comic:
-			with open(comic['mkdw'], encoding='utf-8') as fh_mkdw:
+			with open("src/assets/" + comic['mkdw'], encoding='utf-8') as fh_mkdw:
 				comic['description'] = markdown.markdown( fh_mkdw.read() )
 			comic.pop('mkdw')
-			#~ print(comic['mkdw'])
-	with codecs.open('./database.js', 'w', 'utf-8') as output:
+	with codecs.open('src/assets/database.json', 'w', 'utf-8') as output:
 		json_string = json.dumps(data, ensure_ascii=False)
-		output.write("var database = " + json_string)
+		output.write(json_string)

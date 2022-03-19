@@ -45,7 +45,6 @@
 
             "tags" : [ "BD", "polar", "tranche de vie"]
         },
-	
         {
             "name" : "Lupus",
             "author" : "Frederik Peeters",
@@ -1007,13 +1006,11 @@
             "name" : "Joker",
             "author" : "Brian Azzarello & Lee Bermejo",
             "image"  : "joker.jpg",
-
-            "description" : "Edition N&B. TODO.",
-
+            "mkdw" : "mkdw/joker_azzarello.md",
             "added_date" : "2021-04-19",
             "owned"     : true,
 
-            "tags" : [ "comics", "batman", "joker", "DC" ]
+            "tags" : [ "comics", "batman", "joker", "DC", "glauque" ]
         },
         {
             "name" : "Capitaine Albator",
@@ -1135,9 +1132,7 @@
             "name" : "Superman: Red Son",
             "author" : "Mark Millar & Dave Johnson",
             "image"  : "supermanredson.jpg",
-
-            "description" : "Superman chez les soviets. Et ça pourrait suffire comme description en vrai, mais p'tet pas.<br /><br />Au moment où j'écris ces mots, je suis <b>pas du tout</b> un fan de comics de superhéros. Ça <b>m'emmerde</b> t'as pas idée. Les <b>mecs</b> en slip qui ont <b>des</b> pouvoirs tellement pétés qu'on sait plus où donner de la tête, <b>ça</b> me dépasse. Ah et ces <b>comics</b> ont cette étrange tendance à <b>foutre</b> des mots en gras sans bonne raison.<br /><br />Bah étonnamment ce comics j'ai kiffé. Sans doute parce que c'est pas du vrai Superman, c'est du <em>\"Et si Superman c'était pas Superman mais CYKA-BLYAT-MAN\"</em>",
-
+            "mkdw" : "mkdw/supermanredson.md",
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
@@ -1560,7 +1555,7 @@
             "author" : "Alan Moore & Brian Bolland",
             "image"  : "killing_joke.jpg",
 
-            "description" : "TODO",
+            "description" : "Un classique indémodable : l'origin story du Joker selon Alan Moore, considérée par beaucoup comme canon.",
 
             "added_date" : "2021-05-01",
             "owned"     : true,
@@ -1585,10 +1580,10 @@
             "name" : "BUG",
             "author" : "Enki Bilal",
             "image"  : "enkibilal_bug.jpg",
-            "volumes": 2,
-            "still_going": false,
+            "volumes": 3,
+            "still_going": true,
             
-            "description" : "TODO",
+            "description" : "5 tomes de prévus. TODO",
 
             "added_date" : "2021-05-01",
             "owned"     : true,
@@ -1688,13 +1683,13 @@
             "author" : "Hayao Miyazaki",
             "image"  : "nausicaa.jpg",
             "description" : "TODO",
-            "volumes" : 8,
+            "volumes" : 7,
 
             "added_date" : "2021-11-28",
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "classique", "backlog" ]
+            "tags" : [ "manga", "classique", "post-apo", "must read" ]
         },
         {
             "name" : "La Reina Orquidea",
@@ -1704,7 +1699,7 @@
 
             "added_date" : "2021-11-28",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Fanny",
 
             "tags" : [ "BD", "espagnol" ]
         },
@@ -1728,7 +1723,7 @@
 
             "added_date" : "2021-11-28",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "Fanny",
 
             "tags" : [ "BD", "espagnol", "muet" ]
         },
@@ -1886,7 +1881,7 @@
         },
         {
             "name" : "BADASS",
-            "author" : "Hanna Herik & Bessadi Bruno & Georges Gaétan",
+            "author" : "Herik Hanna & Bruno Bessadi & Gaétan Georges",
             "image"  : "badass.jpg",
 
             "volumes": 6,
@@ -2110,7 +2105,7 @@
             "name" : "Spider-man - Révélations",
             "author" : "Straczynski & Romita Jr",
             "image"  : "spider-man_revelations.jpg",
-            "description" :"TODO",
+            "description" :"C'est Peter Parker qui confronte enfin sa tante et admet être l'homme araignée. Culturellement intéressant mais c'est des extraits pris un peu au pif, et on se retrouve avec un bout d'intrigue pas finie.",
             "added_date" : "2022-03-03",
             "owned"     : true,
             "rented_by" : null,
@@ -2120,7 +2115,7 @@
             "name" : "Spider-man - La Mort de Gwen Stacy",
             "author" : "Lee Conway & Kane",
             "image"  : "spider-man_lamortdegwenstacy.jpg",
-            "description" :"TODO",
+            "description" :"Collection de plusieurs numéros de Amazing Spider-Man autour du retour du Bouffon Vert et de la mort de Gwen Stacy. Plaisant à lire même aujourd'hui.",
             "added_date" : "2022-03-03",
             "owned"     : true,
             "rented_by" : null,
@@ -2167,6 +2162,38 @@
             "owned"     : true,
             "rented_by" : null,
             "tags" : [ "BD", "scifi" ]
+        },
+        {
+            "name" : "Nouilles Tchajang",
+            "author" : "Ahn Do-Hyun & Chi Kyu-Sok & Byun Ki-Hyun",
+            "image"  : "NouillesTchajang.jpg",
+            "added_date" : "2022-03-16",
+            "description" : "TODO",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "manga", "coréen", "tranche de vie" ]
+        },
+        {
+            "name" : "L'Ogre Lion",
+            "author" : "Bruno Bessadi",
+            "image"  : "ogrelion.jpg",
+            "volumes": 1,
+            "still_going" : true,
+            "added_date" : "2022-03-16",
+            "description" : "Prévu en 3 ou 4 tomes. TODO",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "fantastique", "gore", "mignon" ]
+        },
+        {
+            "name" : "Acacia 22",
+            "author" : "Edgar Camacho",
+            "image"  : "acacia22.jpg",
+            "added_date" : "2022-03-16",
+            "description" : "TODO",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "aucune idée", "backlog" ]
         }
     ]
 }

@@ -1,5 +1,74 @@
-// comic list
-Vue.component('comics-list', {
+<template>
+    <div id="comics-list" style="margin-top: 50px;">
+        <div name="filter-tags" style="position: fixed;width:100%;background-color: white;border: 1px solid gray;min-height: 20px;top:0;left:0;">
+            <span>Filtres : </span>
+            <input v-on:change="onCustomFilter" v-model="customFilter" type="text" >
+
+            <span class="comic-tag">
+                <a v-on:click="onRemoveAllFilters">X</a>
+            </span>
+            
+            <span v-for="tag in filters" class="comic-tag" v-bind:key="tag">
+                <a v-html="tag" v-on:click="onRemoveFilter(tag)"></a>
+            </span>
+        </div>
+        <div style="margin-top: 10px;" name="all-tags">
+            <span v-for="tag in tags" class="comic-tag" v-bind:key="tag">
+                <a v-html="tag" v-on:click="onAddFilter(tag)"></a>
+            </span>
+        </div>
+        <div>{{ filteredComics.length }} / {{ comics.length }} BDs</div>
+        <div v-for="comic in filteredComics" class="comics-list-item" v-bind:key="comic">
+            <div class="comic-thumbnail">
+                <a v-bind:href="'./img/comics/' + comic.image">
+                    <img v-bind:src="'./img/comics/thumbnails/' + comic.image" v-bind:alt='comic.name' />
+                </a>
+            </div>
+            <div class="comic-description">
+                <span class="comic-title">{{ comic.name }}
+                    <template v-if="comic.owned">
+                        <template v-if="comic.rented_by">
+                            <span class="comic-rented" title="Emprunté"></span>
+                            <span class="comic-rented-by">(emprunté par {{comic.rented_by}})</span>
+                        </template>
+                        <template v-else>
+                            <span class="comic-available" title="Disponible"></span>
+                        </template>
+                    </template>
+                    <template v-else>
+                        <span class="comic-unavailable" title="Indisponible"></span> 
+                    </template>
+                </span>
+                <span class="comic-author">{{ comic.author }}</span>
+                <span  v-if="comic.volumes" class="comic-volumes">
+                    {{ comic.volumes }}
+                    <template v-if="comic.volumes == 1">
+                        volume
+                    </template>
+                    <template v-else>
+                        volumes
+                    </template>
+                    <template v-if="comic.still_going">
+                        (série en cours)
+                    </template>
+                </span>
+                <div class="comic-text" v-html="comic.description">
+                </div>
+                <div class="comic-tags">
+                    <span v-for="tag in comic.tags" class="comic-tag" data-tag="tag" v-bind:key="tag">
+                        <a v-html="tag" v-on:click="onAddFilter(tag, true)" ></a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script>
+import database from "../assets/database.json"
+
+export default {
+    name: 'ComicsList',
     data: function() {
         // force comics type first
         let tags = ['BD', 'manga', 'comics'];
@@ -96,6 +165,6 @@ Vue.component('comics-list', {
             this.customFilter = "";
             this.updateTagsInURL();
         },
-
     }
-});
+}
+</script>
