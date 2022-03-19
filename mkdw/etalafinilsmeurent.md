@@ -1,0 +1,3 @@
+Ici on décortiques les contes de fée : qu'est-ce qu'un conte comparé à un mythe, quelles sont leurs origines, leurs motivations premières et via quels prismes Perrault, les frères Grimm ou encore Disney les ont réinterprêtés. Comme le suggère le titre, en général les contes c'était plutôt trashouille et y'avait pas vraiment de morale à en retenir. Lou Lubie en parle avec beaucoup d'humour, et on apprend même des choses au passage.
+
+D'habitude je suis pas fan du tout de BD "vulgarisation" ou même des formats un peu "note de blog". Mais là le sujet était vraiment fascinant et l'auteure a très bien dosé humour et information sérieuses.

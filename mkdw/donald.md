@@ -1,0 +1,3 @@
+Le livre commence par une préface qui donne le ton : *"On a retrouvé de vieux numéros d'une histoire de Donald Duck des années 80 oubliée lors d'un vide grenier. On a juste scanné et traduit mais sinon c'est carrément pas notre oeuvre haha, winkwink"*. Le parti pris est assumé jusqu'au bout en donnant aux pages un côté *vieux papier*, allant même jusqu'à éparpiller ça et là des taches de jus de fruit et de chocolat chaud.
+
+En tant que grand grand fan des BDs Donald/Picsou quand j'étais jeune, que j'achetais en général en vide grenier justement, c'était un plaisir d'en relire, surtout avec l'approche un peu philo-rigolo de Lewis. Donald doit trouver la définition du bonheur pour Picsou et va donc voir plusieurs personnes pour leur demander leur vision des choses.

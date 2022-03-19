@@ -37,10 +37,10 @@
             "image"  : "une-erreur-de-parcours.jpg",
             "post"   : "une_erreur_de_parcours",
 
-            "description" : "Alors qu'il s'apprête à devenir juge, Sylvestre se retrouve face à une enquête qui va marquer sa carrière. Un homme a disparu, et tous les indices semblent pointer vers son ancienne compagne Mathilde, une femme caractérielle dont l'attitude et les supposés rituels ésothériques vont grandement perturber Sylvestre. Si vous ajoutez à cela le bruit et l'odeur de son propre couple qui bat de l'aile, le Sylvestre il devient fou.<br /><br />(Pas dispo parce que dédicacé par l'auteur maggle, j'y tiens tavu.)",
+            "description" : "Alors qu'il s'apprête à devenir juge, Sylvestre se retrouve face à une enquête qui va marquer sa carrière. Un homme a disparu, et tous les indices semblent pointer vers son ancienne compagne Mathilde, une femme caractérielle dont l'attitude et les supposés rituels ésothériques vont grandement perturber Sylvestre. Si vous ajoutez à cela le bruit et l'odeur de son propre couple qui bat de l'aile, le Sylvestre il devient fou.",
 
             "added_date" : "2019-10-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "BD", "polar", "tranche de vie"]
@@ -87,7 +87,7 @@
             "description" : "L'histoire d'un petit oiseau mignon. TODO",
 
             "added_date" : "2019-10-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : ["manga", "glauque", "tranche de vie", "nostalgie", "enfance", "jeune adulte", "dépression", "must read" ]
@@ -574,13 +574,13 @@
             "image"  : "les_jours_qui_restent.jpg",
             "post"   : "les_jours_qui_restent",
 
-            "description" : "TODO",
+            "description" : "Daniel prend des médocs depuis des années et a sombré dans l'alcool, Catherine déprime et ne sait plus quoi faire de sa vie depuis que sa mère est morte, Charlotte préfère se laisser mourir que de prendre son traitement... Ambiance.<br /><br />Une BD pas inintéressante sur le thème de la maladie et le fait de ne vivre plus que par et pour elle. Mais il manque un petit quelque chose pour rendre le tout plus intéressant, les trois personnages principaux ne se rencontrent pratiquement pas, donc on suit en gros trois histoires indépendantes en même temps, sans vraiment creuser chaque personnalité.",
 
             "added_date" : "2019-10-19",
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["BD", "drame", "tranche de vie", "court", "meh" ]
+            "tags" : ["BD", "drame", "tranche de vie", "court", "meh", "maladie" ]
                
         },
         {
@@ -948,7 +948,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "drame", "thriller", "jeune adulte", "must read"]
+            "tags" : ["manga", "drame", "polar", "jeune adulte", "must read"]
         },
         {
             "name" : "MW",
@@ -961,7 +961,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "drame", "thriller", "jeune adulte"]
+            "tags" : ["manga", "drame", "polar", "jeune adulte"]
         },
         {
             "name" : "Beauté",
@@ -983,13 +983,13 @@
             "image"  : "rapace.jpg",
             "volumes" : 4.5,
 
-            "description" : "Intégrale collector avec artbook épilogue. Je prête pas. TODO.",
+            "description" : "Intégrale collector avec artbook épilogue. TODO.",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
 
-            "tags" : [ "BD", "classique", "vampire", "thriller", "must read" ]
+            "tags" : [ "BD", "classique", "vampire", "polar", "must read" ]
         },
         {
             "name" : "V pour Vendetta",
@@ -1023,7 +1023,7 @@
             "description" : "Intégrale. TODO.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "manga", "leijiverse", "espace", "onirique" ]
@@ -1049,7 +1049,7 @@
             "description" : "Recueil d'histoires courtes de Leiji Matsumoto. Les histoires ont plus ou moins toute le même thème : la fin du monde et le commencement d'un nouveau.<br /><br />On assistera donc plusieurs fois à des départs forcés depuis une planète vieillissante et au repeuplement d'une nouvelle <em>planète Terre</em>.<br /><br />Et des fois on a juste des fantômes de transexuelles qui hantent l'espace-temps.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
 
             "tags" : [ "manga", "leijiverse", "espace", "onirique", "histoires courtes" ]
@@ -1059,8 +1059,7 @@
             "author" : "Leiji Matsumoto",
             "image"  : "galaxyexpress.jpg",
             "volumes" : 21,
-
-            "description" : "TODO.",
+            "mkdw" : "mkdw/galaxyexpress999.md",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
@@ -1130,7 +1129,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "anglais", "thriller", "surnaturel", "sorcière", "must read" ]
+            "tags" : [ "comics", "anglais", "polar", "surnaturel", "sorcière", "must read" ]
         },
         {
             "name" : "Superman: Red Son",
@@ -1278,29 +1277,28 @@
             "tags" : [ "manga", "shonen", "romance", "harem", "sexualité", "bordeline hentai", "ecchi", "zboubinet", "festival du téton", "school life", "tranche de vie", "ados" ]
         },
         {
+            
             "name" : "Des Souris et des Hommes",
             "author" : "John Steinbeck & Rebecca Dautremer",
             "image"  : "des-souris-et-des-hommes.jpg",
-
+            
             "description" : "Excellente adapation de la nouvelle de John Steinbeck dans un format quasi-BD. C'est l'histoire de George et de Lennie, amis de toujours bon gré mal gré, qui cherchent un travail pour acheter un bout de terre à eux. George c'est le mec moyen un peu débrouillard, qui sait facilement lire les gens et s'adapter en conséquence. Lennie, c'est le total opposé, gros balourd socialement inadapté qui ne comprend pas bien comment ça marche les gens, le vivant. Mais un jour ils auront une ferme, et il y aura des vaches et des lapins, c'est moi qui m'occuperai des lapins hein Georges, et y'aura des poules, dis-le George, j'aime bien quand c'est toi qui le dit.<br /><br />Cette version illustrée est particulièrement efficace, mêlant aussi bien art naïf que dessins complexes selon la situation." ,
-
+            
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
-
+            
             "tags" : [ "roman illustré", "must read"  ]
         },
         {
             "name" : "La Planète aux Cauchemars",
             "author" : "Mathieu Sapin & Patrick Pion",
             "image"  : "planete_cauchemars.jpg",
-
             "description" : "Une adaptation ratée de la nouvelle de Lovecraft <em>Le Cauchemar d'Innsmouth</em>. Style graphique inconsistant, histoire vaguement modernisée pour de la science-fiction mais sans prendre le temps de bien expliquer le lore, fin rushée...<br /><br />Dommage, l'idée de faire une adaptation libre de Lovecraft en scifi n'était pas mauvaise.",
 
             "added_date" : "2021-04-19",
-            "owned"     : false,
             "rented_by" : null,
-
+            
             "tags" : [ "bd", "scifi", "horreur", "surnaturel", "médiocre", "Lovecraft"  ]
         },        
         {
@@ -1309,26 +1307,26 @@
             "image"  : "coma_heroique.jpg",
             "volumes": 2,
             "still_going":true,
-
-            "description" : "Isekai inversé où un homme se réveille après 17 ans passés dans un monde parallèle et raconte ses aventures à son neveu. C'est pas incroyable non plus jusque là mais c'est rigolo, écouter un grand garçon comme ça obsédé par les jeux vidéos des années 90 nous parler de sa médiocre expérience dans un monde parralèle, maîtriser la magie et la lévitation même dans ce monde mais s'en servir juste pour pas payer les frais de ports pour une <em>Sega Saturn</em> sur Ebay...<br /><br />Bref, à voir.",
-
+            
+            "description" : "Isekai inversé où un homme se réveille après 17 ans passés dans un monde parallèle et raconte ses aventures à son neveu. C'est pas incroyable non plus jusque là mais c'est rigolo, écouter un grand garçon comme ça obsédé par les jeux vidéos des années 90 nous parler de sa médiocre expérience dans un monde parallèle, maîtriser la magie et la lévitation même dans ce monde mais s'en servir juste pour pas payer les frais de ports pour une <em>Sega Saturn</em> sur Ebay...<br /><br />Bref, à voir.",
+            
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
-
+            
             "tags" : [ "manga", "shonen", "isekai", "magie", "tranche de vie", "humour" ]
         },
         {
             "name" : "Sykes",
             "author" : "Pierre Dubois & Dimitri Armand",
             "image"  : "sykes.jpg",
-
+            
             "description" : "TODO",
-
+            
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
-
+            
             "tags" : [ "BD", "western", "drame", "vengeance", "must read" ]
         },
         {
@@ -1339,72 +1337,72 @@
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
-
+            
             "tags" : [ "BD", "scifi", "histoires courtes", "onirique", "jeune adulte" ]
         },
         {
             "name" : "Et il foula la terre avec légèreté",
             "author" : "Laurent Bonneau & Mathilde Ramadier",
             "image"  : "etilfoulalaterreaveclegerete.jpg",
-
-            "description" : "TODO",
-
+            
+            "description" : "Un ingénieur parisien se voit assigné une mission sur une petite île au nord de la Norvège. Un voyage contemplatif que le choix artistique retranscrit bien.",
+            
             "added_date" : "2021-04-19",
-            "owned"     : false,
+            "owned"     : true,
             "rented_by" : null,
-
+            
             "tags" : [ "BD", "contemplatif", "voyage", "écologie", "adulte" ]
         },
         {
             "name" : "Tyler Cross",
             "author" : "Fabien Nury & Brüno",
             "image"  : "tylercross.jpg",
-
+            
             "description" : "TODO",
-
+            
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
-
-            "tags" : [ "BD", "vengeance", "action", "combats", "thriller" ]
+            
+            "tags" : [ "BD", "vengeance", "action", "combats", "polar" ]
         },
         {
             "name" : "La Nuit est mon Royaume",
             "author" : "Claire Fauvel",
             "image"  : "lanuitestmonroyaume.jpg",
-
+            
             "description" : "Nawel et sa bande sont posés OKLM en bas des blocs, quartier Mont-Mesly RPZ, quand y'a c'te petite babtou qui s'présente avec son style tout pété et qui leur chourrave leur banc. Alice qu'elle s'appelle là wesh, elle a cru quoi princesse disney avec ses vieilles sappes rose bonbon. Pas d'place pour les bourges ici, vas-y t'écoutes quoi, fais écouter ou ça va mal s'passer.<br /><br />Sauf que Nawel, elle avait jamais écouté les Beattles avant. Elle s'était jamais trop intéressé à la musique pour être honnête, mais là c'est le coup de foudre immédiat. Naissance d'une amitié pas conventionnelle dans ce quartier sensible, et plus encore naissance d'un projet de vie, d'une conviction que la famille de Nawel, assez conservatrice, verra d'un mauvais oeil.<br /><br />Cette BD n'hésite pas à s'aventuer sur des terrains glissants et à vraiment transformer ses personnages en cours de route, puisqu'on suivra les deux protagonistes sur plusieurs années. Globalement c'est une BD particulièrement touchante sur le thème de l'indépendance des jeunes adultes, la complexité à s'émanciper d'une famille assez vieux jeu qui a déjà un avenir tout tracé pour nous, pour s'orienter vers des projets beaucoup plus nébuleux.",
-
+            
             "added_date" : "2021-04-19",
             "owned"     : false,
             "rented_by" : null,
-
+            
             "tags" : [ "BD", "ados", "jeune adulte", "musique", "parents", "indépendance" ]
         },
         {
             "name" : "Couleurs de l'incendie",
             "author" : "Christian De Metter",
             "image"  : "couleursdelincendie.jpg",
-
+            
             "description" : "TODO",
-
+            
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
-
+            
             "tags" : [ "BD", "historique", "argent", "trahison chez les richous", "vengeance", "Der des Ders" ]
         },
         {
             "name" : "Le Roi des Bourdons",
             "author" : "David de Thuin",
             "image"  : "roi_des_bourdons.jpg",
-
+            
             "description" : "TODO",
-
+            
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
-
+            
             "tags" : [ "BD", "adulte", "drogues", "alcool", "depression" ]
         },
         {
@@ -1412,14 +1410,13 @@
             "author" : "Jérôme Alquié",
             "image"  : "albatormemoiresdelarcadia.jpg",
             "volumes": 3,
-
+            
             "description" : "TODO",
-
+            
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
-
-            "tags" : [ "BD", "manga", "leijiverse", "scifi", "espace", "onirique" ]
+            "tags" : [ "BD", "manga", "leijiverse", "espace", "onirique" ]
         },
         {
             "name" : "Le Joli Coco",
@@ -1451,10 +1448,10 @@
             "name" : "La déchéance d'un homme",
             "author" : "Junji Ito",
             "image"  : "la_decheance_d_un_homme.jpg",
-            "volumes": 2,
-            "still_going": true,
+            "volumes": 3,
+            "still_going": false,
 
-            "description" : "Pas encore lu, j'attends la suite.",
+            "description" : "TODO.",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
@@ -1524,7 +1521,7 @@
 
             "added_date" : "2021-04-22",
             "owned"     : true,
-            "rented_by" : null,
+            "rented_by" : "David",
 
             "tags" : [ "comics", "superman", "DC", "meh" ]
         },
@@ -1550,13 +1547,13 @@
             "volumes": 2,
             "still_going": false,
 
-            "description" : "TODO",
+            "description" : "Adaptation manga du film d'animation, qui se permet même d'aller un peu plus loin par endroit. Ici on parle d'amour de jeunesse, des promesses qu'on s'était faites étant ados et qu'on a pas tenu, de la nostalgie et des regrets qui nous empêchent d'avancer.",
 
             "added_date" : "2021-05-01",
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "romance", "tranche de vie", "passage à l'âge adulte", "nostalgie" ]
+            "tags" : [ "manga", "seinen", "romance", "tranche de vie", "passage à l'âge adulte", "nostalgie" ]
         },
         {
             "name" : "Killing Joke",
@@ -1618,13 +1615,13 @@
             "image"  : "fillesuniques_1.jpg",
             "volumes": 2,
             "still_going": true,
-            "description" : "Série jeunesse où des filles à problèmes se réunissent pour essayer de les régler un à un. Le côté littérature pour ados se fait un peu sentir par moment mais les filles ont quand même des personnalités pétillatnes et font face à des problématiques intéressantes. Graphiquement, le style un peu manga marche très bien. On regrettera juste que chaque tome soit si court, on aimerait les voir interragir plus souvent.",
+            "description" : "Série jeunesse où des filles à problèmes se réunissent pour essayer de les régler un à un. Le côté littérature pour ados se fait un peu sentir par moment mais les filles ont quand même des personnalités pétillantes et font face à des problématiques intéressantes. Graphiquement, le style un peu manga marche très bien. On regrettera juste que chaque tome soit si court, on aimerait les voir interagir davantage.",
 
             "added_date" : "2021-06-28",
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "tranche de vie", "drame", "lycéens" ]
+            "tags" : [ "BD", "tranche de vie", "jeunesse", "drame", "lycéens" ]
         },
         {
             "name" : "Nuit Couleur Larme",
@@ -1739,7 +1736,7 @@
             "name" : "Et à la fin, ils meurent",
             "author" : "Lou Lubie",
             "image"  : "Et-a-la-fin-ils-meurent.jpg",
-            "description" : "TODO",
+            "mkdw" : "mkdw/etalafinilsmeurent.md",
 
             "added_date" : "2021-11-28",
             "owned"     : true,
@@ -1775,7 +1772,7 @@
             "name" : "Le château des étoiles",
             "author" : "Alex Alice",
             "image"  : "le_chateau_des_etoiles.jpg",
-            "description" : "TODO",
+            "description" : "Une histoire à la Jules Verne où des enfants embarquent dans une mongolfière spaciale pour aller percer les mystères de l'éther. On est évidemment pas sur de la hard science.",
             "volumes": 6,
 
             "added_date" : "2021-11-28",
@@ -1839,10 +1836,9 @@
         {
             "name" : "En proie au silence",
             "author" : "Akane Torikai",
+            "volumes":8,
             "image"  : "en-proie-au-silence.jpg",
-
-            "description" : "TODO",
-
+            "mkdw":"mkdw/enproieausilence.md",
             "added_date" : "2021-11-28",
             "owned"     : true,
             "rented_by" : null,
@@ -1904,13 +1900,12 @@
         },
         {
             "name" : "Slaine",
-            "author" : "",
-            "image"  : "",
+            "author" : "Pat Mills & Simon Bisley",
+            "image"  : "slaine.jpg",
 
             "volumes": 4,
-            "description" : "Prêté par Matthieu prod",
+            "description" : "Suce ma hache ! Yeux sans vie, crânes fracassés, carcasses empilées… voilà des mots qui me sont plaisants !<br /><br />Sorte de Conan le Barbare version mythologie Celte, Slaine c'est surtout fascinant pour les yeux, chaque case dessinée par Bisley étant une petite oeuvre d'art.<br /><br />Prêté par Matthieu prod.",
 
-            "hide" : true,
             "added_date" : "2021-11-28",
             "owned"     : false,
             "rented_by" : null,
@@ -2093,7 +2088,7 @@
             "name" : "Donald's Happiest Adventures",
             "author" : "Lewis Trondheim & Keramidas",
             "image"  : "donaldhappiestadventures.jpg",
-            "description" :"TODO",
+            "mkdw":"mkdw/donald.md",
             "added_date" : "2022-03-04",
             "owned"     : true,
             "rented_by" : null,
@@ -2152,6 +2147,26 @@
             "owned"     : true,
             "rented_by" : null,
             "tags" : [ "comics", "ados", "tranche de vie" ]
+        },
+        {
+            "name" : "Voleuse",
+            "author" : "Lucie Bryon",
+            "image"  : "voleuse.jpg",
+            "added_date" : "2022-03-03",
+            "mkdw":"mkdw/voleuse.md",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "jeunes adultes", "tranche de vie", "lgbtqr+" ]
+        },
+        {
+            "name" : "Ce que nous sommes",
+            "author" : "Zep",
+            "image"  : "cequenoussommes.jpg",
+            "added_date" : "2022-03-16",
+            "mkdw": "mkdw/cequenoussommes.md",
+            "owned"     : true,
+            "rented_by" : null,
+            "tags" : [ "BD", "scifi" ]
         }
     ]
 }
