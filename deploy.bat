@@ -7,5 +7,5 @@ cd dist
 
 git add -A
 git commit -m "deploy"
-git push git@github.com:Lugburz/marmott.git master:gh-pages
+git push -f git@github.com:Lugburz/marmott.git master:gh-pages
 cd ..
