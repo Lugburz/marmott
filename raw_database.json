@@ -795,6 +795,7 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
+            "rented_by": "Mag",
 
             "tags" : ["manga","horreur","surnaturel","couple"]
         },
@@ -927,13 +928,11 @@
             "name" : "Le prix du reste de ma vie",
             "author" : "Miaki Sugaru & Taguchi Shouichi",
             "image"  : "Le-Prix-du-reste-de-ma-vie.jpg",
-
+            "volumes": 3,
             "description" : "TODO.",
-
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
-
             "tags" : [ "manga", "drame", "romance", "jeune adulte"]
         },
         {
@@ -2060,7 +2059,7 @@
             "name" : "Castelmaure",
             "author" : "Lewis Trondheim & Alfred",
             "image"  : "castelmaure.jpg",
-            "description" :"Un Roi a disparu, des naissances étranges, une sorcière... La base d'un bon petit conte de fées, et le talent de narration qui va avec pour FAIRE de Castelmaure un <em>classique&trade;</em>.",
+            "description" :"Un Roi disparu, des naissances étranges, une sorcière... La base d'un bon petit conte de fées, et le talent de narration qui va avec pour faire de Castelmaure un <em>classique&trade;</em>.",
             "added_date" : "2022-03-03",
             "owned"     : true,
             "rented_by" : null,
@@ -2190,7 +2189,7 @@
             "author" : "Edgar Camacho",
             "image"  : "acacia22.jpg",
             "added_date" : "2022-03-16",
-            "description" : "TODO",
+            "description" : "TODO.",
             "owned"     : true,
             "rented_by" : null,
             "tags" : [ "BD", "aucune idée", "backlog" ]
