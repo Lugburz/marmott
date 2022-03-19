@@ -1056,7 +1056,7 @@
             "author" : "Leiji Matsumoto",
             "image"  : "galaxyexpress.jpg",
             "volumes" : 21,
-            "mkdw" : "mkdw/galaxyexpress999.md",
+            "description" : "WIP mkdw/galaxyexpress999.md",
 
             "added_date" : "2021-04-19",
             "owned"     : false,
