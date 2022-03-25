@@ -1,0 +1,7 @@
+> *&ldquo; Tu lui a pris sa gloire et son rang. Elle, abandonnée, s'est pendue. La vie est ainsi &rdquo;*
+
+Tomura Toshiko est une femme talentueuse, trop peut-être. Artiste peintre, auteure ou interprête, elle enchaîne les récompenses dans tous les domaines artistiques, car Toshiko possède un talent unique et indéniable : un mimétisme surhumain qui lui vaut son titre de *Femme Insecte*. L'idée est simple, si Toshiko passe quelques mois avec un artiste, elle absorbera naturellement tout son talent, saura imiter l'intégralité de son style voire même le révolutionner au point de ridiculiser le plus ambitieux des compositeurs, le plus préstigieux des acteurs, le plus vaniteux des auteurs.
+
+De ce talent, la *Femme Insecte* abuse volontiers. Elle ne veut pas simplement dépasser le maître, elle veut que ce dernier tombe dans l'oubli, que seul son nom à elle demeure. Coqueluche des médias, elle se fera plus discrète lorsque la presse et la police s'intéressont au suicide de sa dernière colocataire, jeune auteure en devenir qui était prête à publier son premier best-seller, jusqu'à ce que Toshiko ne le publie à sa place.
+
+Tezuka nous livre ici le profil d'une criminelle aussi détestable qu'admirable. En 362 pages on va tantôt tomber amoureux du génie de Toshiko, tantôt la détester, mais elle restera toujours fascinante et imprévisible.

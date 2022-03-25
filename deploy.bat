@@ -1,7 +1,11 @@
 @REM First, store .git which "npm run build" will remove eventually
 xcopy dist\.git dist_git\.git /i /s
-@RD /S /Q dist\.git
 
+@REM Build as usual
+nmp run build
+
+@REM get back .git folder
+xcopy dist_git\.git dist\.git /i /s
 
 cd dist
 

@@ -1,6 +1,4 @@
-Peut-être la plus compliquée de mes reviews, tant j'adore cette oeuvre sans pouvoir mettre le doigt sur le *pourquoi*.
-
-Je n'ai pas grandi avec l'univers de Mastumoto, que ce soit Albator ou Galaxy Express 999. Je m'y suis aventuré hazardeusement, par *Capitaine Albator* d'abord mais surtout par *Queen Emeraldas* et *24 histoires d'un Temps lointain*. Ces trois oeuvres représentent assez bien la démarche artistique de l'auteur, aussi vais-je faire une critique globale du Leiijiverse ici. Et il faut des couilles en titane pour faire ça.
+Je n'ai pas grandi avec l'univers de Mastumoto, que ce soit Albator ou Galaxy Express 999. Je m'y suis aventuré hazardeusement, par *Capitaine Albator* d'abord mais surtout par *Queen Emeraldas* et *24 histoires d'un Temps lointain*. Ces trois oeuvres représentent assez bien la démarche artistique de l'auteur, aussi vais-je faire une critique globale du Leiijiverse ici. 
 
 ### Albator et Emeraldas : Mythe et Conte
 

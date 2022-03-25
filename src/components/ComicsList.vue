@@ -52,8 +52,7 @@
                         (série en cours)
                     </template>
                 </span>
-                <div class="comic-text" v-html="comic.description">
-                </div>
+                <ComicsDescription v-bind:content="comic.description" />
                 <div class="comic-tags">
                     <span v-for="tag in comic.tags" class="comic-tag" data-tag="tag" v-bind:key="tag">
                         <a v-html="tag" v-on:click="onAddFilter(tag, true)" ></a>
@@ -65,9 +64,14 @@
 </template>
 
 <script>
+// include whole database.json as a variable
 import database from "../assets/database.json"
+import ComicsDescription from "./ComicsDescription.vue"
 
 export default {
+    components : {
+        ComicsDescription
+    },
     name: 'ComicsList',
     data: function() {
         // force comics type first

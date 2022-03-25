@@ -940,13 +940,13 @@
             "author" : "Osamu Tezuka",
             "image"  : "La-Femme-insecte.jpg",
 
-            "description" : "TODO.",
+            "mkdw" : "mkdw/lafemmeinsecte.md",
 
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : ["manga", "drame", "polar", "jeune adulte", "must read"]
+            "tags" : [ "manga", "polar", "seinen", "must read" ]
         },
         {
             "name" : "MW",
@@ -1678,17 +1678,17 @@
             "tags" : [ "comics", "marvel", "superhéros", "panini", "backlog" ]
         },
         {
-            "name" : "Nausicaa de la vallée du vent",
+            "name" : "Nausicaa de la Vallée du Vent",
             "author" : "Hayao Miyazaki",
             "image"  : "nausicaa.jpg",
-            "description" : "TODO",
+            "mkdw"   : "mkdw/nausicaa.md",
             "volumes" : 7,
 
             "added_date" : "2021-11-28",
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "classique", "post-apo", "must read" ]
+            "tags" : [ "manga", "classique", "post-apo", "must read", "shonen" ]
         },
         {
             "name" : "La Reina Orquidea",
@@ -2020,7 +2020,7 @@
         {
             "name" : "Akira",
             "author" : "Katsuhiro Otomo",
-            "image"  : "akira.jpg",
+            "image"  : "akira.jpeg",
             "volumes": 6,
 
             "description" : "TODO.",
@@ -2193,6 +2193,24 @@
             "owned"     : true,
             "rented_by" : null,
             "tags" : [ "BD", "aucune idée", "backlog" ]
+        },
+        {
+            "name" : "Blonde Platine",
+            "author" : "TODO",
+            "image"  : "blondeplatine.jpg",
+            "added_date" : "2022-03-16",
+            "mkdw" : "mkdw/blondeplatine.md",
+            "owned"     : false,
+            "tags" : [ "comics", "tranche de vie", "school life", "sexualité", "jeune adulte", "passage à l'âge adulte" ]
+        },
+        {
+            "name" : "La Mer Verticale",
+            "author" : " Brian Freschi & Ilaria Urbinati ",
+            "image"  : "lamerverticale.jpg",
+            "added_date" : "2022-03-16",
+            "mkdw" : "mkdw/lamerverticale.md",
+            "owned"     : true,
+            "tags" : [ "comics", "tranche de vie", "jeune adulte", "handicap", "harcèlement" ]
         }
     ]
 }
