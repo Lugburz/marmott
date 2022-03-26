@@ -1,3 +1,7 @@
+body {
+    background-image: url(img/other/texture_paper.png);
+}
+
 .comics-list-item {
     display: flex;
     flex-direction: row;
