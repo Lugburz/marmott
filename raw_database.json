@@ -43,7 +43,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "polar", "tranche de vie"]
+            "tags" : [ "BD", "polar", "tranche de vie", "dédicacé"]
         },
         {
             "name" : "Lupus",
@@ -142,9 +142,9 @@
 
             "added_date" : "2019-10-19",
             "owned"     : true,
-            "rented_by" : "Sylvain (tome 2), Jérémy (tome 3)",
+            "rented_by" : "Sylvain (tome 2)",
 
-            "tags" : ["BD", "scifi", "série", "pew pew"]
+            "tags" : ["BD", "scifi", "série", "pew pew", "dédicacé"]
             
         },
         {
@@ -158,7 +158,7 @@
             "added_date" : "2019-10-19",
             "owned"     : true,
 
-            "tags" : ["BD", "tranche de vie", "jeune adulte", "must read" ]
+            "tags" : ["BD", "tranche de vie", "jeune adulte", "must read", "dédicacé" ]
             
         },
         {
@@ -999,7 +999,7 @@
             "added_date" : "2021-04-19",
             "owned"     : true,
 
-            "tags" : [ "comics", "classique", "dystopie", "must read" ]
+            "tags" : [ "comics", "classique", "dystopie", "must read", "dédicacé" ]
         },
         {
             "name" : "Joker",
@@ -1256,7 +1256,7 @@
             "tags" : [ "manga", "anglais", "horreur", "surnaturel", "psychologique", "glauque", "must read" ]
         },
         {
-            "name" : "Love × Dilemma",
+            "name" : "Love x Dilemma",
             "author" : "Sasuga Kei",
             "image"  : "lovexdillema.jpg",
             "volumes": 28,
@@ -1410,7 +1410,7 @@
             "added_date" : "2021-04-19",
             "owned"     : true,
             "rented_by" : null,
-            "tags" : [ "BD", "manga", "leijiverse", "espace", "onirique" ]
+            "tags" : [ "BD", "manga", "leijiverse", "espace", "onirique", "dédicacé" ]
         },
         {
             "name" : "Le Joli Coco",
@@ -1515,7 +1515,7 @@
 
             "added_date" : "2021-04-22",
             "owned"     : true,
-            "rented_by" : "David",
+            "rented_by" : null,
 
             "tags" : [ "comics", "superman", "DC", "meh" ]
         },
@@ -1773,7 +1773,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "backlog" ]
+            "tags" : [ "BD", "backlog", "dédicacé" ]
         },
         {
             "name" : "Les Chimères de Venus",
@@ -1787,7 +1787,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "backlog" ]
+            "tags" : [ "BD", "backlog", "dédicacé" ]
         },
         {
             "name" : "Prendre refuge",
@@ -1876,7 +1876,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "BD", "backlog" ]
+            "tags" : [ "BD", "backlog", "dédicacé" ]
         },
         {
             "name" : "BADASS",
@@ -1890,7 +1890,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "comics", "backlog" ]
+            "tags" : [ "comics", "backlog", "dédicacé" ]
         },
         {
             "name" : "Slaine",
@@ -1944,7 +1944,7 @@
             "added_date" : "2021-12-05",
             "owned"     : false,
             "rented_by" : null,
-            "tags" : [ "BD", "jeune adulte", "backlog" ]
+            "tags" : [ "BD", "jeune adulte", "backlog", "dédicacé" ]
         },
         {
             "name" : "Macanudo N°13",
@@ -1974,7 +1974,7 @@
             "added_date" : "2021-12-05",
             "owned"     : true,
             "rented_by" : null,
-            "tags" : [ "BD", "fantastique", "surnaturel" ]
+            "tags" : [ "BD", "fantastique", "surnaturel", "dédicacé" ]
         },
         {
             "name" : "La fin du monde avant le lever du jour",
@@ -2020,7 +2020,7 @@
         {
             "name" : "Akira",
             "author" : "Katsuhiro Otomo",
-            "image"  : "akira.jpeg",
+            "image"  : "akira.jpg",
             "volumes": 6,
 
             "description" : "TODO.",
@@ -2098,7 +2098,7 @@
             "added_date" : "2022-03-04",
             "owned"     : true,
             "rented_by" : null,
-            "tags" : [ "BD", "polar", "Marseille" ]
+            "tags" : [ "BD", "polar", "Marseille", "dédicacé" ]
         },
         {
             "name" : "Spider-man - Révélations",
@@ -2182,7 +2182,7 @@
             "description" : "Prévu en 3 ou 4 tomes. TODO",
             "owned"     : true,
             "rented_by" : null,
-            "tags" : [ "BD", "fantastique", "gore", "mignon" ]
+            "tags" : [ "BD", "fantastique", "gore", "mignon", "dédicacé" ]
         },
         {
             "name" : "Acacia 22",

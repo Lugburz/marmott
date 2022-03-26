@@ -2,7 +2,7 @@
 xcopy dist\.git dist_git\.git /i /s
 
 @REM Build as usual
-nmp run build
+npm run build
 
 @REM get back .git folder
 xcopy dist_git\.git dist\.git /i /s
