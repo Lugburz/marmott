@@ -82,8 +82,8 @@ export default {
                 const urlParams = new URLSearchParams(queryString);
                 let additional_tags = urlParams.get('tag');
 
-                additional_tags = additional_tags ? additional_tags.split(',') :  [];
-                additional_tags.forEach(tag => this.onAddFilter(tag) );
+                var other_tags = additional_tags ? additional_tags.split(',') :  [];
+                other_tags.forEach(tag => this.onAddFilter(tag) );
             }
             return this.comics.filter((comic) => {
                 let match = 1;
@@ -95,9 +95,10 @@ export default {
                         match = match && (intags || intitle);
                     } else {
                         let intags = comic.tags.indexOf(f) > -1; 
-                        let intitle = comic.name.toLowerCase().indexOf(f.toLowerCase()) > -1;
-                        match = match && (intags || intitle);
+                        match = match && intags;
                     }
+                    // to return false and exit early if we already matched 
+                    return !match;
                 });
                 return match;
             } );

@@ -922,7 +922,7 @@
             "owned"     : true,
             "rented_by" : null,
 
-            "tags" : [ "manga", "humour", "80's", "série", "backlog"]
+            "tags" : [ "manga", "humour", "90's", "série", "backlog"]
         },
         {
             "name" : "Le prix du reste de ma vie",
@@ -1855,6 +1855,8 @@
         {
             "name" : "47 cordes",
             "author" : "Timothée Le Boucher",
+            "still_going": true,
+            "volumes": 1,
             "image"  : "47cordes.jpg",
 
             "description" : "TODO",
@@ -2192,7 +2194,7 @@
             "description" : "TODO.",
             "owned"     : true,
             "rented_by" : null,
-            "tags" : [ "BD", "aucune idée", "backlog" ]
+            "tags" : [ "BD", "tranche de vie", "one shot" ]
         },
         {
             "name" : "Blonde Platine",
@@ -2210,7 +2212,17 @@
             "added_date" : "2022-03-16",
             "mkdw" : "mkdw/lamerverticale.md",
             "owned"     : true,
-            "tags" : [ "comics", "tranche de vie", "jeune adulte", "handicap", "harcèlement" ]
+            "tags" : [ "BD", "tranche de vie", "jeune adulte", "handicap", "harcèlement" ]
+        },
+        {
+            "name" : "Maison Ikkoku",
+            "author" : " Rumiko Takamashi",
+            "volumes": 8,
+            "image"  : "maisonikkoku.jpg",
+            "added_date" : "2022-03-24",
+            "description" : "Manga dont est tiré l'animé <em>\"Juliette je t'aime\"</em>.",
+            "owned"     : true,
+            "tags" : [ "manga", "tranche de vie", "humour" ]
         }
     ]
 }
