@@ -33,6 +33,13 @@
 // include whole database.json as a variable
 import database from "../assets/database.json"
 import ComicsDescription from "./ComicsDescription.vue"
+var comics;
+if(document.location.toString().indexOf("hentai") >= 0) {
+    comics = database["hentais"];
+} else {
+    comics = database["comics"];
+} 
+
 
 export default {
     components : {
@@ -44,7 +51,7 @@ export default {
         let tags = ['BD', 'manga', 'comics'];
         
         // get appearences for all tags
-        let tags_appearences = database["comics"].reduce((acc, comic) => {
+        let tags_appearences = comics.reduce((acc, comic) => {
             comic.tags.forEach(tag => {
                 if(tag == "BD" || tag == "manga" || tag == "comics") return;
                 if(!acc[tag])
@@ -60,7 +67,7 @@ export default {
         );
 
         // add authors as comics tags (not global tags though) 
-        let content = database["comics"]
+        let content = comics
             .filter(comic => !comic.hide)
             .map((comic) => {
                 comic.tags.push( ...comic.author.split(' & ') );
