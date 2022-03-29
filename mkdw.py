@@ -16,3 +16,13 @@ with open('./raw_database.json', encoding='utf-8') as fh:
 	with codecs.open('src/assets/database.json', 'w', 'utf-8') as output:
 		json_string = json.dumps(data, ensure_ascii=False)
 		output.write(json_string)
+		
+# pfff  to improve so badly
+	for comic in data['hentais']:
+		if 'mkdw' in comic:
+			with open("src/assets/" + comic['mkdw'], encoding='utf-8') as fh_mkdw:
+				comic['description'] = markdown.markdown( fh_mkdw.read() )
+			comic.pop('mkdw')
+	with codecs.open('src/assets/database.json', 'w', 'utf-8') as output:
+		json_string = json.dumps(data, ensure_ascii=False)
+		output.write(json_string)
