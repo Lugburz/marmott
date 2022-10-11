@@ -4,8 +4,13 @@ from os import listdir
 import os
 import codecs
 
+# little trick for global file watcher
+file_path = os.path.realpath(__file__)
+dirname = os.path.dirname(file_path)
+os.chdir(dirname)
+
 # read raw_database.json to find "mkdw" and replace description with its computed html
-# saves result as file "database.js"
+# saves result as file "database.json"
 with open('./raw_database.json', encoding='utf-8') as fh:
 	data = json.load(fh)
 	for comic in data['comics']:

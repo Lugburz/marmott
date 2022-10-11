@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=miAnOcZTkr0
+<a href="https://www.youtube.com/watch?v=miAnOcZTkr0" target="_blank">Musique d'ambiance</a>
 
 An 20XX, fin du monde. Dans un bunker deux hommes réfléchissent aux bases d'une société nouvelle. Communisme ou capitalisme, c'est le moment de faire table rase et repartir sur des bases saines. Discution futile, puisqu'ils sont les seuls survivants et sont deux hommes.
 

@@ -34,7 +34,7 @@
 import database from "../assets/database.json"
 import ComicsDescription from "./ComicsDescription.vue"
 var comics;
-if(document.location.toString().indexOf("hentai") >= 0) {
+if(document.location.toString().indexOf("/hentai") >= 0) {
     comics = database["hentais"];
 } else {
     comics = database["comics"];
