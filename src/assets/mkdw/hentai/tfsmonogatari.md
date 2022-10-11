@@ -1,0 +1,6 @@
+Un lycéen se transforme en fille du jour au lendemain après une opération random. Pire encore, ce changement de sexe semble avoir mis sa garonne perpétuellement en crue... notre héro-ïne a des besoins constants et ne sait plus comment les combler. Sucer tous ses potes entre midi et deux ne suffit plus, elle commence à se laisser aborder par n'importe qui. Une main aux fesses dans le métro ? Fais pas ton timide, viole moi publiquement, j'attends que ça. 
+
+Encore une histoire de gender-swap typiquement écrite par un homme. Encore une histoire qui crie "non mais j'aimerais sucer des queues que si j'étais une meuf, et j'aimerais bien en être une, mais sinon je suis hétéro". L'érotisme du changement de sexe est très bien abordé au début, mais perd en saveur lorsque l'héroïne devient une bedaine à foutre itinérante.
+
+La fin en particulier me laisse perplexe, le choix d'une shemale comme véritable amour m'intrigue assez. Est-ce qu'au final elle n'aimait que les bites, quelque soit le corps qui la porte ? Est-ce qu'au final le corps d'une femme est tout ce qui compte ? Je réfléchis sans doute trop, mais j'ai lu ça après Yurisis, dont la conclusion semblait déjà être *"lesbienne ou pas il vous faut de la verge midi matin et soir"*. Du coup je sais pas.
+            
